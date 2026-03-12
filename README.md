@@ -1,4 +1,4 @@
-# HEDIS Performance Analytics — Improved AUC Edition
+# HEDIS Performance Analytics 
 
 > End-to-end machine learning pipeline for predicting HEDIS care gap compliance, with optimized AUC modeling, per-measure training, and executive dashboards.
 
@@ -8,7 +8,6 @@
 
 - [Overview](#overview)
 - [Features](#features)
-- [AUC Improvements](#auc-improvements)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Notebook Sections](#notebook-sections)
@@ -22,12 +21,12 @@
 
 ## Overview
 
-This project demonstrates a full data science workflow applied to **synthetic member-level HEDIS (Healthcare Effectiveness Data and Information Set)** data. It is designed to help healthcare analysts and data scientists:
+This project demonstrates a full data science workflow applied to synthetic member-level HEDIS (Healthcare Effectiveness Data and Information Set) data. It is designed to help healthcare analysts and data scientists:
 
-- Identify members at risk of **missing HEDIS care gaps**
-- Build and compare ML models that predict **compliance likelihood**
-- Generate actionable insights benchmarked against **NCQA national standards**
-- Visualize trends, gaps, and performance via an **executive KPI dashboard**
+- Identify members at risk of missing HEDIS care gaps
+- Build and compare ML models that predict compliance likelihood
+- Generate actionable insights benchmarked against NCQA national standards
+- Visualize trends, gaps, and performance via an executive KPI dashboard
 
 >  All data in this project is **synthetic** and does not represent real patient information.
 
@@ -35,7 +34,7 @@ This project demonstrates a full data science workflow applied to **synthetic me
 
 ## Features
 
-- **Exploratory Data Analysis** — Compliance rates by measure, line of business, region, and demographics
+- **Exploratory Data Analysis — Compliance rates by measure, line of business, region, and demographics
 -  **Improved Feature Engineering** — One-hot encoding, interaction features, age bins, centered year
 -  **Multi-Model ML** — Logistic Regression, Random Forest, XGBoost, LightGBM
 - **ROC Curve Visualization** — Side-by-side AUC comparison across all models
@@ -68,7 +67,7 @@ hedis-performance-analytics/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/hedis-performance-analytics.git
+git clone https://github.com/rnehareddy74/hedis-performance-analytics.git
 cd hedis-performance-analytics
 ```
 
