@@ -1,0 +1,2640 @@
+Member_ID,Measure_Code,Measure_Domain,Plan,LOB,Gender,Age,Region,Exclusion,Rate_Year,In_Numerator,In_Denominator
+M000001,FUH7,Behavioral,Medicaid,Medicaid,M,33,West,0,2022,1,1
+M000002,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,F,81,Northeast,0,2024,0,1
+M000003,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,M,78,Southeast,0,2022,1,1
+M000004,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,F,27,West,0,2024,1,1
+M000005,CDC-KED,Diabetes,Medicaid,Medicaid,M,43,Southwest,0,2024,0,1
+M000006,AMM,Behavioral,Commercial PPO,Commercial,M,23,Northeast,0,2024,0,1
+M000007,AMM,Behavioral,Exchange,Exchange,F,75,Northeast,1,2023,1,1
+M000008,CBP,Cardiovascular,Medicaid,Medicaid,M,26,Southeast,0,2022,1,1
+M000009,FUH7,Behavioral,Commercial PPO,Commercial,M,67,Southeast,0,2024,1,1
+M000010,CBP,Cardiovascular,Commercial PPO,Commercial,F,21,Southwest,0,2022,1,1
+M000011,COL,Preventive,Exchange,Exchange,M,29,West,0,2024,0,1
+M000012,AMM,Behavioral,Medicare Advantage,Medicare,M,67,Midwest,0,2022,1,1
+M000013,CBP,Cardiovascular,Medicare Advantage,Medicare,M,75,West,0,2024,1,1
+M000014,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,22,West,0,2023,1,1
+M000015,CBP,Cardiovascular,Commercial PPO,Commercial,F,45,Northeast,0,2022,0,1
+M000016,CBP,Cardiovascular,Medicare Advantage,Medicare,M,67,Southwest,0,2022,1,1
+M000017,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,M,78,Southwest,0,2022,1,1
+M000018,FUH7,Behavioral,Medicaid,Medicaid,M,62,Northeast,0,2023,1,1
+M000019,CCS,Preventive,Medicare Advantage,Medicare,M,39,Southwest,0,2024,1,1
+M000020,CDC-EYE,Diabetes,Medicaid,Medicaid,M,58,Southwest,0,2024,0,1
+M000021,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,F,48,Northeast,0,2023,1,1
+M000022,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,F,71,Midwest,0,2024,0,1
+M000023,COL,Preventive,Medicaid,Medicaid,M,18,Midwest,0,2024,1,1
+M000024,CBP,Cardiovascular,Medicare Advantage,Medicare,F,48,West,0,2024,1,1
+M000025,CDC-KED,Diabetes,Medicaid,Medicaid,F,75,Northeast,0,2024,1,1
+M000026,CCS,Preventive,Medicaid,Medicaid,F,33,Southwest,0,2023,0,1
+M000027,W34,Child/Adolescent,Medicaid,Medicaid,F,66,Southwest,0,2024,1,1
+M000028,CDC-EYE,Diabetes,Commercial HMO,Commercial,M,45,Midwest,0,2022,0,1
+M000029,BCS,Preventive,Medicare Advantage,Medicare,F,36,Northeast,0,2024,1,1
+M000030,W34,Child/Adolescent,Commercial HMO,Commercial,F,38,Northeast,0,2022,1,1
+M000031,CBP,Cardiovascular,Medicaid,Medicaid,M,20,Southeast,0,2023,1,1
+M000032,FUH7,Behavioral,Commercial HMO,Commercial,M,28,Southwest,0,2022,1,1
+M000033,CDC-HbA1c,Diabetes,Exchange,Exchange,F,75,West,0,2022,1,1
+M000034,COL,Preventive,Commercial HMO,Commercial,F,56,Southwest,0,2023,0,1
+M000035,CDC-EYE,Diabetes,Exchange,Exchange,M,43,Midwest,0,2024,0,1
+M000036,CDC-EYE,Diabetes,Commercial HMO,Commercial,F,48,Southeast,0,2024,1,1
+M000037,CBP,Cardiovascular,Exchange,Exchange,M,55,Midwest,0,2024,0,1
+M000038,CDC-EYE,Diabetes,Commercial PPO,Commercial,F,82,Southeast,0,2022,0,1
+M000039,CCS,Preventive,Medicare Advantage,Medicare,M,77,Northeast,0,2023,1,1
+M000040,COL,Preventive,Exchange,Exchange,F,56,West,0,2023,0,1
+M000041,CCS,Preventive,Commercial HMO,Commercial,F,67,West,0,2023,1,1
+M000042,CDC-KED,Diabetes,Commercial HMO,Commercial,M,56,Midwest,0,2023,0,1
+M000043,AMM,Behavioral,Exchange,Exchange,F,62,West,0,2022,1,1
+M000044,FUH7,Behavioral,Medicare Advantage,Medicare,M,69,Northeast,0,2022,0,1
+M000045,CDC-EYE,Diabetes,Exchange,Exchange,M,65,Southeast,0,2024,0,1
+M000046,W34,Child/Adolescent,Medicare Advantage,Medicare,M,28,West,0,2024,0,1
+M000047,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,36,Southeast,0,2024,1,1
+M000048,CDC-HbA1c,Diabetes,Exchange,Exchange,M,23,Southeast,0,2024,1,1
+M000049,FUH7,Behavioral,Medicaid,Medicaid,F,28,West,0,2022,1,1
+M000050,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,F,38,Southwest,0,2024,1,1
+M000051,W34,Child/Adolescent,Medicaid,Medicaid,M,26,Southwest,0,2023,0,1
+M000052,FUH7,Behavioral,Medicaid,Medicaid,F,22,Midwest,0,2023,0,1
+M000053,BCS,Preventive,Medicare Advantage,Medicare,M,57,Northeast,0,2024,1,1
+M000054,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,F,74,Southwest,0,2023,1,1
+M000055,COL,Preventive,Exchange,Exchange,F,82,Southeast,1,2023,0,1
+M000056,CDC-KED,Diabetes,Commercial PPO,Commercial,F,76,Midwest,0,2023,1,1
+M000057,W34,Child/Adolescent,Medicare Advantage,Medicare,M,21,Northeast,0,2023,1,1
+M000058,CBP,Cardiovascular,Medicaid,Medicaid,F,39,West,0,2023,0,1
+M000059,COL,Preventive,Exchange,Exchange,M,68,Midwest,0,2022,1,1
+M000060,FUH7,Behavioral,Commercial HMO,Commercial,M,58,West,0,2022,1,1
+M000061,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,F,37,Midwest,0,2024,1,1
+M000062,CCS,Preventive,Exchange,Exchange,F,32,Southwest,0,2023,1,1
+M000063,W34,Child/Adolescent,Commercial HMO,Commercial,F,42,Midwest,0,2023,1,1
+M000064,COL,Preventive,Commercial PPO,Commercial,F,49,Southeast,0,2022,0,1
+M000065,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,M,67,Southwest,0,2023,0,1
+M000066,CCS,Preventive,Commercial HMO,Commercial,F,31,Southwest,0,2024,0,1
+M000067,BCS,Preventive,Medicare Advantage,Medicare,M,55,Midwest,0,2023,1,1
+M000068,BCS,Preventive,Medicaid,Medicaid,F,31,Northeast,0,2024,1,1
+M000069,CDC-KED,Diabetes,Exchange,Exchange,M,80,Southeast,0,2022,1,1
+M000070,CDC-KED,Diabetes,Commercial HMO,Commercial,M,36,Midwest,0,2022,1,1
+M000071,CDC-HbA1c,Diabetes,Medicaid,Medicaid,M,21,Northeast,0,2023,1,1
+M000072,CDC-KED,Diabetes,Medicare Advantage,Medicare,M,30,Southeast,0,2022,1,1
+M000073,W34,Child/Adolescent,Exchange,Exchange,M,33,Midwest,0,2022,1,1
+M000074,COL,Preventive,Medicare Advantage,Medicare,M,66,Northeast,0,2023,0,1
+M000075,BCS,Preventive,Commercial HMO,Commercial,M,49,Southwest,0,2022,0,1
+M000076,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,M,80,Southwest,0,2024,1,1
+M000077,AMM,Behavioral,Exchange,Exchange,M,57,Southeast,0,2024,1,1
+M000078,W34,Child/Adolescent,Medicare Advantage,Medicare,M,22,West,0,2022,1,1
+M000079,FUH7,Behavioral,Medicare Advantage,Medicare,M,28,Midwest,0,2024,0,1
+M000080,BCS,Preventive,Commercial PPO,Commercial,M,72,Northeast,0,2023,1,1
+M000081,COL,Preventive,Exchange,Exchange,F,34,Northeast,1,2024,0,1
+M000082,W34,Child/Adolescent,Medicaid,Medicaid,M,20,Midwest,0,2023,1,1
+M000083,BCS,Preventive,Commercial PPO,Commercial,F,49,Northeast,0,2024,1,1
+M000084,AMM,Behavioral,Commercial HMO,Commercial,M,34,Midwest,1,2022,0,1
+M000085,BCS,Preventive,Exchange,Exchange,F,73,West,0,2023,1,1
+M000086,AMM,Behavioral,Commercial HMO,Commercial,M,45,Northeast,0,2023,0,1
+M000087,COL,Preventive,Exchange,Exchange,F,34,Southeast,0,2024,1,1
+M000088,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,M,30,Southwest,0,2022,0,1
+M000089,BCS,Preventive,Exchange,Exchange,F,66,Northeast,0,2023,1,1
+M000090,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,M,28,West,0,2024,1,1
+M000091,CDC-KED,Diabetes,Medicaid,Medicaid,M,70,Midwest,0,2023,1,1
+M000092,CCS,Preventive,Commercial PPO,Commercial,M,71,West,0,2024,1,1
+M000093,COL,Preventive,Exchange,Exchange,M,83,West,0,2024,1,1
+M000094,CBP,Cardiovascular,Exchange,Exchange,F,37,Northeast,0,2023,1,1
+M000095,BCS,Preventive,Exchange,Exchange,M,19,Midwest,0,2022,1,1
+M000096,BCS,Preventive,Commercial PPO,Commercial,F,23,Southwest,0,2024,1,1
+M000097,BCS,Preventive,Medicaid,Medicaid,F,71,Midwest,0,2023,0,1
+M000098,BCS,Preventive,Commercial PPO,Commercial,M,49,Midwest,0,2024,0,1
+M000099,FUH7,Behavioral,Commercial HMO,Commercial,F,26,Midwest,0,2022,1,1
+M000100,CDC-EYE,Diabetes,Medicaid,Medicaid,F,66,Midwest,0,2022,1,1
+M000101,W34,Child/Adolescent,Medicare Advantage,Medicare,M,29,Northeast,0,2024,1,1
+M000102,CCS,Preventive,Exchange,Exchange,M,40,Southwest,0,2023,1,1
+M000103,W34,Child/Adolescent,Medicaid,Medicaid,F,48,Northeast,0,2024,1,1
+M000104,AMM,Behavioral,Exchange,Exchange,M,59,Northeast,0,2023,1,1
+M000105,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,F,43,Midwest,0,2022,1,1
+M000106,COL,Preventive,Exchange,Exchange,M,41,Midwest,0,2022,1,1
+M000107,BCS,Preventive,Exchange,Exchange,F,66,Midwest,0,2023,0,1
+M000108,AMM,Behavioral,Medicaid,Medicaid,F,58,Southwest,1,2024,1,1
+M000109,AMM,Behavioral,Medicaid,Medicaid,M,57,Northeast,0,2022,1,1
+M000110,COL,Preventive,Commercial PPO,Commercial,F,47,Southwest,0,2023,0,1
+M000111,COL,Preventive,Commercial HMO,Commercial,M,37,Northeast,0,2022,1,1
+M000112,W34,Child/Adolescent,Commercial HMO,Commercial,F,36,Northeast,0,2024,1,1
+M000113,CDC-KED,Diabetes,Medicaid,Medicaid,M,57,Northeast,0,2022,1,1
+M000114,FUH7,Behavioral,Medicare Advantage,Medicare,M,34,Midwest,0,2022,1,1
+M000115,CDC-KED,Diabetes,Exchange,Exchange,F,82,Southeast,0,2024,1,1
+M000116,CDC-EYE,Diabetes,Medicaid,Medicaid,F,63,Northeast,0,2023,0,1
+M000117,W34,Child/Adolescent,Medicaid,Medicaid,M,76,Southwest,0,2024,1,1
+M000118,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,60,Northeast,0,2023,1,1
+M000119,CDC-EYE,Diabetes,Commercial HMO,Commercial,F,50,Midwest,0,2023,0,1
+M000120,CCS,Preventive,Commercial HMO,Commercial,F,80,Southeast,0,2024,1,1
+M000121,COL,Preventive,Commercial PPO,Commercial,M,29,West,0,2023,1,1
+M000122,COL,Preventive,Commercial HMO,Commercial,M,57,Midwest,0,2023,1,1
+M000123,CBP,Cardiovascular,Medicare Advantage,Medicare,M,46,West,0,2024,1,1
+M000124,CBP,Cardiovascular,Medicare Advantage,Medicare,F,20,Northeast,1,2022,0,1
+M000125,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,F,19,Southwest,0,2024,1,1
+M000126,AMM,Behavioral,Exchange,Exchange,M,69,Midwest,0,2024,0,1
+M000127,CBP,Cardiovascular,Exchange,Exchange,M,42,Northeast,0,2023,1,1
+M000128,W34,Child/Adolescent,Exchange,Exchange,F,49,Midwest,0,2022,1,1
+M000129,FUH7,Behavioral,Medicaid,Medicaid,F,32,Midwest,0,2022,1,1
+M000130,CDC-EYE,Diabetes,Commercial HMO,Commercial,M,59,Midwest,0,2024,1,1
+M000131,FUH7,Behavioral,Medicare Advantage,Medicare,M,23,Southeast,0,2023,1,1
+M000132,W34,Child/Adolescent,Commercial PPO,Commercial,F,57,Southwest,0,2023,1,1
+M000133,AMM,Behavioral,Exchange,Exchange,M,19,Southwest,0,2023,1,1
+M000134,CCS,Preventive,Medicaid,Medicaid,M,46,West,0,2023,0,1
+M000135,CCS,Preventive,Exchange,Exchange,M,19,Southwest,0,2022,1,1
+M000136,BCS,Preventive,Exchange,Exchange,F,69,Southeast,0,2023,0,1
+M000137,CDC-KED,Diabetes,Medicare Advantage,Medicare,M,47,Midwest,0,2024,1,1
+M000138,W34,Child/Adolescent,Exchange,Exchange,M,81,Southwest,0,2022,0,1
+M000139,CCS,Preventive,Commercial HMO,Commercial,F,57,Southwest,0,2024,1,1
+M000140,CBP,Cardiovascular,Commercial PPO,Commercial,M,19,Southeast,0,2024,1,1
+M000141,CBP,Cardiovascular,Commercial HMO,Commercial,F,55,Southwest,0,2024,1,1
+M000142,W34,Child/Adolescent,Commercial HMO,Commercial,F,54,West,0,2022,0,1
+M000143,CCS,Preventive,Medicare Advantage,Medicare,F,59,Midwest,0,2023,1,1
+M000144,FUH7,Behavioral,Exchange,Exchange,F,66,West,0,2024,0,1
+M000145,FUH7,Behavioral,Exchange,Exchange,M,58,Midwest,1,2023,1,1
+M000146,FUH7,Behavioral,Medicare Advantage,Medicare,F,31,Midwest,0,2023,0,1
+M000147,CDC-KED,Diabetes,Commercial PPO,Commercial,M,56,Midwest,0,2024,0,1
+M000148,FUH7,Behavioral,Commercial HMO,Commercial,F,40,Southeast,0,2024,1,1
+M000149,CCS,Preventive,Commercial HMO,Commercial,F,62,Northeast,0,2022,1,1
+M000150,FUH7,Behavioral,Medicare Advantage,Medicare,F,76,Northeast,0,2023,1,1
+M000151,CCS,Preventive,Medicare Advantage,Medicare,F,83,Midwest,0,2024,1,1
+M000152,FUH7,Behavioral,Medicare Advantage,Medicare,M,52,Southeast,0,2022,1,1
+M000153,COL,Preventive,Commercial PPO,Commercial,F,55,Midwest,0,2023,1,1
+M000154,CDC-KED,Diabetes,Medicaid,Medicaid,F,68,Southeast,0,2024,1,1
+M000155,FUH7,Behavioral,Commercial PPO,Commercial,M,57,Southwest,0,2023,1,1
+M000156,CDC-EYE,Diabetes,Exchange,Exchange,M,80,Midwest,0,2022,1,1
+M000157,BCS,Preventive,Commercial PPO,Commercial,F,21,Northeast,0,2024,0,1
+M000158,W34,Child/Adolescent,Medicaid,Medicaid,M,20,Southwest,0,2024,0,1
+M000159,FUH7,Behavioral,Commercial PPO,Commercial,M,21,West,0,2024,0,1
+M000160,CCS,Preventive,Medicare Advantage,Medicare,M,61,Southwest,0,2024,1,1
+M000161,CCS,Preventive,Medicare Advantage,Medicare,M,22,Midwest,0,2022,1,1
+M000162,COL,Preventive,Exchange,Exchange,F,33,Midwest,0,2023,0,1
+M000163,W34,Child/Adolescent,Medicaid,Medicaid,F,46,West,0,2024,1,1
+M000164,AMM,Behavioral,Commercial HMO,Commercial,F,60,Northeast,0,2024,1,1
+M000165,AMM,Behavioral,Commercial PPO,Commercial,F,69,Northeast,0,2024,0,1
+M000166,AMM,Behavioral,Medicaid,Medicaid,F,79,Southwest,0,2024,0,1
+M000167,FUH7,Behavioral,Commercial PPO,Commercial,F,64,West,0,2024,1,1
+M000168,CDC-EYE,Diabetes,Commercial HMO,Commercial,M,66,West,0,2024,1,1
+M000169,W34,Child/Adolescent,Medicaid,Medicaid,F,60,Southeast,0,2023,0,1
+M000170,CBP,Cardiovascular,Exchange,Exchange,F,66,Southwest,0,2024,1,1
+M000171,COL,Preventive,Commercial HMO,Commercial,F,69,Midwest,0,2022,0,1
+M000172,CDC-KED,Diabetes,Commercial PPO,Commercial,F,75,Southwest,0,2024,1,1
+M000173,CDC-EYE,Diabetes,Exchange,Exchange,M,18,Southwest,0,2023,1,1
+M000174,CDC-HbA1c,Diabetes,Exchange,Exchange,M,45,Southwest,0,2024,0,1
+M000175,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,M,21,Midwest,1,2024,1,1
+M000176,COL,Preventive,Commercial PPO,Commercial,M,42,Northeast,0,2024,0,1
+M000177,BCS,Preventive,Medicare Advantage,Medicare,F,54,Northeast,0,2024,1,1
+M000178,FUH7,Behavioral,Medicaid,Medicaid,M,67,Southwest,0,2024,1,1
+M000179,COL,Preventive,Exchange,Exchange,M,54,West,0,2023,0,1
+M000180,BCS,Preventive,Commercial HMO,Commercial,F,82,Northeast,0,2022,1,1
+M000181,BCS,Preventive,Exchange,Exchange,F,33,Southwest,1,2023,1,1
+M000182,CDC-EYE,Diabetes,Commercial PPO,Commercial,M,49,Midwest,0,2023,0,1
+M000183,CCS,Preventive,Exchange,Exchange,F,68,West,0,2024,0,1
+M000184,COL,Preventive,Medicaid,Medicaid,F,76,Southeast,0,2022,1,1
+M000185,AMM,Behavioral,Commercial PPO,Commercial,M,31,Southeast,0,2022,1,1
+M000186,BCS,Preventive,Commercial HMO,Commercial,F,43,Southeast,0,2024,0,1
+M000187,CDC-KED,Diabetes,Commercial HMO,Commercial,F,69,Southeast,0,2024,1,1
+M000188,COL,Preventive,Medicare Advantage,Medicare,M,31,Southeast,0,2024,1,1
+M000189,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,41,Northeast,0,2022,0,1
+M000190,CBP,Cardiovascular,Exchange,Exchange,F,81,Southwest,0,2023,0,1
+M000191,CDC-KED,Diabetes,Exchange,Exchange,F,69,Midwest,0,2022,1,1
+M000192,AMM,Behavioral,Commercial HMO,Commercial,F,80,Northeast,0,2022,1,1
+M000193,FUH7,Behavioral,Medicare Advantage,Medicare,F,45,Northeast,0,2023,0,1
+M000194,FUH7,Behavioral,Commercial PPO,Commercial,M,23,West,0,2022,1,1
+M000195,W34,Child/Adolescent,Exchange,Exchange,M,28,Southwest,0,2024,1,1
+M000196,CBP,Cardiovascular,Commercial HMO,Commercial,M,83,Southeast,0,2023,1,1
+M000197,CCS,Preventive,Exchange,Exchange,F,21,Southeast,0,2024,1,1
+M000198,CBP,Cardiovascular,Commercial PPO,Commercial,F,63,Northeast,0,2023,0,1
+M000199,CDC-KED,Diabetes,Commercial HMO,Commercial,M,55,Southwest,0,2023,1,1
+M000200,BCS,Preventive,Medicare Advantage,Medicare,F,31,Southeast,0,2022,1,1
+M000201,AMM,Behavioral,Commercial HMO,Commercial,M,58,West,0,2024,0,1
+M000202,COL,Preventive,Medicaid,Medicaid,M,60,Southwest,0,2022,1,1
+M000203,CCS,Preventive,Medicaid,Medicaid,F,84,Northeast,0,2023,1,1
+M000204,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,84,Southeast,0,2024,1,1
+M000205,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,32,West,0,2024,1,1
+M000206,CDC-KED,Diabetes,Medicaid,Medicaid,F,22,Northeast,0,2023,1,1
+M000207,AMM,Behavioral,Exchange,Exchange,F,47,Southeast,0,2024,1,1
+M000208,CDC-KED,Diabetes,Commercial HMO,Commercial,M,31,Midwest,0,2022,1,1
+M000209,CDC-KED,Diabetes,Exchange,Exchange,F,52,Southeast,0,2022,1,1
+M000210,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,F,43,Southwest,0,2023,1,1
+M000211,CBP,Cardiovascular,Commercial HMO,Commercial,M,77,West,0,2022,1,1
+M000212,BCS,Preventive,Commercial HMO,Commercial,F,32,Southwest,0,2022,1,1
+M000213,FUH7,Behavioral,Exchange,Exchange,F,66,Northeast,0,2023,1,1
+M000214,BCS,Preventive,Exchange,Exchange,M,75,West,0,2022,0,1
+M000215,CDC-KED,Diabetes,Medicaid,Medicaid,F,20,Southeast,0,2022,1,1
+M000216,BCS,Preventive,Medicaid,Medicaid,M,64,Northeast,0,2023,1,1
+M000217,W34,Child/Adolescent,Medicare Advantage,Medicare,F,20,Southwest,0,2022,1,1
+M000218,AMM,Behavioral,Commercial PPO,Commercial,F,44,Southeast,0,2022,1,1
+M000219,W34,Child/Adolescent,Commercial HMO,Commercial,F,41,Northeast,0,2022,0,1
+M000220,COL,Preventive,Commercial PPO,Commercial,F,52,West,0,2022,1,1
+M000221,COL,Preventive,Medicaid,Medicaid,M,82,Southeast,0,2024,0,1
+M000222,W34,Child/Adolescent,Commercial HMO,Commercial,M,30,Southeast,0,2023,1,1
+M000223,FUH7,Behavioral,Medicaid,Medicaid,F,70,Midwest,0,2022,1,1
+M000224,CDC-KED,Diabetes,Medicare Advantage,Medicare,M,76,West,0,2022,1,1
+M000225,CDC-KED,Diabetes,Exchange,Exchange,F,23,West,0,2024,1,1
+M000226,W34,Child/Adolescent,Commercial HMO,Commercial,M,19,Northeast,0,2024,1,1
+M000227,CCS,Preventive,Commercial HMO,Commercial,M,27,Southwest,0,2024,1,1
+M000228,COL,Preventive,Commercial PPO,Commercial,M,55,Midwest,0,2024,0,1
+M000229,FUH7,Behavioral,Exchange,Exchange,F,46,Northeast,0,2023,1,1
+M000230,AMM,Behavioral,Medicare Advantage,Medicare,M,36,West,0,2024,1,1
+M000231,AMM,Behavioral,Exchange,Exchange,M,83,Southwest,0,2024,0,1
+M000232,CDC-EYE,Diabetes,Commercial HMO,Commercial,F,65,Northeast,0,2022,1,1
+M000233,COL,Preventive,Exchange,Exchange,F,56,Southwest,0,2024,0,1
+M000234,W34,Child/Adolescent,Exchange,Exchange,M,59,Midwest,0,2022,1,1
+M000235,CDC-KED,Diabetes,Medicaid,Medicaid,M,25,Midwest,0,2023,0,1
+M000236,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,67,Midwest,0,2024,1,1
+M000237,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,M,18,West,0,2024,1,1
+M000238,AMM,Behavioral,Medicare Advantage,Medicare,M,62,Southeast,0,2023,0,1
+M000239,CDC-KED,Diabetes,Medicaid,Medicaid,M,53,Northeast,0,2024,1,1
+M000240,BCS,Preventive,Medicare Advantage,Medicare,M,34,Southwest,0,2024,1,1
+M000241,CCS,Preventive,Medicaid,Medicaid,M,46,Southeast,0,2022,1,1
+M000242,BCS,Preventive,Commercial PPO,Commercial,M,34,West,0,2023,0,1
+M000243,CDC-KED,Diabetes,Commercial PPO,Commercial,F,74,Midwest,0,2022,1,1
+M000244,AMM,Behavioral,Exchange,Exchange,M,63,Midwest,0,2022,1,1
+M000245,CDC-KED,Diabetes,Commercial HMO,Commercial,F,22,Southeast,0,2022,1,1
+M000246,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,71,Northeast,0,2023,1,1
+M000247,AMM,Behavioral,Exchange,Exchange,M,24,Midwest,0,2023,1,1
+M000248,FUH7,Behavioral,Commercial HMO,Commercial,F,47,Northeast,0,2023,1,1
+M000249,COL,Preventive,Commercial PPO,Commercial,F,69,Southeast,0,2022,1,1
+M000250,COL,Preventive,Exchange,Exchange,M,36,Southwest,0,2022,1,1
+M000251,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,56,Midwest,0,2022,1,1
+M000252,W34,Child/Adolescent,Commercial HMO,Commercial,M,81,Southwest,0,2023,1,1
+M000253,AMM,Behavioral,Commercial HMO,Commercial,F,81,West,0,2024,0,1
+M000254,COL,Preventive,Medicaid,Medicaid,F,34,Midwest,0,2024,1,1
+M000255,W34,Child/Adolescent,Commercial HMO,Commercial,M,74,Northeast,0,2024,1,1
+M000256,FUH7,Behavioral,Commercial PPO,Commercial,M,78,Midwest,0,2022,0,1
+M000257,W34,Child/Adolescent,Medicaid,Medicaid,F,36,Northeast,0,2024,1,1
+M000258,FUH7,Behavioral,Exchange,Exchange,F,83,Midwest,0,2024,1,1
+M000259,COL,Preventive,Medicaid,Medicaid,M,78,Midwest,0,2023,1,1
+M000260,W34,Child/Adolescent,Commercial HMO,Commercial,F,56,Northeast,0,2024,1,1
+M000261,FUH7,Behavioral,Commercial HMO,Commercial,M,33,Midwest,0,2023,0,1
+M000262,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,F,58,West,0,2023,0,1
+M000263,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,F,46,West,0,2024,1,1
+M000264,CCS,Preventive,Medicare Advantage,Medicare,F,81,West,0,2023,0,1
+M000265,FUH7,Behavioral,Commercial PPO,Commercial,M,67,Northeast,0,2022,0,1
+M000266,CDC-EYE,Diabetes,Commercial HMO,Commercial,M,70,Southwest,0,2022,0,1
+M000267,FUH7,Behavioral,Medicare Advantage,Medicare,M,83,Northeast,0,2023,1,1
+M000268,CCS,Preventive,Commercial PPO,Commercial,M,74,Southeast,0,2023,1,1
+M000269,BCS,Preventive,Commercial PPO,Commercial,M,68,West,0,2024,0,1
+M000270,AMM,Behavioral,Commercial HMO,Commercial,M,28,Northeast,0,2024,1,1
+M000271,COL,Preventive,Commercial HMO,Commercial,F,33,Southwest,0,2024,1,1
+M000272,CDC-KED,Diabetes,Medicare Advantage,Medicare,M,23,Southeast,0,2022,1,1
+M000273,CDC-EYE,Diabetes,Commercial PPO,Commercial,M,47,Southwest,0,2022,1,1
+M000274,CBP,Cardiovascular,Commercial PPO,Commercial,M,60,Southeast,0,2024,1,1
+M000275,FUH7,Behavioral,Commercial HMO,Commercial,M,38,Southwest,0,2022,0,1
+M000276,AMM,Behavioral,Exchange,Exchange,M,47,West,0,2024,0,1
+M000277,COL,Preventive,Exchange,Exchange,F,64,Northeast,0,2024,0,1
+M000278,CDC-KED,Diabetes,Exchange,Exchange,F,38,Midwest,0,2023,1,1
+M000279,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,67,Southwest,0,2023,1,1
+M000280,W34,Child/Adolescent,Medicare Advantage,Medicare,F,65,Southwest,0,2024,1,1
+M000281,CDC-KED,Diabetes,Medicaid,Medicaid,F,71,Midwest,0,2024,1,1
+M000282,BCS,Preventive,Commercial HMO,Commercial,F,40,West,0,2022,1,1
+M000283,FUH7,Behavioral,Medicare Advantage,Medicare,M,34,Midwest,0,2024,1,1
+M000284,CCS,Preventive,Medicare Advantage,Medicare,F,60,Southeast,0,2022,0,1
+M000285,COL,Preventive,Commercial PPO,Commercial,F,26,Southwest,0,2023,1,1
+M000286,BCS,Preventive,Commercial HMO,Commercial,M,48,Northeast,0,2022,0,1
+M000287,W34,Child/Adolescent,Medicare Advantage,Medicare,F,55,Northeast,0,2024,1,1
+M000288,AMM,Behavioral,Commercial HMO,Commercial,F,20,West,0,2023,1,1
+M000289,COL,Preventive,Medicaid,Medicaid,M,62,Northeast,0,2023,1,1
+M000290,BCS,Preventive,Medicare Advantage,Medicare,M,28,West,0,2022,1,1
+M000291,CDC-KED,Diabetes,Medicaid,Medicaid,M,30,Southwest,0,2024,1,1
+M000292,BCS,Preventive,Commercial HMO,Commercial,M,27,Northeast,0,2023,1,1
+M000293,FUH7,Behavioral,Commercial PPO,Commercial,M,64,West,0,2024,0,1
+M000294,CDC-EYE,Diabetes,Commercial PPO,Commercial,F,82,West,0,2023,0,1
+M000295,FUH7,Behavioral,Medicare Advantage,Medicare,F,77,Northeast,0,2023,0,1
+M000296,CDC-EYE,Diabetes,Exchange,Exchange,F,25,West,0,2023,1,1
+M000297,COL,Preventive,Medicaid,Medicaid,F,59,Midwest,0,2022,0,1
+M000298,CCS,Preventive,Commercial HMO,Commercial,F,33,Southwest,1,2022,1,1
+M000299,COL,Preventive,Commercial PPO,Commercial,F,41,Midwest,0,2022,1,1
+M000300,AMM,Behavioral,Commercial HMO,Commercial,F,60,Northeast,0,2024,0,1
+M000301,BCS,Preventive,Commercial HMO,Commercial,F,68,West,0,2022,1,1
+M000302,CBP,Cardiovascular,Medicare Advantage,Medicare,M,83,West,0,2023,1,1
+M000303,CDC-HbA1c,Diabetes,Exchange,Exchange,M,32,Northeast,0,2022,0,1
+M000304,CDC-EYE,Diabetes,Exchange,Exchange,M,35,Southeast,0,2024,0,1
+M000305,CBP,Cardiovascular,Commercial PPO,Commercial,F,37,Southeast,0,2023,0,1
+M000306,COL,Preventive,Medicaid,Medicaid,F,68,West,0,2024,1,1
+M000307,AMM,Behavioral,Exchange,Exchange,F,35,West,0,2024,1,1
+M000308,CDC-KED,Diabetes,Commercial HMO,Commercial,F,66,Northeast,0,2024,1,1
+M000309,W34,Child/Adolescent,Medicaid,Medicaid,F,22,Southwest,1,2024,1,1
+M000310,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,72,Southwest,0,2023,1,1
+M000311,BCS,Preventive,Medicare Advantage,Medicare,F,70,West,0,2024,1,1
+M000312,CDC-HbA1c,Diabetes,Exchange,Exchange,F,20,Midwest,0,2024,0,1
+M000313,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,20,Southwest,0,2024,1,1
+M000314,W34,Child/Adolescent,Commercial HMO,Commercial,M,72,Southwest,0,2022,1,1
+M000315,COL,Preventive,Medicaid,Medicaid,F,76,West,0,2024,0,1
+M000316,CCS,Preventive,Medicaid,Medicaid,F,76,West,0,2023,1,1
+M000317,COL,Preventive,Medicaid,Medicaid,M,80,Southwest,0,2023,0,1
+M000318,W34,Child/Adolescent,Medicaid,Medicaid,F,75,Southwest,0,2024,1,1
+M000319,FUH7,Behavioral,Commercial HMO,Commercial,M,55,Midwest,0,2024,0,1
+M000320,CBP,Cardiovascular,Commercial HMO,Commercial,F,47,Northeast,0,2023,1,1
+M000321,COL,Preventive,Exchange,Exchange,F,72,Midwest,0,2024,1,1
+M000322,FUH7,Behavioral,Exchange,Exchange,F,43,West,0,2024,1,1
+M000323,CDC-KED,Diabetes,Commercial PPO,Commercial,M,69,Midwest,0,2023,1,1
+M000324,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,M,39,Northeast,0,2024,1,1
+M000325,W34,Child/Adolescent,Commercial HMO,Commercial,M,74,Midwest,0,2024,1,1
+M000326,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,67,Northeast,0,2024,1,1
+M000327,CBP,Cardiovascular,Commercial HMO,Commercial,M,56,Midwest,0,2022,1,1
+M000328,CCS,Preventive,Medicaid,Medicaid,F,31,Southeast,0,2024,0,1
+M000329,BCS,Preventive,Exchange,Exchange,F,71,Southeast,0,2024,0,1
+M000330,CBP,Cardiovascular,Commercial HMO,Commercial,F,72,Northeast,0,2022,0,1
+M000331,CDC-EYE,Diabetes,Medicaid,Medicaid,F,20,West,0,2022,1,1
+M000332,COL,Preventive,Medicaid,Medicaid,F,55,Southeast,0,2022,1,1
+M000333,CDC-EYE,Diabetes,Exchange,Exchange,F,67,West,0,2023,0,1
+M000334,CDC-KED,Diabetes,Medicaid,Medicaid,F,57,Midwest,0,2022,0,1
+M000335,CCS,Preventive,Commercial PPO,Commercial,F,38,West,0,2024,1,1
+M000336,W34,Child/Adolescent,Medicare Advantage,Medicare,F,80,Southeast,1,2024,0,1
+M000337,BCS,Preventive,Medicare Advantage,Medicare,F,48,Northeast,1,2022,1,1
+M000338,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,74,Midwest,0,2022,1,1
+M000339,AMM,Behavioral,Exchange,Exchange,M,66,West,0,2024,1,1
+M000340,CDC-EYE,Diabetes,Medicaid,Medicaid,F,38,Southeast,0,2022,1,1
+M000341,COL,Preventive,Exchange,Exchange,M,38,Northeast,0,2022,1,1
+M000342,AMM,Behavioral,Commercial HMO,Commercial,F,27,Southeast,0,2022,0,1
+M000343,FUH7,Behavioral,Exchange,Exchange,F,28,Southeast,0,2024,1,1
+M000344,CBP,Cardiovascular,Commercial HMO,Commercial,F,83,Southwest,0,2023,0,1
+M000345,COL,Preventive,Exchange,Exchange,M,59,West,0,2024,1,1
+M000346,COL,Preventive,Commercial PPO,Commercial,F,38,West,0,2023,1,1
+M000347,FUH7,Behavioral,Exchange,Exchange,F,60,Southwest,0,2023,1,1
+M000348,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,F,36,Northeast,0,2023,0,1
+M000349,FUH7,Behavioral,Commercial PPO,Commercial,M,45,Northeast,0,2024,0,1
+M000350,FUH7,Behavioral,Medicaid,Medicaid,M,20,Southwest,0,2024,0,1
+M000351,BCS,Preventive,Commercial PPO,Commercial,M,22,Midwest,0,2024,1,1
+M000352,COL,Preventive,Medicare Advantage,Medicare,M,53,Midwest,0,2023,1,1
+M000353,CDC-KED,Diabetes,Exchange,Exchange,M,35,Midwest,0,2024,1,1
+M000354,COL,Preventive,Medicaid,Medicaid,M,50,West,0,2023,1,1
+M000355,BCS,Preventive,Commercial HMO,Commercial,M,23,Southwest,0,2024,0,1
+M000356,CDC-HbA1c,Diabetes,Exchange,Exchange,M,41,Midwest,0,2024,1,1
+M000357,BCS,Preventive,Medicaid,Medicaid,F,77,Northeast,0,2024,0,1
+M000358,W34,Child/Adolescent,Exchange,Exchange,F,55,Midwest,0,2024,1,1
+M000359,CDC-EYE,Diabetes,Medicaid,Medicaid,M,31,Southwest,0,2023,1,1
+M000360,BCS,Preventive,Commercial HMO,Commercial,F,26,West,0,2024,0,1
+M000361,CBP,Cardiovascular,Exchange,Exchange,F,63,Southeast,0,2023,1,1
+M000362,CDC-EYE,Diabetes,Medicaid,Medicaid,F,37,Southeast,0,2024,1,1
+M000363,CDC-KED,Diabetes,Commercial HMO,Commercial,M,70,West,0,2023,1,1
+M000364,COL,Preventive,Medicare Advantage,Medicare,F,59,West,0,2024,0,1
+M000365,FUH7,Behavioral,Commercial HMO,Commercial,F,30,Southeast,0,2022,1,1
+M000366,CBP,Cardiovascular,Medicare Advantage,Medicare,F,52,Southeast,0,2023,0,1
+M000367,CDC-EYE,Diabetes,Exchange,Exchange,M,48,Southwest,0,2022,1,1
+M000368,CDC-EYE,Diabetes,Commercial HMO,Commercial,M,44,Southeast,0,2023,1,1
+M000369,BCS,Preventive,Commercial HMO,Commercial,F,43,West,0,2023,0,1
+M000370,AMM,Behavioral,Commercial PPO,Commercial,F,79,West,0,2023,1,1
+M000371,CCS,Preventive,Medicare Advantage,Medicare,M,84,Southeast,0,2022,0,1
+M000372,CDC-HbA1c,Diabetes,Exchange,Exchange,F,52,Northeast,0,2022,0,1
+M000373,FUH7,Behavioral,Exchange,Exchange,F,39,Southeast,0,2024,1,1
+M000374,CDC-KED,Diabetes,Commercial PPO,Commercial,F,60,West,1,2024,0,1
+M000375,CDC-HbA1c,Diabetes,Medicaid,Medicaid,M,54,West,0,2022,0,1
+M000376,COL,Preventive,Medicaid,Medicaid,F,24,Midwest,0,2024,1,1
+M000377,AMM,Behavioral,Commercial PPO,Commercial,F,64,Midwest,0,2024,0,1
+M000378,W34,Child/Adolescent,Commercial HMO,Commercial,F,73,West,0,2024,1,1
+M000379,AMM,Behavioral,Exchange,Exchange,F,74,West,0,2022,1,1
+M000380,FUH7,Behavioral,Exchange,Exchange,F,60,Southwest,0,2023,1,1
+M000381,COL,Preventive,Medicare Advantage,Medicare,M,34,Northeast,0,2022,1,1
+M000382,W34,Child/Adolescent,Medicaid,Medicaid,F,64,Northeast,0,2023,1,1
+M000383,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,69,Northeast,0,2023,1,1
+M000384,W34,Child/Adolescent,Medicare Advantage,Medicare,F,75,Midwest,0,2022,1,1
+M000385,BCS,Preventive,Medicaid,Medicaid,M,21,Midwest,0,2024,1,1
+M000386,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,M,64,Midwest,0,2024,1,1
+M000387,W34,Child/Adolescent,Exchange,Exchange,M,39,Southwest,0,2024,0,1
+M000388,FUH7,Behavioral,Exchange,Exchange,M,33,Southwest,0,2024,0,1
+M000389,AMM,Behavioral,Medicare Advantage,Medicare,F,61,Midwest,0,2024,0,1
+M000390,COL,Preventive,Commercial HMO,Commercial,F,34,Midwest,0,2024,0,1
+M000391,COL,Preventive,Medicaid,Medicaid,F,84,Southeast,0,2022,0,1
+M000392,AMM,Behavioral,Medicaid,Medicaid,F,25,Southeast,0,2024,1,1
+M000393,AMM,Behavioral,Exchange,Exchange,F,80,Southwest,0,2022,1,1
+M000394,CDC-KED,Diabetes,Commercial HMO,Commercial,M,52,Southeast,0,2022,1,1
+M000395,CDC-EYE,Diabetes,Commercial PPO,Commercial,M,31,West,0,2023,0,1
+M000396,AMM,Behavioral,Exchange,Exchange,F,68,West,0,2023,0,1
+M000397,AMM,Behavioral,Medicaid,Medicaid,M,84,Northeast,0,2023,1,1
+M000398,FUH7,Behavioral,Medicare Advantage,Medicare,M,66,Northeast,0,2024,1,1
+M000399,CBP,Cardiovascular,Exchange,Exchange,F,58,Midwest,0,2024,0,1
+M000400,BCS,Preventive,Medicaid,Medicaid,M,65,Southeast,0,2024,1,1
+M000401,AMM,Behavioral,Exchange,Exchange,F,66,Northeast,0,2022,1,1
+M000402,CDC-KED,Diabetes,Commercial PPO,Commercial,M,61,Southwest,0,2023,1,1
+M000403,CDC-HbA1c,Diabetes,Exchange,Exchange,M,61,Northeast,0,2024,0,1
+M000404,CBP,Cardiovascular,Medicare Advantage,Medicare,M,40,Southwest,0,2024,0,1
+M000405,CDC-EYE,Diabetes,Exchange,Exchange,F,19,Southwest,0,2022,1,1
+M000406,W34,Child/Adolescent,Medicaid,Medicaid,F,61,Southeast,0,2023,1,1
+M000407,CCS,Preventive,Medicaid,Medicaid,M,27,Southwest,0,2024,1,1
+M000408,CCS,Preventive,Medicare Advantage,Medicare,M,40,Southeast,0,2022,1,1
+M000409,CDC-HbA1c,Diabetes,Exchange,Exchange,M,27,Southeast,0,2024,1,1
+M000410,FUH7,Behavioral,Exchange,Exchange,M,28,Midwest,0,2024,1,1
+M000411,BCS,Preventive,Medicaid,Medicaid,F,49,Southeast,0,2022,1,1
+M000412,W34,Child/Adolescent,Commercial HMO,Commercial,F,79,Midwest,0,2024,1,1
+M000413,FUH7,Behavioral,Medicaid,Medicaid,F,61,Southwest,0,2023,1,1
+M000414,CDC-EYE,Diabetes,Commercial HMO,Commercial,F,45,Northeast,0,2022,1,1
+M000415,FUH7,Behavioral,Commercial PPO,Commercial,F,75,Midwest,0,2023,1,1
+M000416,CDC-KED,Diabetes,Exchange,Exchange,M,70,Northeast,0,2024,1,1
+M000417,CBP,Cardiovascular,Medicare Advantage,Medicare,M,78,Southeast,0,2022,1,1
+M000418,AMM,Behavioral,Commercial PPO,Commercial,F,32,West,0,2022,1,1
+M000419,CDC-HbA1c,Diabetes,Medicaid,Medicaid,M,75,Southeast,0,2024,1,1
+M000420,BCS,Preventive,Commercial PPO,Commercial,M,82,Northeast,0,2023,1,1
+M000421,CBP,Cardiovascular,Medicare Advantage,Medicare,M,61,Southwest,0,2024,0,1
+M000422,CDC-KED,Diabetes,Commercial HMO,Commercial,F,35,West,0,2023,0,1
+M000423,COL,Preventive,Medicaid,Medicaid,M,30,Southwest,0,2022,1,1
+M000424,FUH7,Behavioral,Commercial HMO,Commercial,F,36,Midwest,0,2024,1,1
+M000425,AMM,Behavioral,Commercial PPO,Commercial,F,79,Northeast,0,2024,1,1
+M000426,CCS,Preventive,Medicare Advantage,Medicare,F,73,Southeast,1,2024,1,1
+M000427,BCS,Preventive,Medicare Advantage,Medicare,M,53,Southeast,0,2024,1,1
+M000428,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,F,21,West,0,2023,1,1
+M000429,CDC-HbA1c,Diabetes,Exchange,Exchange,F,50,Southeast,0,2024,1,1
+M000430,AMM,Behavioral,Medicaid,Medicaid,M,27,Northeast,0,2023,1,1
+M000431,CDC-KED,Diabetes,Medicaid,Medicaid,F,47,West,0,2023,1,1
+M000432,CBP,Cardiovascular,Commercial HMO,Commercial,F,47,Southwest,0,2024,1,1
+M000433,CDC-EYE,Diabetes,Exchange,Exchange,F,57,Southwest,0,2023,1,1
+M000434,AMM,Behavioral,Commercial HMO,Commercial,M,66,Midwest,0,2024,1,1
+M000435,COL,Preventive,Medicare Advantage,Medicare,F,82,Northeast,0,2023,1,1
+M000436,FUH7,Behavioral,Medicaid,Medicaid,F,20,West,0,2024,1,1
+M000437,CDC-KED,Diabetes,Exchange,Exchange,F,70,West,0,2022,1,1
+M000438,FUH7,Behavioral,Medicare Advantage,Medicare,F,67,Southeast,0,2024,0,1
+M000439,BCS,Preventive,Medicare Advantage,Medicare,M,42,Southeast,0,2024,1,1
+M000440,CCS,Preventive,Medicaid,Medicaid,M,75,Southwest,0,2024,1,1
+M000441,CBP,Cardiovascular,Medicare Advantage,Medicare,M,18,Southeast,0,2022,1,1
+M000442,CBP,Cardiovascular,Commercial HMO,Commercial,M,61,Northeast,0,2024,1,1
+M000443,CBP,Cardiovascular,Commercial PPO,Commercial,F,36,Southeast,0,2022,1,1
+M000444,AMM,Behavioral,Medicaid,Medicaid,M,41,Midwest,0,2023,1,1
+M000445,BCS,Preventive,Commercial PPO,Commercial,M,26,Midwest,0,2024,0,1
+M000446,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,M,62,West,0,2024,1,1
+M000447,BCS,Preventive,Medicaid,Medicaid,F,35,Northeast,0,2024,1,1
+M000448,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,M,75,Southeast,0,2023,1,1
+M000449,BCS,Preventive,Commercial PPO,Commercial,F,37,Southeast,0,2023,1,1
+M000450,BCS,Preventive,Exchange,Exchange,F,84,Midwest,0,2024,0,1
+M000451,CDC-KED,Diabetes,Medicaid,Medicaid,M,52,Southeast,0,2022,1,1
+M000452,CDC-EYE,Diabetes,Commercial HMO,Commercial,M,77,Midwest,0,2023,1,1
+M000453,CBP,Cardiovascular,Medicare Advantage,Medicare,F,59,Midwest,0,2023,1,1
+M000454,CCS,Preventive,Commercial HMO,Commercial,M,32,Midwest,0,2024,1,1
+M000455,BCS,Preventive,Commercial HMO,Commercial,F,45,West,0,2023,1,1
+M000456,AMM,Behavioral,Commercial PPO,Commercial,F,65,Southeast,0,2023,1,1
+M000457,FUH7,Behavioral,Commercial HMO,Commercial,M,73,Northeast,0,2022,1,1
+M000458,CDC-KED,Diabetes,Commercial PPO,Commercial,F,84,Northeast,0,2023,0,1
+M000459,CBP,Cardiovascular,Medicaid,Medicaid,M,67,West,0,2023,1,1
+M000460,W34,Child/Adolescent,Medicaid,Medicaid,M,33,Southeast,0,2023,0,1
+M000461,CBP,Cardiovascular,Medicare Advantage,Medicare,F,40,Southeast,0,2022,0,1
+M000462,CDC-KED,Diabetes,Commercial HMO,Commercial,M,66,Northeast,0,2024,1,1
+M000463,AMM,Behavioral,Commercial PPO,Commercial,M,38,Southwest,0,2022,1,1
+M000464,CDC-KED,Diabetes,Commercial HMO,Commercial,F,43,Southeast,0,2024,1,1
+M000465,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,23,Northeast,0,2023,1,1
+M000466,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,M,23,West,0,2023,0,1
+M000467,BCS,Preventive,Medicaid,Medicaid,M,51,West,0,2022,1,1
+M000468,AMM,Behavioral,Commercial HMO,Commercial,M,56,Northeast,1,2024,1,1
+M000469,CDC-HbA1c,Diabetes,Medicaid,Medicaid,F,56,Midwest,0,2022,0,1
+M000470,CBP,Cardiovascular,Exchange,Exchange,M,39,Southeast,0,2022,1,1
+M000471,CBP,Cardiovascular,Medicaid,Medicaid,M,59,Southwest,0,2023,1,1
+M000472,AMM,Behavioral,Medicare Advantage,Medicare,F,51,West,0,2023,1,1
+M000473,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,75,West,0,2022,1,1
+M000474,W34,Child/Adolescent,Exchange,Exchange,F,25,Midwest,0,2024,1,1
+M000475,CDC-KED,Diabetes,Medicaid,Medicaid,F,52,Southeast,0,2022,1,1
+M000476,AMM,Behavioral,Exchange,Exchange,M,67,Northeast,0,2022,1,1
+M000477,AMM,Behavioral,Medicaid,Medicaid,F,58,Southeast,0,2024,1,1
+M000478,CCS,Preventive,Medicaid,Medicaid,F,77,West,0,2024,1,1
+M000479,CCS,Preventive,Commercial PPO,Commercial,F,36,Midwest,0,2022,1,1
+M000480,FUH7,Behavioral,Commercial HMO,Commercial,M,55,Southwest,0,2024,0,1
+M000481,COL,Preventive,Commercial HMO,Commercial,F,37,Southeast,0,2023,1,1
+M000482,BCS,Preventive,Exchange,Exchange,F,69,Southeast,0,2024,1,1
+M000483,COL,Preventive,Medicaid,Medicaid,M,58,Southeast,0,2022,0,1
+M000484,CCS,Preventive,Commercial HMO,Commercial,F,36,Northeast,0,2024,1,1
+M000485,AMM,Behavioral,Commercial HMO,Commercial,M,73,Southeast,0,2022,1,1
+M000486,CCS,Preventive,Commercial PPO,Commercial,M,19,Southeast,0,2023,1,1
+M000487,BCS,Preventive,Medicaid,Medicaid,F,52,Southeast,0,2024,1,1
+M000488,CBP,Cardiovascular,Exchange,Exchange,M,22,Midwest,0,2023,1,1
+M000489,W34,Child/Adolescent,Medicare Advantage,Medicare,M,53,Southwest,0,2022,1,1
+M000490,CBP,Cardiovascular,Commercial PPO,Commercial,F,53,Midwest,0,2024,1,1
+M000491,BCS,Preventive,Commercial HMO,Commercial,F,35,Midwest,0,2022,0,1
+M000492,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,M,72,West,0,2022,0,1
+M000493,FUH7,Behavioral,Medicaid,Medicaid,F,69,West,0,2024,0,1
+M000494,W34,Child/Adolescent,Medicare Advantage,Medicare,M,59,Southwest,0,2023,1,1
+M000495,CBP,Cardiovascular,Medicaid,Medicaid,F,82,Southwest,0,2024,1,1
+M000496,W34,Child/Adolescent,Commercial PPO,Commercial,F,21,West,0,2023,1,1
+M000497,FUH7,Behavioral,Commercial PPO,Commercial,F,40,Northeast,0,2024,1,1
+M000498,CCS,Preventive,Commercial PPO,Commercial,F,53,Southwest,0,2023,1,1
+M000499,W34,Child/Adolescent,Medicare Advantage,Medicare,F,67,Northeast,0,2024,0,1
+M000500,CBP,Cardiovascular,Commercial PPO,Commercial,M,70,West,0,2024,1,1
+M000501,BCS,Preventive,Commercial PPO,Commercial,F,37,Southwest,0,2022,1,1
+M000502,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,F,42,West,0,2023,1,1
+M000503,BCS,Preventive,Commercial PPO,Commercial,M,34,West,0,2023,1,1
+M000504,CBP,Cardiovascular,Medicare Advantage,Medicare,M,53,Northeast,0,2024,1,1
+M000505,CBP,Cardiovascular,Exchange,Exchange,F,65,Southwest,0,2024,1,1
+M000506,CBP,Cardiovascular,Commercial PPO,Commercial,M,82,Midwest,0,2024,1,1
+M000507,AMM,Behavioral,Exchange,Exchange,M,70,Northeast,0,2022,0,1
+M000508,COL,Preventive,Medicaid,Medicaid,F,81,Northeast,0,2024,0,1
+M000509,BCS,Preventive,Exchange,Exchange,F,62,West,0,2023,1,1
+M000510,CDC-EYE,Diabetes,Commercial HMO,Commercial,M,37,Northeast,0,2024,0,1
+M000511,BCS,Preventive,Exchange,Exchange,M,57,Southeast,0,2023,0,1
+M000512,FUH7,Behavioral,Medicare Advantage,Medicare,M,42,Southwest,0,2024,1,1
+M000513,FUH7,Behavioral,Medicaid,Medicaid,F,22,Northeast,0,2024,0,1
+M000514,AMM,Behavioral,Exchange,Exchange,M,32,Northeast,0,2023,0,1
+M000515,CDC-KED,Diabetes,Commercial PPO,Commercial,F,70,West,0,2024,1,1
+M000516,COL,Preventive,Medicaid,Medicaid,M,37,Northeast,0,2024,1,1
+M000517,COL,Preventive,Commercial HMO,Commercial,F,55,Southwest,0,2024,0,1
+M000518,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,F,35,West,0,2023,1,1
+M000519,CBP,Cardiovascular,Medicaid,Medicaid,F,22,Northeast,0,2023,0,1
+M000520,CDC-HbA1c,Diabetes,Exchange,Exchange,M,34,Midwest,0,2024,0,1
+M000521,W34,Child/Adolescent,Commercial HMO,Commercial,M,55,Northeast,0,2023,1,1
+M000522,CCS,Preventive,Medicare Advantage,Medicare,M,67,Midwest,0,2024,1,1
+M000523,COL,Preventive,Medicaid,Medicaid,M,73,West,0,2023,1,1
+M000524,CDC-EYE,Diabetes,Medicaid,Medicaid,F,77,West,0,2024,1,1
+M000525,W34,Child/Adolescent,Commercial PPO,Commercial,M,80,West,0,2024,1,1
+M000526,FUH7,Behavioral,Commercial HMO,Commercial,F,75,Northeast,0,2024,1,1
+M000527,CBP,Cardiovascular,Medicaid,Medicaid,M,56,Northeast,0,2024,1,1
+M000528,CDC-KED,Diabetes,Medicaid,Medicaid,F,61,West,0,2024,1,1
+M000529,W34,Child/Adolescent,Exchange,Exchange,M,40,West,0,2023,1,1
+M000530,COL,Preventive,Commercial PPO,Commercial,M,26,Midwest,0,2024,1,1
+M000531,BCS,Preventive,Commercial HMO,Commercial,F,60,Southwest,0,2024,1,1
+M000532,CBP,Cardiovascular,Exchange,Exchange,M,41,Midwest,0,2023,0,1
+M000533,COL,Preventive,Commercial HMO,Commercial,M,39,Northeast,0,2023,0,1
+M000534,COL,Preventive,Commercial PPO,Commercial,M,39,Midwest,0,2024,1,1
+M000535,AMM,Behavioral,Commercial PPO,Commercial,F,74,Southwest,0,2023,0,1
+M000536,CDC-HbA1c,Diabetes,Medicaid,Medicaid,M,68,Midwest,0,2024,1,1
+M000537,CCS,Preventive,Medicare Advantage,Medicare,F,84,Southwest,0,2023,1,1
+M000538,FUH7,Behavioral,Commercial PPO,Commercial,M,51,Southwest,0,2024,1,1
+M000539,CCS,Preventive,Medicare Advantage,Medicare,F,84,Southeast,0,2024,1,1
+M000540,CCS,Preventive,Commercial PPO,Commercial,M,57,Midwest,0,2024,0,1
+M000541,FUH7,Behavioral,Commercial PPO,Commercial,F,68,Southeast,0,2023,1,1
+M000542,BCS,Preventive,Commercial HMO,Commercial,M,70,Southwest,0,2024,0,1
+M000543,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,84,Southwest,0,2022,1,1
+M000544,CCS,Preventive,Medicare Advantage,Medicare,F,41,Southeast,0,2023,1,1
+M000545,CDC-KED,Diabetes,Medicaid,Medicaid,M,83,Southeast,0,2022,0,1
+M000546,AMM,Behavioral,Exchange,Exchange,M,59,Southeast,0,2022,0,1
+M000547,CBP,Cardiovascular,Medicaid,Medicaid,M,31,Southeast,0,2023,1,1
+M000548,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,F,81,Southwest,0,2023,1,1
+M000549,CDC-KED,Diabetes,Commercial HMO,Commercial,M,82,Northeast,0,2022,1,1
+M000550,BCS,Preventive,Exchange,Exchange,F,63,Southeast,0,2022,1,1
+M000551,CCS,Preventive,Medicare Advantage,Medicare,F,68,Northeast,0,2022,1,1
+M000552,COL,Preventive,Medicaid,Medicaid,M,47,Southwest,0,2024,1,1
+M000553,W34,Child/Adolescent,Medicaid,Medicaid,F,54,Northeast,0,2023,1,1
+M000554,CBP,Cardiovascular,Exchange,Exchange,M,53,Northeast,0,2024,1,1
+M000555,CDC-KED,Diabetes,Medicaid,Medicaid,M,28,Midwest,0,2024,1,1
+M000556,COL,Preventive,Commercial PPO,Commercial,M,32,Midwest,0,2022,1,1
+M000557,CCS,Preventive,Commercial PPO,Commercial,F,78,Northeast,0,2023,1,1
+M000558,CDC-HbA1c,Diabetes,Medicaid,Medicaid,F,20,Southwest,0,2023,1,1
+M000559,COL,Preventive,Medicare Advantage,Medicare,F,77,Southwest,0,2024,1,1
+M000560,CDC-KED,Diabetes,Medicaid,Medicaid,F,38,West,0,2022,1,1
+M000561,CDC-EYE,Diabetes,Commercial PPO,Commercial,M,53,Midwest,0,2022,0,1
+M000562,W34,Child/Adolescent,Exchange,Exchange,F,40,Southwest,0,2024,1,1
+M000563,W34,Child/Adolescent,Commercial HMO,Commercial,M,76,Midwest,0,2024,1,1
+M000564,CBP,Cardiovascular,Commercial PPO,Commercial,F,81,Northeast,0,2023,1,1
+M000565,CBP,Cardiovascular,Commercial PPO,Commercial,M,32,Northeast,0,2024,0,1
+M000566,CDC-EYE,Diabetes,Commercial HMO,Commercial,M,51,Midwest,0,2022,0,1
+M000567,CBP,Cardiovascular,Exchange,Exchange,F,27,West,0,2024,1,1
+M000568,CCS,Preventive,Medicaid,Medicaid,M,84,Southeast,0,2023,1,1
+M000569,CCS,Preventive,Commercial PPO,Commercial,M,24,Southeast,0,2023,1,1
+M000570,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,M,63,Southeast,0,2024,0,1
+M000571,COL,Preventive,Exchange,Exchange,M,44,Midwest,0,2023,1,1
+M000572,CDC-KED,Diabetes,Exchange,Exchange,F,70,West,0,2022,0,1
+M000573,CCS,Preventive,Commercial HMO,Commercial,M,24,Southeast,0,2023,1,1
+M000574,CDC-EYE,Diabetes,Commercial HMO,Commercial,M,36,Southwest,0,2023,1,1
+M000575,W34,Child/Adolescent,Exchange,Exchange,F,54,Southeast,0,2022,0,1
+M000576,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,F,49,Southeast,0,2023,1,1
+M000577,CBP,Cardiovascular,Commercial PPO,Commercial,M,42,Southeast,0,2022,1,1
+M000578,CBP,Cardiovascular,Medicare Advantage,Medicare,F,49,Southwest,0,2024,0,1
+M000579,BCS,Preventive,Medicare Advantage,Medicare,F,33,West,0,2024,1,1
+M000580,CDC-KED,Diabetes,Medicaid,Medicaid,M,31,Southwest,0,2022,1,1
+M000581,BCS,Preventive,Exchange,Exchange,F,34,Southwest,0,2024,1,1
+M000582,CCS,Preventive,Commercial HMO,Commercial,M,40,Midwest,0,2022,1,1
+M000583,CDC-KED,Diabetes,Commercial PPO,Commercial,M,19,Southwest,0,2024,1,1
+M000584,FUH7,Behavioral,Commercial PPO,Commercial,M,63,Southwest,0,2022,1,1
+M000585,FUH7,Behavioral,Exchange,Exchange,M,48,Northeast,0,2022,1,1
+M000586,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,F,32,Midwest,0,2024,1,1
+M000587,CCS,Preventive,Exchange,Exchange,F,63,Northeast,0,2023,1,1
+M000588,CDC-EYE,Diabetes,Exchange,Exchange,M,44,Southwest,0,2022,1,1
+M000589,COL,Preventive,Commercial PPO,Commercial,M,45,West,0,2023,1,1
+M000590,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,46,West,0,2022,1,1
+M000591,COL,Preventive,Commercial PPO,Commercial,M,65,Midwest,0,2022,0,1
+M000592,CDC-EYE,Diabetes,Commercial HMO,Commercial,F,35,West,0,2023,0,1
+M000593,CBP,Cardiovascular,Commercial PPO,Commercial,M,60,Southwest,0,2022,1,1
+M000594,FUH7,Behavioral,Medicaid,Medicaid,M,48,Southeast,0,2024,1,1
+M000595,AMM,Behavioral,Commercial HMO,Commercial,F,69,Southwest,0,2022,1,1
+M000596,CDC-HbA1c,Diabetes,Exchange,Exchange,M,23,Southeast,0,2023,1,1
+M000597,CDC-KED,Diabetes,Exchange,Exchange,F,77,Northeast,0,2024,1,1
+M000598,BCS,Preventive,Commercial PPO,Commercial,F,73,Southwest,0,2023,1,1
+M000599,CBP,Cardiovascular,Exchange,Exchange,F,68,Southeast,0,2024,0,1
+M000600,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,57,West,0,2022,1,1
+M000601,AMM,Behavioral,Commercial PPO,Commercial,F,73,Southeast,0,2024,1,1
+M000602,CBP,Cardiovascular,Commercial HMO,Commercial,M,44,Midwest,0,2024,0,1
+M000603,CDC-HbA1c,Diabetes,Medicaid,Medicaid,M,72,Midwest,0,2022,1,1
+M000604,CBP,Cardiovascular,Medicaid,Medicaid,F,41,Northeast,0,2022,1,1
+M000605,AMM,Behavioral,Medicaid,Medicaid,F,60,West,0,2022,1,1
+M000606,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,80,Northeast,0,2024,1,1
+M000607,FUH7,Behavioral,Commercial PPO,Commercial,F,81,West,0,2024,1,1
+M000608,FUH7,Behavioral,Exchange,Exchange,M,79,Midwest,0,2023,1,1
+M000609,W34,Child/Adolescent,Medicare Advantage,Medicare,F,76,Southwest,0,2022,1,1
+M000610,CCS,Preventive,Commercial HMO,Commercial,F,55,West,0,2022,1,1
+M000611,W34,Child/Adolescent,Commercial PPO,Commercial,M,49,Southeast,0,2022,1,1
+M000612,BCS,Preventive,Exchange,Exchange,M,35,Northeast,0,2024,1,1
+M000613,CDC-KED,Diabetes,Commercial PPO,Commercial,F,29,West,0,2023,1,1
+M000614,W34,Child/Adolescent,Exchange,Exchange,F,74,West,0,2022,0,1
+M000615,FUH7,Behavioral,Commercial HMO,Commercial,F,53,Northeast,0,2022,0,1
+M000616,CCS,Preventive,Medicaid,Medicaid,F,53,Northeast,0,2022,0,1
+M000617,CDC-EYE,Diabetes,Commercial HMO,Commercial,F,71,West,0,2022,0,1
+M000618,FUH7,Behavioral,Commercial HMO,Commercial,F,71,West,0,2024,1,1
+M000619,FUH7,Behavioral,Exchange,Exchange,M,45,Midwest,0,2022,1,1
+M000620,CDC-HbA1c,Diabetes,Exchange,Exchange,M,84,Southeast,0,2023,1,1
+M000621,CDC-KED,Diabetes,Medicaid,Medicaid,F,19,Midwest,0,2024,1,1
+M000622,CDC-EYE,Diabetes,Commercial HMO,Commercial,F,76,Northeast,0,2024,1,1
+M000623,BCS,Preventive,Commercial PPO,Commercial,F,68,Northeast,1,2024,1,1
+M000624,BCS,Preventive,Exchange,Exchange,F,23,Southwest,0,2023,1,1
+M000625,FUH7,Behavioral,Commercial HMO,Commercial,F,39,Southeast,0,2022,1,1
+M000626,CDC-KED,Diabetes,Medicaid,Medicaid,F,20,Southeast,0,2023,0,1
+M000627,BCS,Preventive,Medicare Advantage,Medicare,M,41,Midwest,0,2022,1,1
+M000628,CBP,Cardiovascular,Medicaid,Medicaid,F,58,Northeast,0,2024,1,1
+M000629,AMM,Behavioral,Medicaid,Medicaid,M,63,Southwest,0,2023,1,1
+M000630,CDC-EYE,Diabetes,Medicaid,Medicaid,F,74,West,0,2024,0,1
+M000631,CCS,Preventive,Commercial HMO,Commercial,M,47,Midwest,0,2024,0,1
+M000632,FUH7,Behavioral,Exchange,Exchange,F,64,Southeast,0,2022,0,1
+M000633,COL,Preventive,Exchange,Exchange,F,75,Southwest,0,2024,0,1
+M000634,CDC-KED,Diabetes,Medicaid,Medicaid,F,60,Northeast,0,2024,1,1
+M000635,FUH7,Behavioral,Commercial PPO,Commercial,F,18,West,0,2023,1,1
+M000636,FUH7,Behavioral,Medicaid,Medicaid,F,42,West,0,2023,1,1
+M000637,FUH7,Behavioral,Medicare Advantage,Medicare,F,55,Northeast,0,2023,1,1
+M000638,CDC-EYE,Diabetes,Exchange,Exchange,F,69,Southwest,0,2022,1,1
+M000639,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,M,35,Southwest,0,2023,1,1
+M000640,CDC-KED,Diabetes,Medicaid,Medicaid,F,60,Southwest,0,2022,1,1
+M000641,BCS,Preventive,Medicaid,Medicaid,M,59,West,0,2023,1,1
+M000642,CDC-EYE,Diabetes,Medicaid,Medicaid,M,61,Northeast,0,2024,1,1
+M000643,CDC-EYE,Diabetes,Exchange,Exchange,F,78,Southeast,0,2023,1,1
+M000644,BCS,Preventive,Medicaid,Medicaid,F,82,West,0,2022,1,1
+M000645,CDC-HbA1c,Diabetes,Exchange,Exchange,F,74,Southwest,0,2024,1,1
+M000646,CCS,Preventive,Medicare Advantage,Medicare,F,28,Southeast,0,2022,0,1
+M000647,FUH7,Behavioral,Medicaid,Medicaid,F,22,Southeast,0,2024,1,1
+M000648,CDC-HbA1c,Diabetes,Medicaid,Medicaid,M,74,Southwest,0,2024,0,1
+M000649,CDC-EYE,Diabetes,Medicare Advantage,Medicare,F,84,Southeast,0,2023,1,1
+M000650,W34,Child/Adolescent,Exchange,Exchange,M,79,Midwest,0,2024,0,1
+M000651,CDC-KED,Diabetes,Medicaid,Medicaid,M,34,Northeast,0,2024,1,1
+M000652,AMM,Behavioral,Commercial HMO,Commercial,M,19,Southeast,0,2024,1,1
+M000653,COL,Preventive,Exchange,Exchange,F,69,West,0,2022,1,1
+M000654,AMM,Behavioral,Medicaid,Medicaid,M,52,Southeast,0,2023,1,1
+M000655,W34,Child/Adolescent,Exchange,Exchange,F,80,West,0,2022,1,1
+M000656,COL,Preventive,Commercial PPO,Commercial,M,56,Southwest,0,2023,1,1
+M000657,W34,Child/Adolescent,Commercial HMO,Commercial,M,79,West,0,2024,0,1
+M000658,CBP,Cardiovascular,Medicare Advantage,Medicare,F,20,West,0,2023,1,1
+M000659,CCS,Preventive,Commercial HMO,Commercial,M,66,Midwest,0,2022,1,1
+M000660,CCS,Preventive,Commercial HMO,Commercial,M,61,Midwest,0,2023,0,1
+M000661,CBP,Cardiovascular,Commercial PPO,Commercial,F,59,Midwest,0,2022,1,1
+M000662,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,F,37,Southeast,0,2023,0,1
+M000663,AMM,Behavioral,Commercial HMO,Commercial,M,78,Midwest,0,2023,1,1
+M000664,CDC-KED,Diabetes,Commercial PPO,Commercial,M,83,Southeast,0,2023,1,1
+M000665,COL,Preventive,Medicaid,Medicaid,F,51,Northeast,0,2023,1,1
+M000666,CDC-EYE,Diabetes,Medicaid,Medicaid,F,33,Southeast,0,2024,1,1
+M000667,CDC-KED,Diabetes,Commercial HMO,Commercial,F,40,Southwest,0,2023,0,1
+M000668,COL,Preventive,Medicare Advantage,Medicare,F,56,Southeast,0,2022,0,1
+M000669,FUH7,Behavioral,Commercial HMO,Commercial,M,37,Northeast,0,2023,1,1
+M000670,CCS,Preventive,Medicare Advantage,Medicare,F,67,Southeast,0,2022,0,1
+M000671,AMM,Behavioral,Medicaid,Medicaid,M,82,West,0,2024,1,1
+M000672,BCS,Preventive,Commercial HMO,Commercial,F,42,Southeast,0,2022,1,1
+M000673,COL,Preventive,Exchange,Exchange,F,35,Southeast,0,2023,0,1
+M000674,AMM,Behavioral,Commercial PPO,Commercial,F,34,Southwest,0,2023,1,1
+M000675,AMM,Behavioral,Commercial HMO,Commercial,F,56,Southeast,0,2023,1,1
+M000676,W34,Child/Adolescent,Commercial HMO,Commercial,F,70,West,0,2022,1,1
+M000677,BCS,Preventive,Medicaid,Medicaid,M,68,Midwest,0,2022,0,1
+M000678,COL,Preventive,Exchange,Exchange,M,69,Southeast,0,2024,1,1
+M000679,CBP,Cardiovascular,Exchange,Exchange,M,26,Southwest,0,2022,1,1
+M000680,CDC-KED,Diabetes,Medicaid,Medicaid,M,22,Southwest,0,2023,1,1
+M000681,BCS,Preventive,Commercial HMO,Commercial,F,83,Southwest,0,2023,1,1
+M000682,AMM,Behavioral,Medicare Advantage,Medicare,M,79,Northeast,0,2024,0,1
+M000683,COL,Preventive,Medicaid,Medicaid,M,28,Southeast,0,2024,0,1
+M000684,BCS,Preventive,Medicaid,Medicaid,F,67,Midwest,0,2024,1,1
+M000685,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,M,32,Northeast,0,2024,1,1
+M000686,CDC-EYE,Diabetes,Commercial HMO,Commercial,F,82,West,0,2023,0,1
+M000687,CCS,Preventive,Commercial HMO,Commercial,F,50,Midwest,0,2023,1,1
+M000688,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,32,Northeast,0,2024,1,1
+M000689,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,M,34,Southeast,0,2022,1,1
+M000690,FUH7,Behavioral,Commercial PPO,Commercial,M,71,Midwest,0,2024,1,1
+M000691,CCS,Preventive,Commercial HMO,Commercial,M,60,Northeast,0,2024,1,1
+M000692,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,F,65,West,0,2023,1,1
+M000693,BCS,Preventive,Medicare Advantage,Medicare,M,27,Southwest,0,2023,1,1
+M000694,COL,Preventive,Commercial HMO,Commercial,F,49,Southwest,0,2024,1,1
+M000695,CCS,Preventive,Medicaid,Medicaid,M,22,West,0,2022,1,1
+M000696,COL,Preventive,Medicaid,Medicaid,F,69,Southeast,0,2022,1,1
+M000697,COL,Preventive,Medicare Advantage,Medicare,M,49,Midwest,0,2024,1,1
+M000698,CBP,Cardiovascular,Exchange,Exchange,F,79,Northeast,0,2022,1,1
+M000699,AMM,Behavioral,Commercial PPO,Commercial,M,48,Southwest,0,2024,1,1
+M000700,FUH7,Behavioral,Commercial PPO,Commercial,M,59,Northeast,0,2022,1,1
+M000701,BCS,Preventive,Medicaid,Medicaid,M,83,Southwest,0,2022,1,1
+M000702,CBP,Cardiovascular,Commercial PPO,Commercial,F,63,Southwest,0,2022,1,1
+M000703,CDC-KED,Diabetes,Medicaid,Medicaid,M,78,Midwest,0,2024,1,1
+M000704,COL,Preventive,Commercial PPO,Commercial,F,46,Northeast,0,2024,1,1
+M000705,CCS,Preventive,Medicaid,Medicaid,F,40,West,0,2022,1,1
+M000706,CCS,Preventive,Commercial HMO,Commercial,M,59,West,0,2023,0,1
+M000707,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,M,26,Southeast,0,2022,1,1
+M000708,BCS,Preventive,Exchange,Exchange,F,56,West,0,2024,1,1
+M000709,CDC-KED,Diabetes,Medicaid,Medicaid,M,18,West,0,2022,1,1
+M000710,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,F,78,Northeast,0,2024,1,1
+M000711,CDC-EYE,Diabetes,Exchange,Exchange,M,76,Southwest,0,2022,0,1
+M000712,CDC-EYE,Diabetes,Medicaid,Medicaid,F,18,Southeast,0,2022,1,1
+M000713,FUH7,Behavioral,Commercial PPO,Commercial,F,19,Southeast,0,2023,0,1
+M000714,COL,Preventive,Commercial PPO,Commercial,F,70,Southeast,0,2024,1,1
+M000715,CBP,Cardiovascular,Commercial PPO,Commercial,F,26,Southwest,0,2023,0,1
+M000716,COL,Preventive,Medicare Advantage,Medicare,M,60,Southeast,0,2024,1,1
+M000717,CDC-HbA1c,Diabetes,Exchange,Exchange,M,66,Southeast,0,2023,1,1
+M000718,FUH7,Behavioral,Commercial HMO,Commercial,F,63,Southeast,0,2022,0,1
+M000719,FUH7,Behavioral,Commercial HMO,Commercial,F,68,Southwest,0,2023,1,1
+M000720,FUH7,Behavioral,Exchange,Exchange,F,77,Southwest,0,2022,0,1
+M000721,W34,Child/Adolescent,Commercial HMO,Commercial,F,74,Southeast,0,2023,1,1
+M000722,CBP,Cardiovascular,Medicare Advantage,Medicare,M,50,Southeast,0,2024,0,1
+M000723,CBP,Cardiovascular,Medicaid,Medicaid,M,58,Southwest,0,2022,0,1
+M000724,CBP,Cardiovascular,Medicaid,Medicaid,M,40,Southeast,0,2023,1,1
+M000725,CDC-KED,Diabetes,Commercial PPO,Commercial,M,53,West,0,2024,1,1
+M000726,AMM,Behavioral,Commercial PPO,Commercial,M,56,Southeast,0,2022,1,1
+M000727,W34,Child/Adolescent,Medicare Advantage,Medicare,F,67,Northeast,0,2022,1,1
+M000728,W34,Child/Adolescent,Medicaid,Medicaid,M,65,Midwest,0,2024,1,1
+M000729,CDC-HbA1c,Diabetes,Exchange,Exchange,M,34,Southeast,0,2024,1,1
+M000730,FUH7,Behavioral,Commercial HMO,Commercial,F,49,Southwest,0,2022,1,1
+M000731,COL,Preventive,Commercial HMO,Commercial,M,76,Southwest,0,2024,1,1
+M000732,FUH7,Behavioral,Medicaid,Medicaid,M,78,West,0,2022,0,1
+M000733,CCS,Preventive,Commercial HMO,Commercial,F,83,Midwest,0,2024,1,1
+M000734,COL,Preventive,Commercial HMO,Commercial,M,66,Southwest,0,2023,1,1
+M000735,COL,Preventive,Commercial HMO,Commercial,F,43,Midwest,0,2022,1,1
+M000736,CDC-KED,Diabetes,Commercial HMO,Commercial,F,83,West,0,2023,1,1
+M000737,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,M,81,Southwest,0,2023,1,1
+M000738,CDC-EYE,Diabetes,Commercial HMO,Commercial,M,58,West,0,2022,1,1
+M000739,W34,Child/Adolescent,Commercial HMO,Commercial,F,45,Midwest,0,2023,0,1
+M000740,CDC-EYE,Diabetes,Medicaid,Medicaid,M,45,Southeast,0,2023,0,1
+M000741,CCS,Preventive,Commercial HMO,Commercial,F,39,Southwest,0,2024,1,1
+M000742,COL,Preventive,Commercial PPO,Commercial,M,79,Southeast,0,2024,0,1
+M000743,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,M,68,Southeast,0,2022,1,1
+M000744,CDC-EYE,Diabetes,Exchange,Exchange,F,40,Northeast,0,2024,1,1
+M000745,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,70,West,0,2022,1,1
+M000746,W34,Child/Adolescent,Medicare Advantage,Medicare,M,56,Southwest,0,2024,1,1
+M000747,CBP,Cardiovascular,Commercial PPO,Commercial,F,36,Southwest,0,2023,1,1
+M000748,CDC-EYE,Diabetes,Medicaid,Medicaid,M,64,Southwest,0,2023,1,1
+M000749,AMM,Behavioral,Medicaid,Medicaid,M,32,West,0,2023,1,1
+M000750,CDC-KED,Diabetes,Commercial PPO,Commercial,F,78,Southwest,0,2023,1,1
+M000751,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,M,69,Northeast,0,2023,1,1
+M000752,COL,Preventive,Commercial PPO,Commercial,M,72,Southwest,0,2022,0,1
+M000753,W34,Child/Adolescent,Commercial HMO,Commercial,F,66,Southwest,0,2024,1,1
+M000754,CDC-KED,Diabetes,Medicare Advantage,Medicare,M,46,Southeast,0,2024,1,1
+M000755,AMM,Behavioral,Commercial PPO,Commercial,M,44,Southeast,0,2023,1,1
+M000756,W34,Child/Adolescent,Medicaid,Medicaid,M,61,Northeast,0,2022,1,1
+M000757,CBP,Cardiovascular,Medicare Advantage,Medicare,M,71,Southwest,0,2024,0,1
+M000758,CDC-HbA1c,Diabetes,Medicaid,Medicaid,F,68,Southwest,0,2024,1,1
+M000759,W34,Child/Adolescent,Medicare Advantage,Medicare,F,61,Northeast,0,2024,1,1
+M000760,COL,Preventive,Exchange,Exchange,F,29,Southwest,0,2024,1,1
+M000761,COL,Preventive,Medicare Advantage,Medicare,F,34,West,0,2022,1,1
+M000762,W34,Child/Adolescent,Medicaid,Medicaid,F,59,Midwest,0,2024,1,1
+M000763,COL,Preventive,Commercial PPO,Commercial,F,75,Southwest,0,2024,0,1
+M000764,CDC-EYE,Diabetes,Medicaid,Medicaid,M,51,Midwest,0,2023,0,1
+M000765,CDC-KED,Diabetes,Commercial PPO,Commercial,M,49,Northeast,0,2023,1,1
+M000766,FUH7,Behavioral,Medicaid,Medicaid,M,27,West,0,2022,0,1
+M000767,CBP,Cardiovascular,Medicare Advantage,Medicare,F,84,Midwest,0,2022,0,1
+M000768,CDC-EYE,Diabetes,Commercial HMO,Commercial,F,66,Midwest,0,2024,0,1
+M000769,CCS,Preventive,Medicaid,Medicaid,F,41,West,0,2022,0,1
+M000770,COL,Preventive,Medicare Advantage,Medicare,F,70,West,0,2023,1,1
+M000771,AMM,Behavioral,Exchange,Exchange,F,25,West,0,2022,0,1
+M000772,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,M,76,Southwest,0,2024,1,1
+M000773,CDC-EYE,Diabetes,Medicare Advantage,Medicare,F,33,Southwest,0,2023,0,1
+M000774,CCS,Preventive,Medicaid,Medicaid,M,82,Southeast,0,2023,0,1
+M000775,CDC-KED,Diabetes,Medicaid,Medicaid,F,58,West,0,2022,1,1
+M000776,BCS,Preventive,Medicare Advantage,Medicare,M,46,Southeast,0,2022,1,1
+M000777,BCS,Preventive,Commercial HMO,Commercial,F,47,Southeast,0,2024,0,1
+M000778,CCS,Preventive,Commercial HMO,Commercial,F,26,Southeast,0,2024,1,1
+M000779,W34,Child/Adolescent,Medicaid,Medicaid,M,51,Midwest,0,2024,1,1
+M000780,CBP,Cardiovascular,Medicare Advantage,Medicare,M,46,Southeast,0,2023,0,1
+M000781,BCS,Preventive,Commercial HMO,Commercial,M,20,Northeast,0,2024,0,1
+M000782,BCS,Preventive,Medicare Advantage,Medicare,F,48,Northeast,0,2022,1,1
+M000783,AMM,Behavioral,Medicare Advantage,Medicare,F,66,West,0,2022,1,1
+M000784,CCS,Preventive,Medicare Advantage,Medicare,F,67,Southwest,0,2024,0,1
+M000785,FUH7,Behavioral,Medicaid,Medicaid,F,49,Southwest,0,2024,0,1
+M000786,CDC-EYE,Diabetes,Exchange,Exchange,M,69,Northeast,0,2022,1,1
+M000787,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,M,70,West,0,2023,1,1
+M000788,FUH7,Behavioral,Commercial HMO,Commercial,M,84,Southeast,0,2022,1,1
+M000789,COL,Preventive,Medicaid,Medicaid,M,43,Midwest,0,2022,0,1
+M000790,CCS,Preventive,Commercial HMO,Commercial,M,66,Southwest,0,2023,1,1
+M000791,CDC-EYE,Diabetes,Medicaid,Medicaid,M,69,Midwest,0,2024,0,1
+M000792,CCS,Preventive,Medicaid,Medicaid,M,50,West,0,2023,1,1
+M000793,CCS,Preventive,Medicaid,Medicaid,M,72,Northeast,0,2024,1,1
+M000794,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,23,Midwest,0,2024,1,1
+M000795,CDC-EYE,Diabetes,Commercial PPO,Commercial,F,80,Northeast,0,2022,1,1
+M000796,CBP,Cardiovascular,Medicaid,Medicaid,F,70,Midwest,0,2022,1,1
+M000797,AMM,Behavioral,Medicaid,Medicaid,F,74,Southwest,0,2023,1,1
+M000798,CBP,Cardiovascular,Commercial HMO,Commercial,F,66,Midwest,0,2023,0,1
+M000799,CBP,Cardiovascular,Medicaid,Medicaid,M,55,Southwest,0,2024,1,1
+M000800,W34,Child/Adolescent,Commercial PPO,Commercial,M,37,Northeast,0,2023,1,1
+M000801,W34,Child/Adolescent,Commercial HMO,Commercial,F,37,Southwest,0,2022,1,1
+M000802,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,M,77,Northeast,0,2024,1,1
+M000803,COL,Preventive,Medicaid,Medicaid,F,31,Northeast,0,2022,0,1
+M000804,BCS,Preventive,Medicaid,Medicaid,M,28,Southeast,0,2022,1,1
+M000805,CBP,Cardiovascular,Commercial PPO,Commercial,F,81,Southeast,0,2022,0,1
+M000806,BCS,Preventive,Exchange,Exchange,F,84,Northeast,0,2022,0,1
+M000807,CDC-HbA1c,Diabetes,Medicaid,Medicaid,M,32,Northeast,0,2022,1,1
+M000808,FUH7,Behavioral,Medicaid,Medicaid,F,32,West,0,2023,1,1
+M000809,FUH7,Behavioral,Commercial HMO,Commercial,F,20,Southeast,0,2023,0,1
+M000810,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,M,59,Northeast,0,2024,1,1
+M000811,CCS,Preventive,Commercial PPO,Commercial,M,54,Southwest,0,2024,1,1
+M000812,BCS,Preventive,Commercial PPO,Commercial,F,26,Southwest,0,2024,1,1
+M000813,COL,Preventive,Medicare Advantage,Medicare,F,56,Southeast,0,2024,0,1
+M000814,W34,Child/Adolescent,Commercial PPO,Commercial,F,21,Southwest,0,2022,0,1
+M000815,AMM,Behavioral,Commercial HMO,Commercial,F,80,West,0,2023,1,1
+M000816,COL,Preventive,Medicare Advantage,Medicare,M,62,Midwest,0,2023,0,1
+M000817,CDC-EYE,Diabetes,Commercial HMO,Commercial,M,60,Southeast,0,2023,1,1
+M000818,CBP,Cardiovascular,Medicare Advantage,Medicare,F,31,Northeast,0,2024,1,1
+M000819,FUH7,Behavioral,Exchange,Exchange,M,71,West,0,2023,1,1
+M000820,COL,Preventive,Commercial HMO,Commercial,F,35,Southeast,0,2022,1,1
+M000821,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,69,Southeast,0,2024,0,1
+M000822,CDC-KED,Diabetes,Medicare Advantage,Medicare,M,71,Southwest,0,2024,1,1
+M000823,CCS,Preventive,Medicaid,Medicaid,F,80,Northeast,0,2023,1,1
+M000824,CBP,Cardiovascular,Exchange,Exchange,F,28,Midwest,0,2024,0,1
+M000825,BCS,Preventive,Medicaid,Medicaid,M,31,West,0,2024,1,1
+M000826,CDC-EYE,Diabetes,Commercial HMO,Commercial,M,57,Midwest,0,2024,0,1
+M000827,CDC-HbA1c,Diabetes,Medicaid,Medicaid,F,32,Midwest,0,2024,1,1
+M000828,FUH7,Behavioral,Medicare Advantage,Medicare,M,30,Southeast,0,2023,1,1
+M000829,CCS,Preventive,Medicare Advantage,Medicare,M,24,West,0,2024,1,1
+M000830,CBP,Cardiovascular,Exchange,Exchange,M,43,Southwest,0,2023,1,1
+M000831,AMM,Behavioral,Commercial PPO,Commercial,F,59,Southeast,0,2023,1,1
+M000832,CDC-KED,Diabetes,Medicaid,Medicaid,F,30,Northeast,0,2023,0,1
+M000833,FUH7,Behavioral,Exchange,Exchange,M,76,Midwest,0,2024,1,1
+M000834,COL,Preventive,Commercial PPO,Commercial,M,25,West,0,2022,1,1
+M000835,COL,Preventive,Commercial HMO,Commercial,F,58,Southwest,0,2022,1,1
+M000836,AMM,Behavioral,Medicare Advantage,Medicare,M,75,Southeast,0,2022,1,1
+M000837,BCS,Preventive,Commercial HMO,Commercial,M,51,Northeast,0,2022,1,1
+M000838,BCS,Preventive,Commercial HMO,Commercial,F,40,West,0,2024,1,1
+M000839,CDC-HbA1c,Diabetes,Medicaid,Medicaid,M,39,Northeast,0,2024,0,1
+M000840,BCS,Preventive,Medicaid,Medicaid,M,21,Midwest,0,2024,1,1
+M000841,FUH7,Behavioral,Commercial HMO,Commercial,F,74,Southeast,0,2022,1,1
+M000842,BCS,Preventive,Medicaid,Medicaid,M,47,Northeast,0,2024,1,1
+M000843,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,M,77,Northeast,0,2023,0,1
+M000844,AMM,Behavioral,Commercial HMO,Commercial,F,48,Northeast,0,2024,1,1
+M000845,CDC-KED,Diabetes,Commercial PPO,Commercial,F,33,Southeast,0,2022,0,1
+M000846,CDC-EYE,Diabetes,Medicaid,Medicaid,M,52,Southeast,0,2023,0,1
+M000847,CDC-EYE,Diabetes,Medicaid,Medicaid,M,20,Southeast,0,2022,1,1
+M000848,AMM,Behavioral,Exchange,Exchange,M,43,Northeast,0,2023,1,1
+M000849,CDC-EYE,Diabetes,Medicaid,Medicaid,F,20,Southwest,0,2024,1,1
+M000850,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,M,26,West,0,2024,1,1
+M000851,W34,Child/Adolescent,Commercial PPO,Commercial,M,80,Southwest,0,2024,1,1
+M000852,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,27,Southeast,0,2024,0,1
+M000853,CCS,Preventive,Medicare Advantage,Medicare,F,74,Northeast,0,2024,1,1
+M000854,FUH7,Behavioral,Commercial PPO,Commercial,M,46,Southwest,0,2023,0,1
+M000855,AMM,Behavioral,Exchange,Exchange,F,45,Northeast,0,2022,0,1
+M000856,COL,Preventive,Commercial PPO,Commercial,M,23,Southeast,0,2024,1,1
+M000857,AMM,Behavioral,Commercial HMO,Commercial,F,80,Southwest,0,2022,1,1
+M000858,CBP,Cardiovascular,Commercial HMO,Commercial,F,29,West,0,2022,1,1
+M000859,CBP,Cardiovascular,Commercial HMO,Commercial,M,18,Northeast,0,2023,1,1
+M000860,FUH7,Behavioral,Exchange,Exchange,M,62,Midwest,0,2022,1,1
+M000861,FUH7,Behavioral,Commercial PPO,Commercial,M,20,Southeast,0,2024,0,1
+M000862,CDC-EYE,Diabetes,Exchange,Exchange,M,47,West,0,2023,1,1
+M000863,CDC-EYE,Diabetes,Medicaid,Medicaid,F,30,Northeast,0,2024,1,1
+M000864,AMM,Behavioral,Medicare Advantage,Medicare,M,44,Southwest,0,2022,1,1
+M000865,FUH7,Behavioral,Medicaid,Medicaid,F,61,Midwest,0,2024,1,1
+M000866,CBP,Cardiovascular,Medicare Advantage,Medicare,F,41,West,0,2023,1,1
+M000867,CBP,Cardiovascular,Commercial PPO,Commercial,F,67,Southwest,0,2023,0,1
+M000868,FUH7,Behavioral,Commercial HMO,Commercial,M,21,West,0,2024,1,1
+M000869,CDC-KED,Diabetes,Commercial PPO,Commercial,M,55,West,0,2022,1,1
+M000870,W34,Child/Adolescent,Exchange,Exchange,F,33,Southwest,0,2024,1,1
+M000871,CDC-EYE,Diabetes,Medicaid,Medicaid,F,76,Northeast,0,2024,0,1
+M000872,CCS,Preventive,Exchange,Exchange,F,30,Northeast,0,2024,0,1
+M000873,FUH7,Behavioral,Medicare Advantage,Medicare,F,61,Southeast,0,2022,0,1
+M000874,W34,Child/Adolescent,Commercial HMO,Commercial,M,31,Southwest,0,2023,1,1
+M000875,CDC-EYE,Diabetes,Commercial PPO,Commercial,F,83,Southeast,0,2022,1,1
+M000876,CDC-KED,Diabetes,Exchange,Exchange,F,64,West,0,2023,1,1
+M000877,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,F,29,West,0,2024,1,1
+M000878,CBP,Cardiovascular,Commercial PPO,Commercial,F,74,Northeast,0,2022,0,1
+M000879,W34,Child/Adolescent,Exchange,Exchange,M,44,Southeast,0,2024,1,1
+M000880,CDC-EYE,Diabetes,Exchange,Exchange,F,32,Southeast,0,2023,1,1
+M000881,CDC-KED,Diabetes,Medicare Advantage,Medicare,M,32,Southeast,0,2024,1,1
+M000882,CDC-KED,Diabetes,Medicare Advantage,Medicare,M,77,West,0,2022,1,1
+M000883,AMM,Behavioral,Exchange,Exchange,M,35,Southwest,0,2022,0,1
+M000884,CDC-EYE,Diabetes,Commercial PPO,Commercial,M,74,Northeast,0,2023,0,1
+M000885,CDC-KED,Diabetes,Commercial PPO,Commercial,M,66,Southwest,1,2023,1,1
+M000886,FUH7,Behavioral,Exchange,Exchange,M,60,Southwest,0,2024,1,1
+M000887,COL,Preventive,Medicare Advantage,Medicare,M,28,Northeast,0,2024,0,1
+M000888,W34,Child/Adolescent,Commercial PPO,Commercial,F,34,Southwest,0,2024,1,1
+M000889,AMM,Behavioral,Exchange,Exchange,F,65,Southeast,0,2024,1,1
+M000890,FUH7,Behavioral,Commercial PPO,Commercial,M,78,Southeast,0,2023,0,1
+M000891,BCS,Preventive,Medicare Advantage,Medicare,F,54,Midwest,0,2022,1,1
+M000892,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,64,Northeast,0,2024,0,1
+M000893,FUH7,Behavioral,Medicare Advantage,Medicare,F,65,West,0,2022,1,1
+M000894,CDC-KED,Diabetes,Commercial PPO,Commercial,M,69,Southwest,0,2023,1,1
+M000895,CDC-EYE,Diabetes,Commercial PPO,Commercial,F,22,Southeast,0,2024,1,1
+M000896,CDC-KED,Diabetes,Commercial HMO,Commercial,F,45,Midwest,0,2023,1,1
+M000897,COL,Preventive,Exchange,Exchange,M,43,Southeast,0,2024,0,1
+M000898,AMM,Behavioral,Exchange,Exchange,M,47,Northeast,0,2022,1,1
+M000899,CBP,Cardiovascular,Medicaid,Medicaid,F,76,Northeast,0,2024,1,1
+M000900,CDC-HbA1c,Diabetes,Exchange,Exchange,M,36,Southwest,0,2022,0,1
+M000901,CBP,Cardiovascular,Medicare Advantage,Medicare,M,61,Southeast,0,2024,1,1
+M000902,W34,Child/Adolescent,Commercial PPO,Commercial,M,84,West,0,2022,0,1
+M000903,FUH7,Behavioral,Medicare Advantage,Medicare,F,24,Southeast,0,2024,0,1
+M000904,COL,Preventive,Commercial HMO,Commercial,F,43,West,0,2022,1,1
+M000905,CCS,Preventive,Commercial PPO,Commercial,M,26,West,0,2024,0,1
+M000906,AMM,Behavioral,Exchange,Exchange,F,29,Southeast,0,2024,1,1
+M000907,COL,Preventive,Exchange,Exchange,M,38,West,0,2023,1,1
+M000908,CDC-EYE,Diabetes,Medicare Advantage,Medicare,F,22,Midwest,0,2024,1,1
+M000909,FUH7,Behavioral,Medicaid,Medicaid,F,53,West,0,2023,0,1
+M000910,COL,Preventive,Commercial HMO,Commercial,F,48,West,0,2024,1,1
+M000911,FUH7,Behavioral,Commercial HMO,Commercial,F,84,Southwest,0,2022,1,1
+M000912,CCS,Preventive,Commercial HMO,Commercial,F,43,West,0,2023,1,1
+M000913,CDC-HbA1c,Diabetes,Exchange,Exchange,M,72,West,0,2022,1,1
+M000914,AMM,Behavioral,Commercial PPO,Commercial,F,36,Southeast,0,2023,1,1
+M000915,CCS,Preventive,Exchange,Exchange,F,65,Midwest,0,2023,1,1
+M000916,COL,Preventive,Medicaid,Medicaid,F,46,Southeast,0,2024,1,1
+M000917,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,M,52,Southwest,0,2024,0,1
+M000918,CDC-KED,Diabetes,Medicare Advantage,Medicare,M,45,Northeast,0,2023,1,1
+M000919,CCS,Preventive,Medicaid,Medicaid,F,51,Midwest,0,2023,1,1
+M000920,BCS,Preventive,Commercial HMO,Commercial,F,47,Northeast,0,2023,0,1
+M000921,COL,Preventive,Commercial HMO,Commercial,F,26,Midwest,0,2023,1,1
+M000922,CDC-KED,Diabetes,Commercial HMO,Commercial,F,51,Northeast,0,2022,1,1
+M000923,AMM,Behavioral,Commercial HMO,Commercial,F,61,Southwest,0,2024,1,1
+M000924,CBP,Cardiovascular,Commercial PPO,Commercial,F,76,Southeast,0,2022,1,1
+M000925,CDC-KED,Diabetes,Commercial HMO,Commercial,F,64,Northeast,0,2023,0,1
+M000926,W34,Child/Adolescent,Medicare Advantage,Medicare,M,67,Southeast,0,2023,1,1
+M000927,AMM,Behavioral,Commercial HMO,Commercial,M,74,Southeast,0,2024,1,1
+M000928,BCS,Preventive,Medicaid,Medicaid,F,73,Midwest,0,2024,1,1
+M000929,CCS,Preventive,Medicare Advantage,Medicare,F,79,Northeast,0,2023,0,1
+M000930,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,F,22,Midwest,0,2024,1,1
+M000931,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,M,24,West,0,2024,0,1
+M000932,BCS,Preventive,Medicaid,Medicaid,M,76,Southwest,0,2022,1,1
+M000933,COL,Preventive,Medicare Advantage,Medicare,F,26,Southwest,0,2023,0,1
+M000934,BCS,Preventive,Commercial PPO,Commercial,F,18,West,0,2022,0,1
+M000935,CCS,Preventive,Commercial HMO,Commercial,F,49,West,0,2024,0,1
+M000936,FUH7,Behavioral,Commercial HMO,Commercial,F,34,Midwest,0,2023,1,1
+M000937,AMM,Behavioral,Commercial HMO,Commercial,M,66,Northeast,0,2022,1,1
+M000938,AMM,Behavioral,Commercial HMO,Commercial,M,40,Midwest,1,2022,0,1
+M000939,BCS,Preventive,Commercial HMO,Commercial,M,47,Southwest,0,2024,1,1
+M000940,CDC-KED,Diabetes,Commercial HMO,Commercial,M,83,Northeast,0,2024,1,1
+M000941,FUH7,Behavioral,Medicare Advantage,Medicare,M,77,Midwest,0,2024,0,1
+M000942,CDC-KED,Diabetes,Medicare Advantage,Medicare,M,82,Midwest,0,2024,1,1
+M000943,AMM,Behavioral,Exchange,Exchange,M,50,Northeast,0,2023,1,1
+M000944,AMM,Behavioral,Commercial PPO,Commercial,F,28,Southeast,0,2024,0,1
+M000945,COL,Preventive,Exchange,Exchange,F,69,Midwest,0,2024,0,1
+M000946,BCS,Preventive,Commercial PPO,Commercial,M,53,Southeast,0,2024,1,1
+M000947,CDC-HbA1c,Diabetes,Exchange,Exchange,M,30,Southwest,0,2022,1,1
+M000948,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,M,42,Southeast,0,2024,1,1
+M000949,AMM,Behavioral,Commercial PPO,Commercial,F,45,Midwest,0,2022,1,1
+M000950,CDC-EYE,Diabetes,Commercial HMO,Commercial,M,79,Southeast,0,2024,1,1
+M000951,BCS,Preventive,Commercial PPO,Commercial,M,74,West,0,2024,1,1
+M000952,FUH7,Behavioral,Medicaid,Medicaid,F,55,West,0,2024,1,1
+M000953,COL,Preventive,Medicaid,Medicaid,M,59,Southwest,0,2024,1,1
+M000954,FUH7,Behavioral,Medicaid,Medicaid,F,58,Southwest,0,2024,0,1
+M000955,CCS,Preventive,Medicaid,Medicaid,F,43,Northeast,0,2022,1,1
+M000956,CDC-EYE,Diabetes,Commercial HMO,Commercial,F,48,Northeast,0,2023,0,1
+M000957,FUH7,Behavioral,Commercial HMO,Commercial,M,29,Midwest,0,2024,1,1
+M000958,CDC-KED,Diabetes,Commercial PPO,Commercial,F,64,Midwest,0,2023,1,1
+M000959,W34,Child/Adolescent,Medicaid,Medicaid,F,47,West,0,2022,1,1
+M000960,CBP,Cardiovascular,Exchange,Exchange,F,49,Southeast,0,2023,1,1
+M000961,FUH7,Behavioral,Commercial PPO,Commercial,M,63,Southwest,0,2023,0,1
+M000962,CDC-EYE,Diabetes,Medicaid,Medicaid,F,21,Northeast,0,2024,1,1
+M000963,BCS,Preventive,Medicaid,Medicaid,F,71,Northeast,0,2022,0,1
+M000964,BCS,Preventive,Medicaid,Medicaid,F,66,Southwest,0,2024,1,1
+M000965,CDC-KED,Diabetes,Exchange,Exchange,F,32,Midwest,0,2024,1,1
+M000966,W34,Child/Adolescent,Medicaid,Medicaid,M,36,Midwest,0,2022,0,1
+M000967,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,37,Southwest,0,2024,0,1
+M000968,BCS,Preventive,Medicaid,Medicaid,F,52,Midwest,0,2024,0,1
+M000969,AMM,Behavioral,Commercial HMO,Commercial,M,64,Northeast,0,2024,0,1
+M000970,FUH7,Behavioral,Exchange,Exchange,F,30,Southeast,0,2023,1,1
+M000971,CBP,Cardiovascular,Medicare Advantage,Medicare,F,64,Midwest,0,2023,1,1
+M000972,CDC-KED,Diabetes,Exchange,Exchange,F,63,Midwest,0,2023,1,1
+M000973,CDC-EYE,Diabetes,Commercial HMO,Commercial,F,61,Midwest,0,2022,0,1
+M000974,BCS,Preventive,Commercial PPO,Commercial,F,81,Southwest,0,2023,1,1
+M000975,CBP,Cardiovascular,Commercial PPO,Commercial,M,35,Southeast,0,2024,1,1
+M000976,BCS,Preventive,Commercial HMO,Commercial,F,22,West,0,2024,1,1
+M000977,CDC-EYE,Diabetes,Medicare Advantage,Medicare,F,56,Southwest,0,2024,1,1
+M000978,CCS,Preventive,Commercial PPO,Commercial,M,38,Southwest,0,2023,1,1
+M000979,COL,Preventive,Exchange,Exchange,F,52,West,0,2023,1,1
+M000980,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,F,39,Southwest,0,2024,0,1
+M000981,BCS,Preventive,Medicaid,Medicaid,F,46,Southeast,0,2023,0,1
+M000982,CCS,Preventive,Commercial HMO,Commercial,F,35,West,0,2023,0,1
+M000983,CDC-KED,Diabetes,Exchange,Exchange,F,61,Southeast,0,2023,0,1
+M000984,CBP,Cardiovascular,Exchange,Exchange,M,52,Southwest,1,2022,1,1
+M000985,COL,Preventive,Commercial PPO,Commercial,F,22,West,0,2023,1,1
+M000986,W34,Child/Adolescent,Exchange,Exchange,F,24,West,0,2023,1,1
+M000987,AMM,Behavioral,Commercial PPO,Commercial,F,18,Northeast,0,2024,1,1
+M000988,FUH7,Behavioral,Medicare Advantage,Medicare,M,81,Northeast,0,2022,1,1
+M000989,CDC-KED,Diabetes,Commercial PPO,Commercial,F,29,West,0,2024,1,1
+M000990,BCS,Preventive,Exchange,Exchange,M,62,Northeast,1,2023,1,1
+M000991,COL,Preventive,Medicare Advantage,Medicare,M,52,Midwest,0,2022,0,1
+M000992,CDC-EYE,Diabetes,Medicaid,Medicaid,F,54,Southwest,0,2024,1,1
+M000993,W34,Child/Adolescent,Exchange,Exchange,M,73,West,0,2023,1,1
+M000994,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,F,19,Southwest,0,2022,1,1
+M000995,AMM,Behavioral,Exchange,Exchange,F,31,West,0,2023,1,1
+M000996,CCS,Preventive,Commercial PPO,Commercial,M,62,West,0,2022,1,1
+M000997,AMM,Behavioral,Medicare Advantage,Medicare,M,32,Northeast,0,2024,0,1
+M000998,COL,Preventive,Medicare Advantage,Medicare,F,24,West,0,2024,1,1
+M000999,BCS,Preventive,Commercial PPO,Commercial,M,29,Midwest,0,2023,1,1
+M001000,W34,Child/Adolescent,Commercial PPO,Commercial,M,56,Southwest,0,2023,1,1
+M001001,CCS,Preventive,Exchange,Exchange,F,37,Southwest,0,2024,0,1
+M001002,W34,Child/Adolescent,Commercial HMO,Commercial,M,25,Southwest,0,2024,1,1
+M001003,COL,Preventive,Commercial PPO,Commercial,F,62,West,0,2023,1,1
+M001004,CDC-EYE,Diabetes,Medicare Advantage,Medicare,F,59,Southwest,0,2023,1,1
+M001005,W34,Child/Adolescent,Exchange,Exchange,M,21,Southeast,0,2023,1,1
+M001006,AMM,Behavioral,Medicare Advantage,Medicare,F,35,West,0,2022,1,1
+M001007,CDC-KED,Diabetes,Commercial HMO,Commercial,M,57,Midwest,0,2023,1,1
+M001008,COL,Preventive,Medicare Advantage,Medicare,F,81,Southwest,0,2024,1,1
+M001009,FUH7,Behavioral,Medicare Advantage,Medicare,M,34,Midwest,0,2024,1,1
+M001010,BCS,Preventive,Commercial HMO,Commercial,F,76,West,0,2024,1,1
+M001011,FUH7,Behavioral,Medicare Advantage,Medicare,M,30,Northeast,0,2022,1,1
+M001012,COL,Preventive,Exchange,Exchange,M,69,Southeast,0,2024,0,1
+M001013,FUH7,Behavioral,Medicaid,Medicaid,M,34,Southeast,0,2022,1,1
+M001014,CDC-EYE,Diabetes,Commercial PPO,Commercial,F,65,Southeast,0,2024,1,1
+M001015,COL,Preventive,Commercial HMO,Commercial,F,18,West,0,2024,0,1
+M001016,CCS,Preventive,Medicare Advantage,Medicare,F,49,Southeast,0,2024,1,1
+M001017,CDC-EYE,Diabetes,Commercial PPO,Commercial,M,53,West,0,2022,1,1
+M001018,CDC-KED,Diabetes,Medicaid,Medicaid,F,78,Southeast,0,2023,1,1
+M001019,CCS,Preventive,Medicare Advantage,Medicare,M,42,Southeast,0,2022,1,1
+M001020,CCS,Preventive,Commercial PPO,Commercial,F,22,West,0,2022,1,1
+M001021,COL,Preventive,Medicaid,Medicaid,F,54,Midwest,0,2024,1,1
+M001022,CCS,Preventive,Commercial PPO,Commercial,F,81,Northeast,0,2023,0,1
+M001023,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,M,48,Northeast,0,2022,1,1
+M001024,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,M,52,West,0,2022,1,1
+M001025,COL,Preventive,Exchange,Exchange,F,34,Southwest,0,2024,1,1
+M001026,CCS,Preventive,Commercial PPO,Commercial,F,52,Southwest,0,2022,1,1
+M001027,COL,Preventive,Commercial HMO,Commercial,M,43,West,0,2022,1,1
+M001028,COL,Preventive,Commercial HMO,Commercial,F,38,Southwest,0,2022,1,1
+M001029,AMM,Behavioral,Medicare Advantage,Medicare,F,52,Southeast,0,2024,0,1
+M001030,W34,Child/Adolescent,Commercial PPO,Commercial,F,18,Midwest,0,2022,0,1
+M001031,COL,Preventive,Exchange,Exchange,F,45,Southwest,0,2024,1,1
+M001032,CCS,Preventive,Exchange,Exchange,M,34,West,0,2024,1,1
+M001033,CDC-EYE,Diabetes,Exchange,Exchange,M,80,West,0,2024,0,1
+M001034,FUH7,Behavioral,Commercial PPO,Commercial,M,71,Southeast,0,2023,1,1
+M001035,CCS,Preventive,Medicaid,Medicaid,M,20,Southeast,0,2023,0,1
+M001036,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,52,Southeast,0,2022,1,1
+M001037,CDC-KED,Diabetes,Commercial HMO,Commercial,F,34,Northeast,0,2024,1,1
+M001038,BCS,Preventive,Medicaid,Medicaid,M,22,Northeast,0,2022,1,1
+M001039,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,M,25,Southwest,0,2024,0,1
+M001040,BCS,Preventive,Medicare Advantage,Medicare,M,71,Midwest,0,2023,1,1
+M001041,CDC-KED,Diabetes,Commercial HMO,Commercial,F,24,Midwest,0,2024,1,1
+M001042,CCS,Preventive,Exchange,Exchange,M,44,Southeast,0,2023,0,1
+M001043,CBP,Cardiovascular,Exchange,Exchange,M,82,Midwest,0,2023,0,1
+M001044,CCS,Preventive,Medicare Advantage,Medicare,M,46,West,0,2024,1,1
+M001045,BCS,Preventive,Medicare Advantage,Medicare,F,57,West,0,2023,0,1
+M001046,FUH7,Behavioral,Medicaid,Medicaid,M,42,Southeast,0,2024,1,1
+M001047,BCS,Preventive,Medicare Advantage,Medicare,M,77,Southeast,0,2023,0,1
+M001048,BCS,Preventive,Exchange,Exchange,M,60,Southwest,0,2022,0,1
+M001049,CCS,Preventive,Commercial PPO,Commercial,M,41,West,0,2023,1,1
+M001050,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,42,Southeast,0,2023,1,1
+M001051,CBP,Cardiovascular,Commercial PPO,Commercial,F,45,Midwest,0,2023,0,1
+M001052,BCS,Preventive,Medicare Advantage,Medicare,F,50,Northeast,0,2024,1,1
+M001053,CDC-EYE,Diabetes,Medicare Advantage,Medicare,F,58,Southeast,0,2024,1,1
+M001054,COL,Preventive,Commercial HMO,Commercial,F,76,Northeast,0,2024,0,1
+M001055,BCS,Preventive,Medicare Advantage,Medicare,M,54,Midwest,0,2023,1,1
+M001056,COL,Preventive,Medicare Advantage,Medicare,F,18,West,0,2024,0,1
+M001057,BCS,Preventive,Exchange,Exchange,M,73,Southeast,0,2024,1,1
+M001058,CCS,Preventive,Commercial HMO,Commercial,F,83,Southwest,0,2022,0,1
+M001059,AMM,Behavioral,Commercial PPO,Commercial,F,26,Northeast,0,2024,1,1
+M001060,CDC-KED,Diabetes,Commercial PPO,Commercial,F,55,West,0,2024,0,1
+M001061,CBP,Cardiovascular,Medicaid,Medicaid,M,65,Midwest,0,2022,1,1
+M001062,AMM,Behavioral,Exchange,Exchange,M,50,Southeast,0,2022,1,1
+M001063,CCS,Preventive,Commercial HMO,Commercial,M,40,Southwest,0,2023,0,1
+M001064,FUH7,Behavioral,Commercial PPO,Commercial,F,79,Southeast,0,2022,0,1
+M001065,COL,Preventive,Commercial HMO,Commercial,M,33,Southeast,0,2022,0,1
+M001066,CBP,Cardiovascular,Commercial HMO,Commercial,F,48,Northeast,0,2023,1,1
+M001067,AMM,Behavioral,Medicare Advantage,Medicare,M,81,Southeast,0,2024,1,1
+M001068,BCS,Preventive,Commercial HMO,Commercial,F,50,Southeast,0,2023,1,1
+M001069,CBP,Cardiovascular,Commercial HMO,Commercial,M,49,West,0,2024,1,1
+M001070,BCS,Preventive,Medicare Advantage,Medicare,F,38,Southwest,0,2023,1,1
+M001071,FUH7,Behavioral,Exchange,Exchange,M,20,West,0,2024,0,1
+M001072,CBP,Cardiovascular,Medicare Advantage,Medicare,M,80,Southeast,0,2022,1,1
+M001073,CDC-KED,Diabetes,Commercial HMO,Commercial,F,66,Southwest,0,2024,1,1
+M001074,CCS,Preventive,Exchange,Exchange,F,58,Midwest,0,2022,0,1
+M001075,CDC-KED,Diabetes,Medicare Advantage,Medicare,M,45,Southeast,0,2022,0,1
+M001076,CBP,Cardiovascular,Commercial HMO,Commercial,F,82,West,0,2022,0,1
+M001077,CDC-KED,Diabetes,Exchange,Exchange,M,50,Southeast,0,2024,0,1
+M001078,CDC-KED,Diabetes,Commercial PPO,Commercial,F,20,West,0,2022,1,1
+M001079,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,F,50,Northeast,0,2024,1,1
+M001080,CCS,Preventive,Medicaid,Medicaid,M,56,West,1,2023,0,1
+M001081,AMM,Behavioral,Commercial HMO,Commercial,M,78,Midwest,0,2022,1,1
+M001082,CDC-KED,Diabetes,Medicaid,Medicaid,M,34,Southwest,0,2022,1,1
+M001083,CDC-KED,Diabetes,Exchange,Exchange,F,77,Southeast,0,2023,1,1
+M001084,AMM,Behavioral,Commercial HMO,Commercial,F,79,Midwest,0,2023,1,1
+M001085,FUH7,Behavioral,Exchange,Exchange,F,53,Southeast,0,2023,0,1
+M001086,AMM,Behavioral,Commercial PPO,Commercial,M,69,Northeast,0,2024,1,1
+M001087,BCS,Preventive,Commercial PPO,Commercial,F,79,Southeast,0,2022,1,1
+M001088,CDC-KED,Diabetes,Medicaid,Medicaid,M,61,Midwest,0,2023,1,1
+M001089,COL,Preventive,Medicare Advantage,Medicare,F,56,West,0,2024,0,1
+M001090,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,78,West,0,2024,0,1
+M001091,BCS,Preventive,Medicare Advantage,Medicare,F,21,Southwest,0,2022,0,1
+M001092,CDC-KED,Diabetes,Medicare Advantage,Medicare,M,37,Northeast,0,2023,0,1
+M001093,CDC-EYE,Diabetes,Medicare Advantage,Medicare,F,40,Northeast,0,2023,0,1
+M001094,COL,Preventive,Exchange,Exchange,F,77,Southeast,0,2023,1,1
+M001095,CBP,Cardiovascular,Commercial PPO,Commercial,F,54,Southeast,0,2022,1,1
+M001096,FUH7,Behavioral,Commercial PPO,Commercial,M,49,Northeast,0,2024,1,1
+M001097,BCS,Preventive,Commercial HMO,Commercial,F,65,West,0,2024,0,1
+M001098,CDC-EYE,Diabetes,Commercial PPO,Commercial,M,23,West,1,2024,1,1
+M001099,FUH7,Behavioral,Exchange,Exchange,F,63,Midwest,0,2023,1,1
+M001100,CCS,Preventive,Exchange,Exchange,M,81,Northeast,0,2024,1,1
+M001101,FUH7,Behavioral,Commercial PPO,Commercial,F,33,Southwest,0,2023,0,1
+M001102,CBP,Cardiovascular,Exchange,Exchange,F,80,West,0,2024,0,1
+M001103,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,F,73,Midwest,0,2023,1,1
+M001104,COL,Preventive,Commercial HMO,Commercial,F,62,Southwest,0,2023,1,1
+M001105,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,65,Southwest,0,2024,0,1
+M001106,AMM,Behavioral,Exchange,Exchange,F,74,Midwest,0,2024,1,1
+M001107,CDC-EYE,Diabetes,Commercial PPO,Commercial,M,24,Midwest,0,2023,0,1
+M001108,COL,Preventive,Commercial HMO,Commercial,M,28,Southeast,0,2023,1,1
+M001109,W34,Child/Adolescent,Medicare Advantage,Medicare,F,36,Midwest,0,2022,1,1
+M001110,CDC-KED,Diabetes,Commercial PPO,Commercial,F,66,West,0,2023,1,1
+M001111,CDC-KED,Diabetes,Commercial PPO,Commercial,F,64,Northeast,0,2023,1,1
+M001112,CDC-EYE,Diabetes,Commercial HMO,Commercial,F,60,Northeast,0,2022,0,1
+M001113,BCS,Preventive,Commercial HMO,Commercial,F,26,Southeast,0,2024,1,1
+M001114,W34,Child/Adolescent,Commercial HMO,Commercial,F,24,Midwest,0,2023,1,1
+M001115,AMM,Behavioral,Exchange,Exchange,F,38,Northeast,0,2023,0,1
+M001116,FUH7,Behavioral,Exchange,Exchange,M,43,Midwest,0,2024,0,1
+M001117,CDC-KED,Diabetes,Commercial PPO,Commercial,M,19,Midwest,0,2023,1,1
+M001118,CDC-KED,Diabetes,Commercial HMO,Commercial,F,82,Northeast,0,2024,1,1
+M001119,BCS,Preventive,Commercial HMO,Commercial,M,70,Northeast,0,2022,1,1
+M001120,W34,Child/Adolescent,Medicaid,Medicaid,F,27,Midwest,0,2023,1,1
+M001121,COL,Preventive,Commercial HMO,Commercial,F,32,Southwest,0,2024,0,1
+M001122,COL,Preventive,Medicare Advantage,Medicare,M,34,Northeast,0,2023,1,1
+M001123,FUH7,Behavioral,Exchange,Exchange,M,63,Northeast,0,2024,0,1
+M001124,W34,Child/Adolescent,Commercial HMO,Commercial,F,73,Southeast,0,2024,1,1
+M001125,CBP,Cardiovascular,Commercial PPO,Commercial,F,27,Midwest,0,2022,1,1
+M001126,CDC-KED,Diabetes,Commercial HMO,Commercial,M,60,Northeast,0,2023,1,1
+M001127,FUH7,Behavioral,Medicaid,Medicaid,M,74,Northeast,0,2024,0,1
+M001128,CBP,Cardiovascular,Medicaid,Medicaid,M,52,Northeast,0,2022,1,1
+M001129,W34,Child/Adolescent,Exchange,Exchange,F,79,Midwest,0,2022,0,1
+M001130,BCS,Preventive,Medicare Advantage,Medicare,M,69,West,0,2024,1,1
+M001131,AMM,Behavioral,Commercial PPO,Commercial,F,51,West,0,2023,0,1
+M001132,COL,Preventive,Commercial PPO,Commercial,F,38,West,0,2022,1,1
+M001133,CBP,Cardiovascular,Exchange,Exchange,F,26,Northeast,0,2024,0,1
+M001134,AMM,Behavioral,Commercial HMO,Commercial,F,52,Southeast,0,2024,1,1
+M001135,CDC-KED,Diabetes,Medicaid,Medicaid,F,52,Southwest,0,2023,1,1
+M001136,CDC-EYE,Diabetes,Exchange,Exchange,M,38,Southeast,0,2022,0,1
+M001137,COL,Preventive,Medicaid,Medicaid,F,38,Southeast,0,2024,1,1
+M001138,BCS,Preventive,Commercial PPO,Commercial,F,80,Southwest,0,2022,1,1
+M001139,BCS,Preventive,Exchange,Exchange,F,59,Southwest,0,2022,1,1
+M001140,CBP,Cardiovascular,Exchange,Exchange,F,36,West,0,2022,1,1
+M001141,FUH7,Behavioral,Medicaid,Medicaid,F,78,Northeast,0,2022,1,1
+M001142,W34,Child/Adolescent,Commercial PPO,Commercial,F,70,Southwest,0,2023,1,1
+M001143,COL,Preventive,Commercial HMO,Commercial,M,65,Southeast,0,2022,0,1
+M001144,CCS,Preventive,Commercial PPO,Commercial,M,23,West,0,2024,1,1
+M001145,COL,Preventive,Commercial PPO,Commercial,M,67,Northeast,0,2024,1,1
+M001146,CCS,Preventive,Medicaid,Medicaid,F,42,West,0,2023,1,1
+M001147,CBP,Cardiovascular,Commercial HMO,Commercial,M,84,Midwest,0,2024,1,1
+M001148,CCS,Preventive,Medicaid,Medicaid,M,55,Southwest,0,2024,1,1
+M001149,CDC-KED,Diabetes,Exchange,Exchange,M,29,Southwest,0,2024,1,1
+M001150,CDC-KED,Diabetes,Exchange,Exchange,M,18,Midwest,0,2024,1,1
+M001151,CDC-KED,Diabetes,Medicaid,Medicaid,F,74,Northeast,0,2023,1,1
+M001152,BCS,Preventive,Commercial HMO,Commercial,F,72,Southwest,0,2024,0,1
+M001153,FUH7,Behavioral,Medicare Advantage,Medicare,F,41,West,0,2024,1,1
+M001154,COL,Preventive,Commercial HMO,Commercial,M,70,Southeast,0,2023,1,1
+M001155,CBP,Cardiovascular,Commercial PPO,Commercial,M,73,Southwest,0,2022,1,1
+M001156,W34,Child/Adolescent,Medicaid,Medicaid,M,66,Southeast,0,2023,1,1
+M001157,CCS,Preventive,Commercial PPO,Commercial,F,40,Southeast,0,2024,0,1
+M001158,CCS,Preventive,Medicare Advantage,Medicare,F,54,West,0,2022,1,1
+M001159,CBP,Cardiovascular,Medicaid,Medicaid,M,66,Southeast,0,2022,1,1
+M001160,CBP,Cardiovascular,Exchange,Exchange,F,83,Northeast,0,2022,0,1
+M001161,COL,Preventive,Medicare Advantage,Medicare,M,82,Southeast,0,2022,0,1
+M001162,CDC-EYE,Diabetes,Commercial PPO,Commercial,M,48,Southeast,0,2023,0,1
+M001163,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,F,66,Midwest,0,2024,1,1
+M001164,COL,Preventive,Exchange,Exchange,M,20,Northeast,0,2022,1,1
+M001165,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,F,83,West,0,2024,1,1
+M001166,W34,Child/Adolescent,Medicare Advantage,Medicare,M,40,Northeast,0,2024,0,1
+M001167,AMM,Behavioral,Exchange,Exchange,M,76,Southwest,0,2022,1,1
+M001168,W34,Child/Adolescent,Medicaid,Medicaid,F,58,Southwest,0,2023,0,1
+M001169,CDC-HbA1c,Diabetes,Medicaid,Medicaid,F,83,Southwest,0,2023,1,1
+M001170,AMM,Behavioral,Exchange,Exchange,F,31,West,0,2023,1,1
+M001171,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,F,75,Southeast,0,2022,0,1
+M001172,AMM,Behavioral,Medicare Advantage,Medicare,M,81,Southwest,0,2024,1,1
+M001173,FUH7,Behavioral,Medicare Advantage,Medicare,M,34,Southwest,0,2024,0,1
+M001174,W34,Child/Adolescent,Medicare Advantage,Medicare,F,82,Southwest,0,2024,0,1
+M001175,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,52,Northeast,0,2022,1,1
+M001176,AMM,Behavioral,Medicare Advantage,Medicare,M,25,West,0,2024,1,1
+M001177,FUH7,Behavioral,Exchange,Exchange,M,47,Northeast,0,2023,0,1
+M001178,W34,Child/Adolescent,Exchange,Exchange,F,57,Southwest,0,2022,1,1
+M001179,W34,Child/Adolescent,Commercial HMO,Commercial,M,81,Midwest,0,2022,1,1
+M001180,CBP,Cardiovascular,Commercial HMO,Commercial,F,40,Southwest,0,2023,1,1
+M001181,CDC-KED,Diabetes,Exchange,Exchange,M,50,Midwest,0,2024,1,1
+M001182,AMM,Behavioral,Exchange,Exchange,F,32,Southeast,0,2023,0,1
+M001183,CBP,Cardiovascular,Medicaid,Medicaid,F,40,West,0,2022,0,1
+M001184,CBP,Cardiovascular,Commercial HMO,Commercial,M,35,Southeast,0,2022,1,1
+M001185,COL,Preventive,Medicare Advantage,Medicare,F,70,Midwest,0,2024,1,1
+M001186,W34,Child/Adolescent,Medicare Advantage,Medicare,M,47,Southeast,0,2022,1,1
+M001187,W34,Child/Adolescent,Medicare Advantage,Medicare,M,41,Midwest,0,2023,1,1
+M001188,AMM,Behavioral,Medicare Advantage,Medicare,M,84,West,0,2024,1,1
+M001189,CDC-KED,Diabetes,Medicaid,Medicaid,F,68,Midwest,0,2023,1,1
+M001190,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,63,West,0,2022,0,1
+M001191,COL,Preventive,Exchange,Exchange,F,58,Midwest,0,2023,1,1
+M001192,CDC-EYE,Diabetes,Exchange,Exchange,M,65,Northeast,0,2024,0,1
+M001193,CBP,Cardiovascular,Commercial PPO,Commercial,M,60,Midwest,0,2023,1,1
+M001194,CDC-EYE,Diabetes,Medicaid,Medicaid,F,77,Southeast,0,2022,1,1
+M001195,FUH7,Behavioral,Exchange,Exchange,F,59,Midwest,0,2023,0,1
+M001196,FUH7,Behavioral,Medicare Advantage,Medicare,F,57,West,0,2024,1,1
+M001197,W34,Child/Adolescent,Medicare Advantage,Medicare,F,74,West,0,2022,1,1
+M001198,AMM,Behavioral,Exchange,Exchange,M,50,Southeast,0,2022,1,1
+M001199,CCS,Preventive,Medicaid,Medicaid,M,53,West,0,2022,1,1
+M001200,CDC-EYE,Diabetes,Medicaid,Medicaid,M,62,Southeast,0,2022,0,1
+M001201,CDC-KED,Diabetes,Commercial PPO,Commercial,M,18,Southwest,0,2022,0,1
+M001202,CCS,Preventive,Medicare Advantage,Medicare,M,77,Northeast,0,2024,1,1
+M001203,CDC-HbA1c,Diabetes,Exchange,Exchange,F,40,Northeast,0,2024,1,1
+M001204,CDC-KED,Diabetes,Exchange,Exchange,F,20,West,0,2024,1,1
+M001205,CDC-KED,Diabetes,Commercial PPO,Commercial,F,23,Southeast,0,2024,0,1
+M001206,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,41,West,0,2023,1,1
+M001207,AMM,Behavioral,Exchange,Exchange,M,29,West,0,2024,1,1
+M001208,BCS,Preventive,Exchange,Exchange,F,60,Midwest,0,2023,1,1
+M001209,W34,Child/Adolescent,Exchange,Exchange,M,75,Midwest,0,2024,1,1
+M001210,CDC-KED,Diabetes,Commercial HMO,Commercial,F,28,Southwest,0,2024,1,1
+M001211,W34,Child/Adolescent,Exchange,Exchange,F,27,West,0,2024,1,1
+M001212,FUH7,Behavioral,Commercial HMO,Commercial,M,53,Northeast,0,2023,1,1
+M001213,CBP,Cardiovascular,Medicare Advantage,Medicare,M,81,Midwest,0,2022,1,1
+M001214,AMM,Behavioral,Exchange,Exchange,M,74,Northeast,0,2023,1,1
+M001215,CDC-KED,Diabetes,Exchange,Exchange,F,80,Southwest,1,2023,0,1
+M001216,COL,Preventive,Commercial PPO,Commercial,F,30,Southeast,0,2024,1,1
+M001217,COL,Preventive,Commercial PPO,Commercial,F,48,Southeast,0,2024,1,1
+M001218,CDC-KED,Diabetes,Commercial PPO,Commercial,M,48,Southwest,0,2024,0,1
+M001219,AMM,Behavioral,Exchange,Exchange,F,47,Midwest,0,2024,1,1
+M001220,CDC-KED,Diabetes,Exchange,Exchange,M,73,Southeast,0,2024,1,1
+M001221,BCS,Preventive,Medicare Advantage,Medicare,F,69,Midwest,0,2022,1,1
+M001222,FUH7,Behavioral,Medicare Advantage,Medicare,F,80,Southeast,0,2024,0,1
+M001223,AMM,Behavioral,Medicare Advantage,Medicare,M,22,Northeast,0,2022,1,1
+M001224,CBP,Cardiovascular,Commercial HMO,Commercial,F,26,Midwest,0,2024,1,1
+M001225,CCS,Preventive,Commercial HMO,Commercial,F,63,West,0,2023,1,1
+M001226,COL,Preventive,Commercial PPO,Commercial,F,21,Northeast,0,2022,1,1
+M001227,BCS,Preventive,Commercial PPO,Commercial,F,60,Northeast,0,2023,0,1
+M001228,COL,Preventive,Commercial HMO,Commercial,F,32,Southeast,0,2024,1,1
+M001229,FUH7,Behavioral,Commercial PPO,Commercial,F,39,Northeast,0,2022,0,1
+M001230,BCS,Preventive,Medicare Advantage,Medicare,F,28,Southwest,0,2022,1,1
+M001231,FUH7,Behavioral,Commercial PPO,Commercial,M,39,Southeast,0,2023,0,1
+M001232,AMM,Behavioral,Commercial HMO,Commercial,F,32,Midwest,1,2023,1,1
+M001233,CDC-EYE,Diabetes,Medicare Advantage,Medicare,F,59,Southwest,0,2022,1,1
+M001234,COL,Preventive,Exchange,Exchange,M,56,Southwest,0,2024,0,1
+M001235,COL,Preventive,Commercial HMO,Commercial,F,48,West,0,2024,0,1
+M001236,BCS,Preventive,Commercial PPO,Commercial,F,34,West,0,2022,0,1
+M001237,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,F,49,Midwest,0,2022,1,1
+M001238,FUH7,Behavioral,Medicare Advantage,Medicare,M,38,Southwest,0,2022,0,1
+M001239,CDC-EYE,Diabetes,Medicaid,Medicaid,F,57,West,0,2023,1,1
+M001240,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,F,26,Southeast,0,2023,1,1
+M001241,COL,Preventive,Commercial HMO,Commercial,M,29,Southwest,0,2024,0,1
+M001242,W34,Child/Adolescent,Commercial HMO,Commercial,M,70,Northeast,0,2023,0,1
+M001243,CCS,Preventive,Exchange,Exchange,M,49,Southeast,0,2023,1,1
+M001244,COL,Preventive,Exchange,Exchange,M,37,West,0,2022,1,1
+M001245,W34,Child/Adolescent,Exchange,Exchange,F,56,Southwest,0,2022,1,1
+M001246,CBP,Cardiovascular,Exchange,Exchange,F,22,Southwest,0,2022,0,1
+M001247,BCS,Preventive,Medicaid,Medicaid,M,25,West,0,2024,1,1
+M001248,AMM,Behavioral,Commercial HMO,Commercial,F,57,Southwest,0,2024,1,1
+M001249,CDC-EYE,Diabetes,Commercial PPO,Commercial,M,45,Southwest,0,2022,1,1
+M001250,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,M,20,Southwest,0,2024,0,1
+M001251,BCS,Preventive,Commercial HMO,Commercial,F,59,Southwest,0,2023,0,1
+M001252,CCS,Preventive,Commercial PPO,Commercial,F,71,Midwest,0,2023,1,1
+M001253,CCS,Preventive,Commercial HMO,Commercial,F,77,Southeast,0,2024,0,1
+M001254,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,M,81,Northeast,0,2024,0,1
+M001255,CDC-EYE,Diabetes,Medicaid,Medicaid,F,60,Northeast,0,2022,1,1
+M001256,FUH7,Behavioral,Medicare Advantage,Medicare,F,78,West,0,2024,1,1
+M001257,CDC-KED,Diabetes,Commercial HMO,Commercial,F,74,Northeast,0,2024,1,1
+M001258,CCS,Preventive,Medicare Advantage,Medicare,F,68,Southeast,0,2022,1,1
+M001259,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,F,35,Southeast,0,2023,1,1
+M001260,CCS,Preventive,Medicare Advantage,Medicare,M,50,Northeast,0,2024,0,1
+M001261,CDC-EYE,Diabetes,Exchange,Exchange,F,39,Southeast,0,2022,1,1
+M001262,CBP,Cardiovascular,Commercial HMO,Commercial,M,64,Southwest,0,2022,1,1
+M001263,CDC-KED,Diabetes,Exchange,Exchange,F,26,West,0,2024,1,1
+M001264,CDC-HbA1c,Diabetes,Exchange,Exchange,M,37,Midwest,0,2023,1,1
+M001265,CDC-EYE,Diabetes,Commercial HMO,Commercial,F,70,Northeast,0,2024,0,1
+M001266,FUH7,Behavioral,Exchange,Exchange,M,26,Midwest,0,2023,1,1
+M001267,FUH7,Behavioral,Exchange,Exchange,F,71,Southeast,0,2023,1,1
+M001268,CDC-EYE,Diabetes,Exchange,Exchange,F,71,West,0,2024,0,1
+M001269,CDC-HbA1c,Diabetes,Exchange,Exchange,F,67,Northeast,0,2024,0,1
+M001270,FUH7,Behavioral,Medicare Advantage,Medicare,F,40,Southwest,0,2024,1,1
+M001271,CCS,Preventive,Commercial PPO,Commercial,F,69,Southeast,0,2023,0,1
+M001272,COL,Preventive,Medicaid,Medicaid,F,48,Southeast,0,2022,0,1
+M001273,FUH7,Behavioral,Medicare Advantage,Medicare,M,57,Northeast,0,2022,1,1
+M001274,AMM,Behavioral,Commercial HMO,Commercial,M,45,West,0,2024,1,1
+M001275,COL,Preventive,Commercial HMO,Commercial,M,26,Southeast,0,2024,1,1
+M001276,FUH7,Behavioral,Exchange,Exchange,F,39,Midwest,0,2023,1,1
+M001277,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,F,47,Southwest,0,2023,1,1
+M001278,FUH7,Behavioral,Commercial HMO,Commercial,M,51,West,0,2023,0,1
+M001279,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,F,40,Southwest,0,2023,1,1
+M001280,COL,Preventive,Medicare Advantage,Medicare,F,69,Northeast,0,2022,0,1
+M001281,CDC-EYE,Diabetes,Exchange,Exchange,F,26,Southeast,0,2024,0,1
+M001282,W34,Child/Adolescent,Commercial PPO,Commercial,F,84,West,0,2024,1,1
+M001283,CDC-KED,Diabetes,Medicaid,Medicaid,F,44,West,0,2022,1,1
+M001284,AMM,Behavioral,Exchange,Exchange,F,78,West,0,2024,1,1
+M001285,CDC-EYE,Diabetes,Commercial HMO,Commercial,M,84,Southwest,0,2024,1,1
+M001286,CDC-KED,Diabetes,Commercial PPO,Commercial,F,36,Midwest,0,2023,1,1
+M001287,CCS,Preventive,Medicare Advantage,Medicare,F,41,Midwest,0,2024,1,1
+M001288,AMM,Behavioral,Commercial HMO,Commercial,F,70,West,0,2023,1,1
+M001289,CCS,Preventive,Commercial HMO,Commercial,F,37,Northeast,0,2024,1,1
+M001290,COL,Preventive,Exchange,Exchange,F,19,Midwest,0,2024,1,1
+M001291,CBP,Cardiovascular,Commercial HMO,Commercial,M,63,Northeast,0,2022,1,1
+M001292,CCS,Preventive,Commercial PPO,Commercial,M,81,Midwest,0,2022,1,1
+M001293,CDC-EYE,Diabetes,Commercial PPO,Commercial,F,76,West,0,2024,1,1
+M001294,W34,Child/Adolescent,Commercial PPO,Commercial,F,41,Southeast,0,2022,1,1
+M001295,AMM,Behavioral,Medicaid,Medicaid,M,47,West,0,2024,0,1
+M001296,COL,Preventive,Medicare Advantage,Medicare,F,46,Southeast,0,2023,1,1
+M001297,BCS,Preventive,Commercial PPO,Commercial,F,36,Southeast,0,2024,1,1
+M001298,CBP,Cardiovascular,Medicaid,Medicaid,F,72,Northeast,0,2024,1,1
+M001299,FUH7,Behavioral,Commercial HMO,Commercial,M,74,Southeast,0,2022,0,1
+M001300,CBP,Cardiovascular,Commercial PPO,Commercial,F,67,Southeast,0,2023,1,1
+M001301,CBP,Cardiovascular,Medicare Advantage,Medicare,F,31,Southwest,0,2024,1,1
+M001302,CDC-KED,Diabetes,Medicare Advantage,Medicare,M,24,Southeast,0,2024,1,1
+M001303,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,F,32,Northeast,0,2024,0,1
+M001304,FUH7,Behavioral,Exchange,Exchange,F,34,Southwest,0,2024,0,1
+M001305,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,M,61,Southeast,0,2022,0,1
+M001306,CDC-EYE,Diabetes,Exchange,Exchange,M,59,Northeast,0,2022,0,1
+M001307,FUH7,Behavioral,Medicare Advantage,Medicare,M,73,Midwest,0,2022,0,1
+M001308,CDC-EYE,Diabetes,Exchange,Exchange,F,63,Southwest,0,2022,1,1
+M001309,CDC-EYE,Diabetes,Medicaid,Medicaid,F,62,West,1,2022,0,1
+M001310,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,M,61,Midwest,0,2023,1,1
+M001311,W34,Child/Adolescent,Exchange,Exchange,F,45,West,0,2023,1,1
+M001312,CBP,Cardiovascular,Commercial PPO,Commercial,M,62,Southeast,0,2022,1,1
+M001313,AMM,Behavioral,Exchange,Exchange,F,79,West,0,2023,1,1
+M001314,BCS,Preventive,Medicaid,Medicaid,M,50,Southeast,0,2023,1,1
+M001315,AMM,Behavioral,Medicare Advantage,Medicare,M,33,West,0,2022,1,1
+M001316,COL,Preventive,Commercial PPO,Commercial,M,26,Southwest,0,2024,1,1
+M001317,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,F,66,Southeast,0,2024,1,1
+M001318,FUH7,Behavioral,Medicare Advantage,Medicare,F,77,Northeast,0,2022,1,1
+M001319,W34,Child/Adolescent,Commercial HMO,Commercial,F,59,Southeast,0,2024,1,1
+M001320,FUH7,Behavioral,Medicaid,Medicaid,M,34,Midwest,0,2024,1,1
+M001321,BCS,Preventive,Medicaid,Medicaid,M,57,Midwest,0,2024,0,1
+M001322,BCS,Preventive,Medicaid,Medicaid,F,52,Midwest,0,2023,1,1
+M001323,W34,Child/Adolescent,Medicaid,Medicaid,M,67,Southeast,0,2023,1,1
+M001324,COL,Preventive,Exchange,Exchange,F,35,Midwest,0,2022,0,1
+M001325,BCS,Preventive,Commercial PPO,Commercial,M,78,Southwest,0,2024,0,1
+M001326,CDC-KED,Diabetes,Exchange,Exchange,M,33,Southwest,1,2023,1,1
+M001327,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,M,83,West,0,2024,1,1
+M001328,COL,Preventive,Medicare Advantage,Medicare,M,55,Southeast,0,2024,0,1
+M001329,W34,Child/Adolescent,Commercial PPO,Commercial,F,81,Southwest,0,2023,0,1
+M001330,CDC-EYE,Diabetes,Medicare Advantage,Medicare,F,40,Southeast,0,2024,1,1
+M001331,CCS,Preventive,Commercial HMO,Commercial,M,61,Southwest,0,2022,0,1
+M001332,CCS,Preventive,Commercial HMO,Commercial,F,51,Midwest,0,2023,0,1
+M001333,COL,Preventive,Commercial HMO,Commercial,M,26,Southwest,0,2022,0,1
+M001334,BCS,Preventive,Medicaid,Medicaid,F,72,West,0,2023,0,1
+M001335,CDC-HbA1c,Diabetes,Exchange,Exchange,F,36,Northeast,0,2024,0,1
+M001336,CDC-KED,Diabetes,Medicaid,Medicaid,F,49,West,0,2024,1,1
+M001337,CBP,Cardiovascular,Medicaid,Medicaid,M,62,Southwest,0,2022,1,1
+M001338,CCS,Preventive,Commercial HMO,Commercial,F,69,West,0,2023,1,1
+M001339,CCS,Preventive,Medicare Advantage,Medicare,M,54,Northeast,0,2023,1,1
+M001340,CCS,Preventive,Medicaid,Medicaid,M,64,Northeast,0,2024,1,1
+M001341,COL,Preventive,Medicaid,Medicaid,M,39,West,0,2024,1,1
+M001342,CDC-EYE,Diabetes,Exchange,Exchange,F,73,Southeast,0,2023,0,1
+M001343,FUH7,Behavioral,Commercial HMO,Commercial,F,68,Southwest,0,2024,0,1
+M001344,FUH7,Behavioral,Commercial HMO,Commercial,F,69,Northeast,0,2023,0,1
+M001345,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,F,36,Southwest,0,2022,1,1
+M001346,BCS,Preventive,Commercial PPO,Commercial,M,27,Southeast,0,2024,1,1
+M001347,BCS,Preventive,Medicare Advantage,Medicare,F,44,Southeast,0,2023,1,1
+M001348,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,F,31,Midwest,0,2022,0,1
+M001349,AMM,Behavioral,Medicare Advantage,Medicare,M,53,Midwest,0,2024,1,1
+M001350,FUH7,Behavioral,Commercial PPO,Commercial,M,21,Northeast,0,2023,1,1
+M001351,CDC-EYE,Diabetes,Medicare Advantage,Medicare,F,66,Midwest,0,2022,1,1
+M001352,W34,Child/Adolescent,Exchange,Exchange,F,64,Midwest,1,2024,1,1
+M001353,FUH7,Behavioral,Commercial PPO,Commercial,F,39,West,0,2022,0,1
+M001354,AMM,Behavioral,Medicare Advantage,Medicare,F,76,West,0,2022,0,1
+M001355,AMM,Behavioral,Commercial HMO,Commercial,F,60,Midwest,0,2024,1,1
+M001356,CDC-KED,Diabetes,Exchange,Exchange,M,29,West,0,2024,1,1
+M001357,FUH7,Behavioral,Exchange,Exchange,M,22,Southwest,0,2022,0,1
+M001358,BCS,Preventive,Commercial PPO,Commercial,M,42,Midwest,0,2022,1,1
+M001359,CDC-KED,Diabetes,Exchange,Exchange,F,46,Southwest,0,2024,0,1
+M001360,W34,Child/Adolescent,Commercial HMO,Commercial,M,22,West,0,2022,1,1
+M001361,CCS,Preventive,Commercial PPO,Commercial,F,76,Midwest,0,2023,1,1
+M001362,BCS,Preventive,Commercial PPO,Commercial,F,79,Midwest,0,2023,0,1
+M001363,BCS,Preventive,Exchange,Exchange,F,76,West,0,2023,1,1
+M001364,COL,Preventive,Commercial HMO,Commercial,F,79,West,0,2022,1,1
+M001365,CDC-KED,Diabetes,Medicaid,Medicaid,F,29,West,0,2024,1,1
+M001366,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,M,52,Midwest,0,2024,1,1
+M001367,CCS,Preventive,Commercial PPO,Commercial,M,60,West,0,2024,1,1
+M001368,BCS,Preventive,Exchange,Exchange,M,19,Southeast,0,2024,1,1
+M001369,AMM,Behavioral,Exchange,Exchange,M,62,Southeast,0,2022,0,1
+M001370,AMM,Behavioral,Medicare Advantage,Medicare,M,24,Northeast,0,2023,1,1
+M001371,CBP,Cardiovascular,Commercial HMO,Commercial,M,70,Northeast,0,2022,1,1
+M001372,BCS,Preventive,Medicaid,Medicaid,M,83,Northeast,0,2024,1,1
+M001373,CDC-EYE,Diabetes,Exchange,Exchange,F,38,Southwest,1,2022,1,1
+M001374,FUH7,Behavioral,Medicare Advantage,Medicare,F,54,Southeast,0,2024,1,1
+M001375,COL,Preventive,Commercial HMO,Commercial,F,40,Southwest,0,2024,1,1
+M001376,CDC-KED,Diabetes,Commercial HMO,Commercial,M,53,Southeast,0,2024,1,1
+M001377,CBP,Cardiovascular,Exchange,Exchange,M,75,Midwest,0,2023,1,1
+M001378,FUH7,Behavioral,Exchange,Exchange,F,64,Southeast,0,2023,1,1
+M001379,CDC-EYE,Diabetes,Commercial HMO,Commercial,M,70,Midwest,0,2024,1,1
+M001380,AMM,Behavioral,Medicare Advantage,Medicare,M,46,West,0,2023,1,1
+M001381,COL,Preventive,Medicare Advantage,Medicare,F,70,Southwest,0,2023,1,1
+M001382,CDC-EYE,Diabetes,Exchange,Exchange,F,48,Northeast,0,2024,0,1
+M001383,CDC-EYE,Diabetes,Medicare Advantage,Medicare,F,56,Southeast,0,2022,0,1
+M001384,W34,Child/Adolescent,Commercial PPO,Commercial,M,33,West,0,2024,0,1
+M001385,CCS,Preventive,Exchange,Exchange,F,61,Southwest,0,2024,1,1
+M001386,W34,Child/Adolescent,Commercial PPO,Commercial,F,35,West,0,2023,1,1
+M001387,CDC-KED,Diabetes,Exchange,Exchange,M,68,West,0,2023,1,1
+M001388,FUH7,Behavioral,Commercial HMO,Commercial,F,44,Southeast,0,2024,1,1
+M001389,W34,Child/Adolescent,Exchange,Exchange,F,63,Northeast,1,2023,1,1
+M001390,W34,Child/Adolescent,Medicaid,Medicaid,M,45,Northeast,0,2024,1,1
+M001391,AMM,Behavioral,Medicare Advantage,Medicare,M,76,West,0,2024,1,1
+M001392,W34,Child/Adolescent,Medicare Advantage,Medicare,M,49,Southeast,0,2024,1,1
+M001393,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,M,69,Southeast,0,2022,1,1
+M001394,CCS,Preventive,Commercial PPO,Commercial,F,83,Southwest,0,2024,1,1
+M001395,CCS,Preventive,Commercial PPO,Commercial,F,50,Northeast,0,2022,1,1
+M001396,CDC-HbA1c,Diabetes,Exchange,Exchange,M,42,Northeast,0,2023,1,1
+M001397,CDC-HbA1c,Diabetes,Exchange,Exchange,F,45,Midwest,0,2022,1,1
+M001398,BCS,Preventive,Commercial HMO,Commercial,F,23,West,0,2024,1,1
+M001399,COL,Preventive,Exchange,Exchange,M,28,Southwest,0,2024,1,1
+M001400,FUH7,Behavioral,Commercial HMO,Commercial,F,57,Southwest,0,2022,0,1
+M001401,AMM,Behavioral,Exchange,Exchange,F,54,West,0,2022,1,1
+M001402,CDC-EYE,Diabetes,Medicaid,Medicaid,F,42,Midwest,0,2024,0,1
+M001403,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,M,50,Northeast,0,2023,1,1
+M001404,FUH7,Behavioral,Commercial PPO,Commercial,F,40,West,0,2024,0,1
+M001405,COL,Preventive,Medicaid,Medicaid,M,25,West,0,2022,1,1
+M001406,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,71,Midwest,0,2024,1,1
+M001407,COL,Preventive,Medicare Advantage,Medicare,M,74,Southwest,0,2024,0,1
+M001408,AMM,Behavioral,Commercial HMO,Commercial,F,65,West,0,2023,1,1
+M001409,CDC-HbA1c,Diabetes,Medicaid,Medicaid,M,50,Midwest,0,2023,0,1
+M001410,COL,Preventive,Commercial HMO,Commercial,F,50,Southeast,0,2023,1,1
+M001411,CCS,Preventive,Commercial PPO,Commercial,F,74,Southeast,0,2022,1,1
+M001412,W34,Child/Adolescent,Exchange,Exchange,F,66,Midwest,0,2024,1,1
+M001413,BCS,Preventive,Commercial PPO,Commercial,F,74,Midwest,0,2024,0,1
+M001414,CDC-EYE,Diabetes,Medicare Advantage,Medicare,F,68,Northeast,0,2022,1,1
+M001415,AMM,Behavioral,Commercial HMO,Commercial,F,42,Southwest,0,2023,1,1
+M001416,FUH7,Behavioral,Medicaid,Medicaid,F,39,Midwest,0,2023,1,1
+M001417,CBP,Cardiovascular,Commercial PPO,Commercial,F,76,Southeast,0,2024,1,1
+M001418,CDC-HbA1c,Diabetes,Exchange,Exchange,M,67,Northeast,0,2023,1,1
+M001419,FUH7,Behavioral,Commercial HMO,Commercial,M,73,Northeast,0,2023,1,1
+M001420,BCS,Preventive,Commercial HMO,Commercial,F,32,Southwest,0,2024,0,1
+M001421,COL,Preventive,Commercial HMO,Commercial,M,79,West,0,2023,1,1
+M001422,BCS,Preventive,Commercial PPO,Commercial,F,18,Southeast,0,2024,1,1
+M001423,W34,Child/Adolescent,Medicare Advantage,Medicare,M,49,Midwest,0,2024,1,1
+M001424,CDC-EYE,Diabetes,Commercial HMO,Commercial,F,37,Southeast,0,2024,0,1
+M001425,CDC-KED,Diabetes,Exchange,Exchange,F,43,Northeast,0,2023,1,1
+M001426,COL,Preventive,Exchange,Exchange,F,59,Midwest,1,2023,1,1
+M001427,CCS,Preventive,Medicare Advantage,Medicare,M,45,West,0,2023,0,1
+M001428,W34,Child/Adolescent,Medicare Advantage,Medicare,F,25,Southeast,0,2022,0,1
+M001429,CDC-EYE,Diabetes,Commercial PPO,Commercial,M,37,Southwest,0,2022,1,1
+M001430,AMM,Behavioral,Commercial PPO,Commercial,M,80,Midwest,0,2024,1,1
+M001431,W34,Child/Adolescent,Medicare Advantage,Medicare,M,71,West,0,2024,1,1
+M001432,FUH7,Behavioral,Exchange,Exchange,F,23,West,0,2023,0,1
+M001433,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,M,55,Southwest,0,2023,1,1
+M001434,AMM,Behavioral,Medicare Advantage,Medicare,M,51,West,0,2024,1,1
+M001435,CCS,Preventive,Commercial HMO,Commercial,F,37,Midwest,0,2024,1,1
+M001436,CDC-KED,Diabetes,Commercial HMO,Commercial,F,40,West,0,2022,1,1
+M001437,FUH7,Behavioral,Medicare Advantage,Medicare,M,38,West,0,2024,1,1
+M001438,CDC-EYE,Diabetes,Commercial PPO,Commercial,F,69,Northeast,0,2022,0,1
+M001439,CDC-EYE,Diabetes,Commercial PPO,Commercial,F,49,Midwest,0,2023,1,1
+M001440,CDC-EYE,Diabetes,Commercial PPO,Commercial,M,71,West,0,2024,0,1
+M001441,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,67,Northeast,0,2024,1,1
+M001442,FUH7,Behavioral,Medicaid,Medicaid,F,76,Southeast,0,2022,0,1
+M001443,BCS,Preventive,Medicare Advantage,Medicare,F,29,Midwest,1,2023,1,1
+M001444,COL,Preventive,Commercial HMO,Commercial,F,32,Southwest,0,2022,0,1
+M001445,FUH7,Behavioral,Medicare Advantage,Medicare,M,62,Southwest,0,2022,0,1
+M001446,W34,Child/Adolescent,Commercial HMO,Commercial,M,70,Southeast,0,2023,1,1
+M001447,BCS,Preventive,Medicare Advantage,Medicare,F,42,Northeast,0,2024,1,1
+M001448,CBP,Cardiovascular,Exchange,Exchange,M,75,Southeast,0,2022,0,1
+M001449,CBP,Cardiovascular,Commercial HMO,Commercial,F,40,Midwest,0,2022,0,1
+M001450,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,18,Northeast,0,2024,0,1
+M001451,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,F,40,Southeast,0,2022,0,1
+M001452,AMM,Behavioral,Medicaid,Medicaid,F,67,West,0,2022,0,1
+M001453,COL,Preventive,Commercial PPO,Commercial,F,83,Southwest,0,2024,1,1
+M001454,W34,Child/Adolescent,Exchange,Exchange,F,27,Northeast,0,2024,1,1
+M001455,BCS,Preventive,Exchange,Exchange,F,80,Southwest,0,2024,1,1
+M001456,W34,Child/Adolescent,Medicare Advantage,Medicare,F,19,Northeast,0,2022,1,1
+M001457,W34,Child/Adolescent,Commercial HMO,Commercial,M,39,Northeast,0,2023,0,1
+M001458,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,76,Southwest,0,2024,1,1
+M001459,COL,Preventive,Exchange,Exchange,F,38,Southeast,0,2024,1,1
+M001460,CDC-KED,Diabetes,Exchange,Exchange,M,53,Northeast,0,2024,1,1
+M001461,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,81,Northeast,0,2024,1,1
+M001462,BCS,Preventive,Medicaid,Medicaid,F,56,Northeast,0,2023,1,1
+M001463,AMM,Behavioral,Medicaid,Medicaid,M,31,Southeast,0,2024,1,1
+M001464,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,F,37,Southeast,0,2023,0,1
+M001465,CDC-KED,Diabetes,Medicaid,Medicaid,F,42,Southwest,0,2022,1,1
+M001466,COL,Preventive,Medicaid,Medicaid,M,60,West,0,2023,1,1
+M001467,FUH7,Behavioral,Commercial HMO,Commercial,M,25,Southwest,0,2024,0,1
+M001468,CCS,Preventive,Medicare Advantage,Medicare,F,22,Southeast,0,2024,1,1
+M001469,CDC-EYE,Diabetes,Exchange,Exchange,F,73,Northeast,0,2024,1,1
+M001470,CBP,Cardiovascular,Exchange,Exchange,F,42,Midwest,0,2024,1,1
+M001471,CDC-HbA1c,Diabetes,Exchange,Exchange,M,33,Northeast,0,2024,1,1
+M001472,AMM,Behavioral,Medicare Advantage,Medicare,M,37,Midwest,0,2023,0,1
+M001473,BCS,Preventive,Medicaid,Medicaid,M,67,Southeast,0,2023,1,1
+M001474,CDC-EYE,Diabetes,Commercial PPO,Commercial,M,73,Northeast,0,2024,0,1
+M001475,CDC-KED,Diabetes,Commercial HMO,Commercial,M,31,Midwest,1,2024,1,1
+M001476,CDC-EYE,Diabetes,Medicaid,Medicaid,M,29,West,0,2024,0,1
+M001477,CCS,Preventive,Exchange,Exchange,F,60,Midwest,0,2022,0,1
+M001478,CDC-EYE,Diabetes,Commercial PPO,Commercial,F,70,West,0,2022,1,1
+M001479,AMM,Behavioral,Medicaid,Medicaid,F,69,Northeast,0,2022,0,1
+M001480,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,M,23,Northeast,0,2023,0,1
+M001481,BCS,Preventive,Commercial PPO,Commercial,F,35,Southeast,0,2022,0,1
+M001482,BCS,Preventive,Commercial PPO,Commercial,F,22,Midwest,0,2023,1,1
+M001483,CCS,Preventive,Medicare Advantage,Medicare,M,36,Southwest,0,2023,0,1
+M001484,AMM,Behavioral,Commercial HMO,Commercial,F,63,Southeast,0,2024,1,1
+M001485,COL,Preventive,Commercial PPO,Commercial,F,60,Midwest,0,2023,1,1
+M001486,BCS,Preventive,Commercial HMO,Commercial,M,45,Northeast,0,2023,1,1
+M001487,AMM,Behavioral,Exchange,Exchange,M,24,Southeast,0,2024,0,1
+M001488,CDC-HbA1c,Diabetes,Medicaid,Medicaid,F,72,Southeast,0,2024,1,1
+M001489,AMM,Behavioral,Commercial HMO,Commercial,M,27,Southwest,0,2023,1,1
+M001490,CBP,Cardiovascular,Medicaid,Medicaid,F,44,West,0,2022,1,1
+M001491,CBP,Cardiovascular,Medicare Advantage,Medicare,M,18,Midwest,0,2024,1,1
+M001492,CDC-EYE,Diabetes,Commercial PPO,Commercial,F,66,Southwest,0,2024,1,1
+M001493,COL,Preventive,Exchange,Exchange,F,74,West,0,2024,0,1
+M001494,W34,Child/Adolescent,Commercial HMO,Commercial,F,59,Southeast,0,2023,1,1
+M001495,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,35,Southeast,0,2024,1,1
+M001496,AMM,Behavioral,Exchange,Exchange,M,36,Southeast,0,2023,0,1
+M001497,CBP,Cardiovascular,Medicare Advantage,Medicare,M,24,West,0,2024,0,1
+M001498,CBP,Cardiovascular,Commercial PPO,Commercial,M,53,West,0,2023,1,1
+M001499,CDC-KED,Diabetes,Exchange,Exchange,M,65,Southeast,0,2022,1,1
+M001500,COL,Preventive,Medicare Advantage,Medicare,M,62,West,0,2024,1,1
+M001501,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,M,27,Midwest,0,2024,1,1
+M001502,CBP,Cardiovascular,Commercial HMO,Commercial,F,69,Northeast,0,2024,1,1
+M001503,AMM,Behavioral,Medicare Advantage,Medicare,F,31,Northeast,0,2024,0,1
+M001504,CDC-KED,Diabetes,Medicaid,Medicaid,M,60,Southwest,0,2023,1,1
+M001505,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,78,Northeast,0,2024,0,1
+M001506,FUH7,Behavioral,Medicare Advantage,Medicare,F,48,West,0,2023,1,1
+M001507,CCS,Preventive,Commercial PPO,Commercial,F,19,Midwest,0,2022,1,1
+M001508,CDC-HbA1c,Diabetes,Exchange,Exchange,M,78,Southwest,0,2023,0,1
+M001509,CDC-HbA1c,Diabetes,Exchange,Exchange,F,70,Southwest,0,2022,1,1
+M001510,CDC-KED,Diabetes,Commercial HMO,Commercial,F,23,Northeast,0,2023,1,1
+M001511,CCS,Preventive,Medicare Advantage,Medicare,F,54,Southwest,0,2024,1,1
+M001512,W34,Child/Adolescent,Commercial PPO,Commercial,F,56,Midwest,0,2024,1,1
+M001513,CDC-HbA1c,Diabetes,Exchange,Exchange,M,26,Southeast,0,2023,0,1
+M001514,CCS,Preventive,Medicare Advantage,Medicare,F,67,Northeast,0,2023,1,1
+M001515,AMM,Behavioral,Medicaid,Medicaid,M,53,Southeast,0,2024,1,1
+M001516,CDC-EYE,Diabetes,Exchange,Exchange,M,77,Midwest,0,2022,1,1
+M001517,FUH7,Behavioral,Commercial HMO,Commercial,M,43,Midwest,0,2023,0,1
+M001518,CDC-KED,Diabetes,Medicaid,Medicaid,M,79,Southeast,0,2022,1,1
+M001519,BCS,Preventive,Medicaid,Medicaid,F,43,Midwest,0,2023,1,1
+M001520,BCS,Preventive,Medicaid,Medicaid,M,47,West,0,2023,1,1
+M001521,COL,Preventive,Medicaid,Medicaid,M,52,Southeast,0,2022,0,1
+M001522,COL,Preventive,Exchange,Exchange,M,35,Southwest,0,2022,1,1
+M001523,W34,Child/Adolescent,Commercial HMO,Commercial,F,47,Southeast,0,2022,1,1
+M001524,FUH7,Behavioral,Medicare Advantage,Medicare,F,32,Northeast,0,2024,0,1
+M001525,CBP,Cardiovascular,Commercial HMO,Commercial,M,76,Midwest,0,2024,1,1
+M001526,BCS,Preventive,Medicare Advantage,Medicare,F,30,Southwest,0,2023,1,1
+M001527,W34,Child/Adolescent,Exchange,Exchange,M,62,Midwest,1,2023,1,1
+M001528,AMM,Behavioral,Commercial PPO,Commercial,M,28,Midwest,0,2024,0,1
+M001529,BCS,Preventive,Medicare Advantage,Medicare,F,72,Southwest,0,2024,1,1
+M001530,CCS,Preventive,Exchange,Exchange,F,40,Southeast,0,2023,1,1
+M001531,AMM,Behavioral,Medicare Advantage,Medicare,F,77,Southwest,0,2022,0,1
+M001532,CDC-EYE,Diabetes,Commercial PPO,Commercial,F,22,West,0,2022,1,1
+M001533,BCS,Preventive,Commercial PPO,Commercial,F,31,Northeast,0,2022,1,1
+M001534,FUH7,Behavioral,Exchange,Exchange,F,73,Southeast,0,2024,0,1
+M001535,FUH7,Behavioral,Medicaid,Medicaid,F,80,Southeast,0,2023,1,1
+M001536,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,35,Midwest,0,2023,1,1
+M001537,AMM,Behavioral,Commercial PPO,Commercial,M,43,Southeast,0,2022,1,1
+M001538,AMM,Behavioral,Medicaid,Medicaid,M,79,West,0,2024,1,1
+M001539,CBP,Cardiovascular,Medicare Advantage,Medicare,M,43,Midwest,0,2023,1,1
+M001540,FUH7,Behavioral,Commercial PPO,Commercial,F,79,Midwest,0,2023,1,1
+M001541,CDC-EYE,Diabetes,Exchange,Exchange,F,28,West,0,2023,0,1
+M001542,CCS,Preventive,Exchange,Exchange,M,82,Southwest,0,2024,0,1
+M001543,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,23,Midwest,0,2022,1,1
+M001544,COL,Preventive,Medicaid,Medicaid,M,45,West,0,2022,0,1
+M001545,CDC-HbA1c,Diabetes,Exchange,Exchange,M,55,Northeast,0,2024,1,1
+M001546,CCS,Preventive,Commercial PPO,Commercial,F,53,Northeast,1,2024,0,1
+M001547,CBP,Cardiovascular,Medicare Advantage,Medicare,F,39,Midwest,1,2022,0,1
+M001548,BCS,Preventive,Commercial HMO,Commercial,M,32,Southwest,0,2022,0,1
+M001549,CDC-KED,Diabetes,Commercial HMO,Commercial,F,45,Northeast,0,2022,1,1
+M001550,AMM,Behavioral,Exchange,Exchange,F,40,Southwest,1,2022,1,1
+M001551,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,F,29,West,0,2023,1,1
+M001552,FUH7,Behavioral,Medicaid,Medicaid,M,56,Southwest,0,2024,0,1
+M001553,W34,Child/Adolescent,Commercial PPO,Commercial,F,32,Midwest,0,2024,1,1
+M001554,BCS,Preventive,Commercial PPO,Commercial,M,53,West,0,2024,1,1
+M001555,COL,Preventive,Commercial HMO,Commercial,M,32,West,0,2023,1,1
+M001556,CDC-KED,Diabetes,Exchange,Exchange,F,38,West,0,2023,1,1
+M001557,FUH7,Behavioral,Commercial PPO,Commercial,F,69,Southeast,0,2022,0,1
+M001558,CCS,Preventive,Exchange,Exchange,F,39,Southeast,0,2024,1,1
+M001559,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,59,Southwest,1,2024,0,1
+M001560,CDC-EYE,Diabetes,Commercial HMO,Commercial,F,76,West,0,2022,0,1
+M001561,CBP,Cardiovascular,Commercial HMO,Commercial,M,64,Midwest,0,2022,1,1
+M001562,FUH7,Behavioral,Commercial PPO,Commercial,M,68,Southeast,0,2024,1,1
+M001563,CDC-EYE,Diabetes,Commercial PPO,Commercial,M,51,Northeast,0,2022,1,1
+M001564,FUH7,Behavioral,Commercial HMO,Commercial,M,59,Southwest,0,2024,1,1
+M001565,CDC-EYE,Diabetes,Exchange,Exchange,M,34,Midwest,0,2023,0,1
+M001566,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,F,44,Northeast,0,2024,0,1
+M001567,CCS,Preventive,Commercial HMO,Commercial,M,43,Northeast,0,2023,1,1
+M001568,AMM,Behavioral,Exchange,Exchange,M,69,Northeast,0,2024,0,1
+M001569,COL,Preventive,Commercial PPO,Commercial,M,34,Southeast,0,2023,1,1
+M001570,AMM,Behavioral,Medicare Advantage,Medicare,F,22,West,0,2024,0,1
+M001571,CDC-EYE,Diabetes,Commercial PPO,Commercial,M,20,West,0,2024,0,1
+M001572,CCS,Preventive,Medicaid,Medicaid,F,66,Southeast,0,2024,1,1
+M001573,AMM,Behavioral,Commercial PPO,Commercial,M,53,Southeast,0,2022,1,1
+M001574,COL,Preventive,Medicaid,Medicaid,F,19,Northeast,0,2022,1,1
+M001575,COL,Preventive,Medicare Advantage,Medicare,F,66,West,0,2024,1,1
+M001576,CBP,Cardiovascular,Commercial PPO,Commercial,F,61,Midwest,0,2024,0,1
+M001577,CCS,Preventive,Medicaid,Medicaid,M,40,West,0,2024,1,1
+M001578,W34,Child/Adolescent,Exchange,Exchange,F,76,Midwest,0,2024,1,1
+M001579,BCS,Preventive,Commercial PPO,Commercial,F,83,West,0,2024,1,1
+M001580,CDC-EYE,Diabetes,Commercial HMO,Commercial,M,46,Southwest,0,2022,1,1
+M001581,CDC-HbA1c,Diabetes,Medicaid,Medicaid,F,49,Northeast,0,2023,1,1
+M001582,CDC-KED,Diabetes,Exchange,Exchange,M,63,Southeast,0,2024,1,1
+M001583,COL,Preventive,Commercial PPO,Commercial,M,51,West,0,2022,0,1
+M001584,W34,Child/Adolescent,Medicaid,Medicaid,F,32,Northeast,0,2024,0,1
+M001585,FUH7,Behavioral,Medicaid,Medicaid,M,53,Northeast,0,2023,1,1
+M001586,W34,Child/Adolescent,Medicaid,Medicaid,M,29,Midwest,0,2023,1,1
+M001587,W34,Child/Adolescent,Exchange,Exchange,M,75,Midwest,0,2022,1,1
+M001588,COL,Preventive,Medicaid,Medicaid,F,41,West,0,2023,1,1
+M001589,CDC-HbA1c,Diabetes,Exchange,Exchange,M,21,Midwest,1,2024,1,1
+M001590,FUH7,Behavioral,Medicaid,Medicaid,M,69,Southwest,0,2023,1,1
+M001591,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,46,Southeast,0,2022,1,1
+M001592,FUH7,Behavioral,Medicare Advantage,Medicare,M,44,Southwest,0,2022,1,1
+M001593,CDC-KED,Diabetes,Commercial PPO,Commercial,F,31,Northeast,0,2022,1,1
+M001594,CBP,Cardiovascular,Commercial HMO,Commercial,M,71,Southwest,0,2024,1,1
+M001595,CDC-HbA1c,Diabetes,Medicaid,Medicaid,M,31,West,1,2023,1,1
+M001596,CDC-EYE,Diabetes,Commercial HMO,Commercial,F,84,Northeast,0,2022,0,1
+M001597,W34,Child/Adolescent,Commercial HMO,Commercial,F,78,Southwest,0,2023,1,1
+M001598,CDC-EYE,Diabetes,Medicare Advantage,Medicare,F,54,Southeast,0,2023,1,1
+M001599,W34,Child/Adolescent,Commercial HMO,Commercial,F,79,Midwest,0,2023,0,1
+M001600,FUH7,Behavioral,Commercial HMO,Commercial,F,38,Midwest,0,2023,1,1
+M001601,CDC-HbA1c,Diabetes,Exchange,Exchange,F,72,West,0,2022,1,1
+M001602,FUH7,Behavioral,Medicare Advantage,Medicare,F,25,Southwest,0,2022,1,1
+M001603,AMM,Behavioral,Commercial PPO,Commercial,M,72,Midwest,0,2024,1,1
+M001604,CBP,Cardiovascular,Exchange,Exchange,F,72,Southeast,0,2022,0,1
+M001605,FUH7,Behavioral,Commercial PPO,Commercial,M,70,Southwest,0,2023,0,1
+M001606,COL,Preventive,Commercial HMO,Commercial,F,66,Southwest,0,2023,1,1
+M001607,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,47,Southeast,0,2024,0,1
+M001608,CBP,Cardiovascular,Exchange,Exchange,M,82,Southwest,0,2023,1,1
+M001609,BCS,Preventive,Commercial PPO,Commercial,F,23,Northeast,0,2023,1,1
+M001610,CCS,Preventive,Commercial PPO,Commercial,F,18,Northeast,0,2024,1,1
+M001611,CBP,Cardiovascular,Commercial HMO,Commercial,F,54,Midwest,0,2024,1,1
+M001612,COL,Preventive,Medicaid,Medicaid,M,29,West,0,2022,1,1
+M001613,CDC-EYE,Diabetes,Exchange,Exchange,M,23,Midwest,0,2022,0,1
+M001614,CCS,Preventive,Exchange,Exchange,F,55,Northeast,0,2023,1,1
+M001615,BCS,Preventive,Commercial HMO,Commercial,F,77,Northeast,0,2023,1,1
+M001616,CDC-EYE,Diabetes,Commercial PPO,Commercial,F,83,Northeast,0,2024,1,1
+M001617,CDC-KED,Diabetes,Commercial PPO,Commercial,M,78,Southeast,0,2023,1,1
+M001618,FUH7,Behavioral,Commercial HMO,Commercial,F,55,Southwest,0,2023,1,1
+M001619,W34,Child/Adolescent,Medicaid,Medicaid,F,80,Midwest,0,2023,0,1
+M001620,CDC-EYE,Diabetes,Medicaid,Medicaid,M,80,Midwest,0,2024,1,1
+M001621,CDC-EYE,Diabetes,Exchange,Exchange,M,66,West,0,2024,0,1
+M001622,FUH7,Behavioral,Medicaid,Medicaid,M,68,Northeast,0,2022,0,1
+M001623,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,F,77,Southwest,0,2024,1,1
+M001624,BCS,Preventive,Medicare Advantage,Medicare,M,29,Southeast,0,2022,0,1
+M001625,BCS,Preventive,Exchange,Exchange,M,27,West,1,2024,0,1
+M001626,CDC-HbA1c,Diabetes,Exchange,Exchange,M,34,Southeast,0,2022,1,1
+M001627,W34,Child/Adolescent,Medicaid,Medicaid,F,22,Midwest,0,2022,1,1
+M001628,BCS,Preventive,Exchange,Exchange,F,38,West,0,2023,1,1
+M001629,CDC-HbA1c,Diabetes,Exchange,Exchange,F,31,Northeast,0,2022,0,1
+M001630,BCS,Preventive,Exchange,Exchange,M,47,Southwest,0,2022,0,1
+M001631,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,F,57,Southeast,0,2023,1,1
+M001632,AMM,Behavioral,Medicaid,Medicaid,M,21,Northeast,0,2023,0,1
+M001633,CBP,Cardiovascular,Medicaid,Medicaid,F,29,Midwest,0,2023,0,1
+M001634,CDC-KED,Diabetes,Commercial HMO,Commercial,M,66,Southeast,0,2022,1,1
+M001635,CBP,Cardiovascular,Medicare Advantage,Medicare,F,24,Northeast,0,2023,1,1
+M001636,AMM,Behavioral,Medicaid,Medicaid,M,30,Northeast,0,2022,0,1
+M001637,AMM,Behavioral,Commercial PPO,Commercial,F,67,Southwest,0,2024,0,1
+M001638,CCS,Preventive,Medicare Advantage,Medicare,M,69,Northeast,0,2023,0,1
+M001639,CBP,Cardiovascular,Commercial PPO,Commercial,M,21,Northeast,0,2024,1,1
+M001640,CDC-KED,Diabetes,Commercial PPO,Commercial,M,83,West,0,2022,1,1
+M001641,CDC-HbA1c,Diabetes,Medicaid,Medicaid,M,78,Northeast,0,2024,1,1
+M001642,W34,Child/Adolescent,Medicaid,Medicaid,M,21,Southeast,0,2023,0,1
+M001643,COL,Preventive,Medicare Advantage,Medicare,M,57,West,0,2024,1,1
+M001644,CCS,Preventive,Commercial PPO,Commercial,F,37,Northeast,0,2022,0,1
+M001645,CDC-HbA1c,Diabetes,Exchange,Exchange,M,19,Southwest,0,2023,0,1
+M001646,CBP,Cardiovascular,Exchange,Exchange,F,79,Midwest,0,2024,1,1
+M001647,COL,Preventive,Commercial HMO,Commercial,M,55,Northeast,0,2022,1,1
+M001648,CCS,Preventive,Commercial PPO,Commercial,F,28,Southeast,0,2024,0,1
+M001649,CCS,Preventive,Commercial HMO,Commercial,F,29,West,0,2022,1,1
+M001650,AMM,Behavioral,Commercial HMO,Commercial,M,72,Southeast,0,2023,0,1
+M001651,COL,Preventive,Medicaid,Medicaid,M,83,Midwest,0,2023,1,1
+M001652,CDC-KED,Diabetes,Commercial HMO,Commercial,M,38,Southwest,0,2022,1,1
+M001653,CBP,Cardiovascular,Commercial PPO,Commercial,M,78,Northeast,0,2022,0,1
+M001654,CDC-EYE,Diabetes,Commercial PPO,Commercial,F,30,Midwest,0,2024,1,1
+M001655,BCS,Preventive,Commercial HMO,Commercial,F,81,Midwest,0,2022,1,1
+M001656,CDC-KED,Diabetes,Exchange,Exchange,M,66,Southeast,0,2023,1,1
+M001657,COL,Preventive,Commercial HMO,Commercial,F,25,Midwest,0,2022,1,1
+M001658,CBP,Cardiovascular,Exchange,Exchange,F,39,Southeast,0,2024,0,1
+M001659,CDC-KED,Diabetes,Commercial PPO,Commercial,M,43,Northeast,0,2024,0,1
+M001660,CDC-KED,Diabetes,Commercial HMO,Commercial,M,53,Northeast,0,2023,0,1
+M001661,FUH7,Behavioral,Exchange,Exchange,M,36,Midwest,0,2023,1,1
+M001662,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,46,Northeast,0,2024,1,1
+M001663,FUH7,Behavioral,Medicare Advantage,Medicare,M,61,Southeast,0,2023,0,1
+M001664,CBP,Cardiovascular,Medicare Advantage,Medicare,M,24,West,0,2022,1,1
+M001665,CDC-EYE,Diabetes,Exchange,Exchange,F,50,West,0,2024,1,1
+M001666,W34,Child/Adolescent,Commercial HMO,Commercial,M,28,West,0,2022,1,1
+M001667,CBP,Cardiovascular,Medicare Advantage,Medicare,F,58,West,0,2024,1,1
+M001668,AMM,Behavioral,Medicaid,Medicaid,M,41,Northeast,0,2023,0,1
+M001669,CDC-HbA1c,Diabetes,Medicaid,Medicaid,F,82,Midwest,0,2023,1,1
+M001670,CDC-EYE,Diabetes,Exchange,Exchange,M,60,Southwest,0,2024,1,1
+M001671,FUH7,Behavioral,Commercial HMO,Commercial,F,81,Northeast,0,2024,1,1
+M001672,CDC-EYE,Diabetes,Exchange,Exchange,M,19,Northeast,0,2024,1,1
+M001673,CDC-EYE,Diabetes,Medicaid,Medicaid,M,38,West,0,2024,1,1
+M001674,CCS,Preventive,Commercial HMO,Commercial,M,63,Southwest,0,2023,1,1
+M001675,CBP,Cardiovascular,Commercial PPO,Commercial,F,70,Midwest,0,2024,0,1
+M001676,CBP,Cardiovascular,Exchange,Exchange,F,45,Northeast,0,2024,0,1
+M001677,CCS,Preventive,Medicare Advantage,Medicare,F,70,Southeast,1,2022,1,1
+M001678,W34,Child/Adolescent,Commercial HMO,Commercial,M,83,Northeast,0,2024,1,1
+M001679,W34,Child/Adolescent,Commercial PPO,Commercial,F,71,Midwest,0,2024,1,1
+M001680,AMM,Behavioral,Commercial PPO,Commercial,F,80,Midwest,0,2022,0,1
+M001681,CDC-EYE,Diabetes,Commercial HMO,Commercial,F,61,West,0,2024,0,1
+M001682,COL,Preventive,Exchange,Exchange,F,73,Midwest,0,2023,1,1
+M001683,BCS,Preventive,Medicare Advantage,Medicare,F,62,West,0,2023,0,1
+M001684,CDC-EYE,Diabetes,Exchange,Exchange,M,24,Midwest,0,2023,1,1
+M001685,CCS,Preventive,Commercial HMO,Commercial,F,67,Southeast,0,2024,1,1
+M001686,COL,Preventive,Commercial HMO,Commercial,M,19,Southeast,0,2022,0,1
+M001687,CDC-KED,Diabetes,Commercial HMO,Commercial,F,55,Southwest,0,2023,0,1
+M001688,COL,Preventive,Commercial PPO,Commercial,M,23,Northeast,0,2024,1,1
+M001689,FUH7,Behavioral,Exchange,Exchange,F,37,Southeast,0,2022,1,1
+M001690,CDC-KED,Diabetes,Commercial HMO,Commercial,F,51,Southwest,0,2022,0,1
+M001691,COL,Preventive,Commercial HMO,Commercial,F,66,West,0,2022,0,1
+M001692,FUH7,Behavioral,Medicaid,Medicaid,M,24,Southwest,0,2023,1,1
+M001693,CDC-HbA1c,Diabetes,Exchange,Exchange,M,76,Northeast,0,2022,1,1
+M001694,FUH7,Behavioral,Medicaid,Medicaid,M,27,Southeast,0,2024,1,1
+M001695,CDC-HbA1c,Diabetes,Exchange,Exchange,M,55,West,0,2023,1,1
+M001696,W34,Child/Adolescent,Medicare Advantage,Medicare,M,39,Midwest,0,2022,1,1
+M001697,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,F,55,Southeast,0,2023,0,1
+M001698,COL,Preventive,Exchange,Exchange,F,28,Midwest,0,2023,1,1
+M001699,W34,Child/Adolescent,Medicare Advantage,Medicare,F,78,Northeast,0,2022,1,1
+M001700,COL,Preventive,Exchange,Exchange,M,79,Southwest,0,2024,0,1
+M001701,BCS,Preventive,Commercial PPO,Commercial,F,22,Northeast,0,2022,1,1
+M001702,CBP,Cardiovascular,Medicare Advantage,Medicare,M,79,Southwest,0,2024,0,1
+M001703,CDC-EYE,Diabetes,Medicaid,Medicaid,F,36,Midwest,0,2022,1,1
+M001704,CCS,Preventive,Commercial HMO,Commercial,F,51,Southwest,0,2023,0,1
+M001705,BCS,Preventive,Commercial HMO,Commercial,M,76,Southwest,0,2022,0,1
+M001706,CDC-EYE,Diabetes,Medicaid,Medicaid,F,68,Northeast,0,2023,1,1
+M001707,FUH7,Behavioral,Commercial HMO,Commercial,M,64,Southeast,0,2022,0,1
+M001708,CCS,Preventive,Exchange,Exchange,M,28,Midwest,0,2024,0,1
+M001709,AMM,Behavioral,Exchange,Exchange,F,22,Midwest,0,2024,1,1
+M001710,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,F,24,Northeast,0,2024,0,1
+M001711,CBP,Cardiovascular,Medicare Advantage,Medicare,M,74,West,0,2022,1,1
+M001712,CBP,Cardiovascular,Commercial HMO,Commercial,F,45,West,0,2024,0,1
+M001713,COL,Preventive,Commercial PPO,Commercial,M,38,Northeast,0,2024,0,1
+M001714,FUH7,Behavioral,Commercial HMO,Commercial,F,61,West,0,2022,1,1
+M001715,CCS,Preventive,Exchange,Exchange,F,65,West,0,2022,1,1
+M001716,CDC-EYE,Diabetes,Commercial HMO,Commercial,M,46,Northeast,0,2023,1,1
+M001717,CBP,Cardiovascular,Exchange,Exchange,F,52,Midwest,0,2022,1,1
+M001718,W34,Child/Adolescent,Commercial PPO,Commercial,M,54,West,0,2022,1,1
+M001719,CBP,Cardiovascular,Medicare Advantage,Medicare,M,50,Southwest,0,2024,1,1
+M001720,CBP,Cardiovascular,Exchange,Exchange,F,18,Southwest,0,2024,0,1
+M001721,CDC-KED,Diabetes,Commercial PPO,Commercial,F,22,West,0,2024,0,1
+M001722,CDC-EYE,Diabetes,Medicaid,Medicaid,F,42,West,0,2024,1,1
+M001723,FUH7,Behavioral,Exchange,Exchange,F,82,Southeast,0,2022,0,1
+M001724,CDC-KED,Diabetes,Medicaid,Medicaid,F,35,Midwest,0,2022,1,1
+M001725,FUH7,Behavioral,Exchange,Exchange,F,71,Midwest,0,2023,1,1
+M001726,COL,Preventive,Commercial HMO,Commercial,M,70,West,0,2022,1,1
+M001727,CDC-KED,Diabetes,Commercial PPO,Commercial,F,37,Northeast,0,2022,0,1
+M001728,FUH7,Behavioral,Commercial PPO,Commercial,F,40,Southeast,0,2024,1,1
+M001729,BCS,Preventive,Medicare Advantage,Medicare,M,65,Southwest,0,2024,1,1
+M001730,AMM,Behavioral,Medicare Advantage,Medicare,M,79,Northeast,0,2022,0,1
+M001731,FUH7,Behavioral,Commercial HMO,Commercial,F,56,Midwest,0,2024,0,1
+M001732,AMM,Behavioral,Medicare Advantage,Medicare,M,21,West,0,2023,0,1
+M001733,CDC-EYE,Diabetes,Exchange,Exchange,F,57,West,0,2022,1,1
+M001734,W34,Child/Adolescent,Medicaid,Medicaid,F,18,Northeast,0,2022,1,1
+M001735,CCS,Preventive,Medicaid,Medicaid,F,64,Southwest,0,2024,0,1
+M001736,CDC-KED,Diabetes,Exchange,Exchange,M,62,West,0,2023,0,1
+M001737,CBP,Cardiovascular,Commercial PPO,Commercial,M,31,Southeast,0,2023,1,1
+M001738,CCS,Preventive,Medicaid,Medicaid,M,71,Southeast,0,2022,0,1
+M001739,CBP,Cardiovascular,Commercial HMO,Commercial,M,58,Northeast,0,2024,1,1
+M001740,AMM,Behavioral,Exchange,Exchange,M,70,Northeast,0,2022,1,1
+M001741,CDC-HbA1c,Diabetes,Medicaid,Medicaid,F,63,Northeast,0,2022,1,1
+M001742,CDC-EYE,Diabetes,Medicaid,Medicaid,F,31,Southeast,0,2023,0,1
+M001743,W34,Child/Adolescent,Medicare Advantage,Medicare,M,30,Midwest,0,2022,1,1
+M001744,W34,Child/Adolescent,Medicare Advantage,Medicare,M,26,Southwest,0,2022,1,1
+M001745,CBP,Cardiovascular,Commercial PPO,Commercial,F,68,Southwest,0,2023,1,1
+M001746,BCS,Preventive,Commercial PPO,Commercial,F,66,Southeast,0,2024,1,1
+M001747,COL,Preventive,Medicaid,Medicaid,F,76,Southwest,0,2022,1,1
+M001748,CDC-HbA1c,Diabetes,Medicaid,Medicaid,M,78,Southeast,0,2024,1,1
+M001749,COL,Preventive,Commercial PPO,Commercial,F,69,Northeast,0,2024,1,1
+M001750,W34,Child/Adolescent,Commercial PPO,Commercial,M,84,West,0,2024,1,1
+M001751,CDC-HbA1c,Diabetes,Medicaid,Medicaid,M,73,Southeast,0,2022,0,1
+M001752,CDC-KED,Diabetes,Commercial PPO,Commercial,M,33,West,0,2022,1,1
+M001753,CDC-HbA1c,Diabetes,Exchange,Exchange,F,82,Northeast,0,2024,1,1
+M001754,CDC-EYE,Diabetes,Exchange,Exchange,M,80,Southeast,0,2024,1,1
+M001755,AMM,Behavioral,Commercial HMO,Commercial,F,64,Southeast,0,2024,1,1
+M001756,CDC-HbA1c,Diabetes,Medicaid,Medicaid,F,84,Southwest,0,2023,1,1
+M001757,CCS,Preventive,Medicare Advantage,Medicare,M,26,Southwest,0,2022,1,1
+M001758,CCS,Preventive,Medicare Advantage,Medicare,F,67,Southwest,0,2024,1,1
+M001759,CDC-HbA1c,Diabetes,Exchange,Exchange,F,69,West,1,2023,1,1
+M001760,CBP,Cardiovascular,Medicare Advantage,Medicare,F,60,Southeast,1,2022,1,1
+M001761,COL,Preventive,Medicare Advantage,Medicare,F,26,West,0,2024,1,1
+M001762,CDC-KED,Diabetes,Commercial HMO,Commercial,M,83,Southeast,0,2024,1,1
+M001763,W34,Child/Adolescent,Medicaid,Medicaid,F,64,Southwest,0,2022,1,1
+M001764,BCS,Preventive,Commercial HMO,Commercial,F,82,West,1,2023,1,1
+M001765,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,M,50,West,0,2024,1,1
+M001766,AMM,Behavioral,Commercial HMO,Commercial,M,69,Southeast,0,2023,1,1
+M001767,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,F,42,West,0,2022,1,1
+M001768,FUH7,Behavioral,Exchange,Exchange,M,77,Southeast,0,2023,0,1
+M001769,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,F,52,West,0,2024,1,1
+M001770,BCS,Preventive,Medicare Advantage,Medicare,F,69,Midwest,0,2022,0,1
+M001771,COL,Preventive,Medicare Advantage,Medicare,M,57,Southwest,0,2023,1,1
+M001772,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,F,54,West,0,2022,1,1
+M001773,CBP,Cardiovascular,Commercial PPO,Commercial,F,82,Southwest,0,2024,0,1
+M001774,COL,Preventive,Exchange,Exchange,M,60,Southwest,0,2023,1,1
+M001775,W34,Child/Adolescent,Medicare Advantage,Medicare,M,65,Midwest,0,2023,1,1
+M001776,AMM,Behavioral,Medicaid,Medicaid,F,54,Northeast,0,2022,1,1
+M001777,CBP,Cardiovascular,Commercial PPO,Commercial,F,43,West,0,2024,1,1
+M001778,CCS,Preventive,Medicaid,Medicaid,M,33,West,0,2023,1,1
+M001779,W34,Child/Adolescent,Exchange,Exchange,M,24,Southwest,1,2024,1,1
+M001780,CCS,Preventive,Exchange,Exchange,F,42,Southwest,0,2022,1,1
+M001781,AMM,Behavioral,Commercial PPO,Commercial,F,64,Southwest,0,2022,1,1
+M001782,CCS,Preventive,Medicare Advantage,Medicare,M,36,West,0,2023,1,1
+M001783,CDC-HbA1c,Diabetes,Medicaid,Medicaid,F,69,West,0,2022,1,1
+M001784,CCS,Preventive,Exchange,Exchange,M,78,Northeast,0,2023,1,1
+M001785,CDC-KED,Diabetes,Exchange,Exchange,M,52,Midwest,0,2022,1,1
+M001786,FUH7,Behavioral,Medicaid,Medicaid,M,71,Southwest,0,2024,0,1
+M001787,COL,Preventive,Commercial HMO,Commercial,F,51,Southeast,0,2022,0,1
+M001788,BCS,Preventive,Medicare Advantage,Medicare,F,44,Southwest,0,2022,0,1
+M001789,FUH7,Behavioral,Medicaid,Medicaid,F,79,Southwest,0,2022,1,1
+M001790,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,80,Northeast,0,2023,1,1
+M001791,AMM,Behavioral,Medicare Advantage,Medicare,F,79,West,0,2022,0,1
+M001792,AMM,Behavioral,Commercial HMO,Commercial,F,77,West,1,2022,0,1
+M001793,BCS,Preventive,Commercial PPO,Commercial,M,49,Midwest,0,2023,0,1
+M001794,AMM,Behavioral,Commercial PPO,Commercial,M,74,Southwest,0,2024,1,1
+M001795,COL,Preventive,Commercial HMO,Commercial,F,71,Midwest,0,2022,0,1
+M001796,W34,Child/Adolescent,Exchange,Exchange,M,35,Southwest,0,2024,1,1
+M001797,AMM,Behavioral,Medicare Advantage,Medicare,M,22,West,0,2024,1,1
+M001798,COL,Preventive,Exchange,Exchange,M,74,Southeast,0,2024,1,1
+M001799,CDC-KED,Diabetes,Medicare Advantage,Medicare,M,33,West,0,2023,1,1
+M001800,CDC-KED,Diabetes,Medicaid,Medicaid,F,22,Southeast,0,2024,1,1
+M001801,BCS,Preventive,Commercial HMO,Commercial,F,68,Northeast,0,2023,1,1
+M001802,W34,Child/Adolescent,Medicaid,Medicaid,F,51,Southeast,0,2023,1,1
+M001803,CDC-EYE,Diabetes,Exchange,Exchange,F,28,Northeast,0,2023,0,1
+M001804,CDC-KED,Diabetes,Medicaid,Medicaid,M,72,Southeast,0,2023,1,1
+M001805,W34,Child/Adolescent,Exchange,Exchange,F,55,West,0,2022,0,1
+M001806,BCS,Preventive,Commercial HMO,Commercial,F,31,Northeast,0,2023,1,1
+M001807,COL,Preventive,Exchange,Exchange,M,53,Midwest,0,2023,0,1
+M001808,W34,Child/Adolescent,Exchange,Exchange,M,18,Southwest,0,2023,1,1
+M001809,FUH7,Behavioral,Medicare Advantage,Medicare,F,39,Northeast,0,2024,0,1
+M001810,COL,Preventive,Commercial HMO,Commercial,F,25,West,0,2024,0,1
+M001811,AMM,Behavioral,Medicare Advantage,Medicare,F,82,Southwest,0,2022,1,1
+M001812,AMM,Behavioral,Commercial PPO,Commercial,M,48,Northeast,0,2024,0,1
+M001813,W34,Child/Adolescent,Medicare Advantage,Medicare,M,46,Northeast,0,2022,1,1
+M001814,COL,Preventive,Commercial HMO,Commercial,M,36,West,0,2023,1,1
+M001815,COL,Preventive,Medicaid,Medicaid,F,52,Midwest,0,2022,1,1
+M001816,CDC-EYE,Diabetes,Exchange,Exchange,F,49,Midwest,0,2023,1,1
+M001817,COL,Preventive,Commercial PPO,Commercial,M,42,Midwest,0,2023,1,1
+M001818,CDC-KED,Diabetes,Exchange,Exchange,F,28,Southeast,0,2022,0,1
+M001819,COL,Preventive,Commercial HMO,Commercial,M,29,Midwest,0,2024,1,1
+M001820,CBP,Cardiovascular,Commercial HMO,Commercial,M,59,West,0,2023,1,1
+M001821,CDC-KED,Diabetes,Exchange,Exchange,F,37,Midwest,0,2024,1,1
+M001822,FUH7,Behavioral,Medicaid,Medicaid,F,29,Midwest,0,2022,0,1
+M001823,BCS,Preventive,Exchange,Exchange,F,58,West,0,2022,1,1
+M001824,CCS,Preventive,Commercial PPO,Commercial,F,75,Midwest,0,2024,1,1
+M001825,CDC-HbA1c,Diabetes,Medicaid,Medicaid,F,78,Midwest,0,2024,1,1
+M001826,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,M,21,West,0,2023,0,1
+M001827,CBP,Cardiovascular,Commercial PPO,Commercial,M,77,Southwest,0,2022,1,1
+M001828,AMM,Behavioral,Exchange,Exchange,M,24,Northeast,0,2022,1,1
+M001829,CCS,Preventive,Commercial HMO,Commercial,M,60,Southwest,1,2022,1,1
+M001830,AMM,Behavioral,Medicaid,Medicaid,M,26,Midwest,0,2023,1,1
+M001831,CDC-EYE,Diabetes,Commercial PPO,Commercial,F,21,West,0,2024,0,1
+M001832,W34,Child/Adolescent,Medicare Advantage,Medicare,M,49,Southwest,0,2023,1,1
+M001833,COL,Preventive,Medicaid,Medicaid,F,61,Southwest,0,2024,1,1
+M001834,BCS,Preventive,Exchange,Exchange,F,33,Southeast,0,2024,0,1
+M001835,CCS,Preventive,Medicaid,Medicaid,F,64,West,0,2024,1,1
+M001836,BCS,Preventive,Medicaid,Medicaid,F,62,West,0,2023,1,1
+M001837,COL,Preventive,Commercial HMO,Commercial,M,66,Southwest,0,2024,1,1
+M001838,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,M,37,Southwest,0,2022,1,1
+M001839,CCS,Preventive,Commercial PPO,Commercial,M,46,Southwest,0,2024,1,1
+M001840,CDC-HbA1c,Diabetes,Exchange,Exchange,F,18,West,0,2022,1,1
+M001841,COL,Preventive,Medicare Advantage,Medicare,M,52,Northeast,0,2022,1,1
+M001842,BCS,Preventive,Medicare Advantage,Medicare,M,38,Midwest,0,2023,0,1
+M001843,AMM,Behavioral,Medicaid,Medicaid,M,65,West,0,2024,1,1
+M001844,CCS,Preventive,Commercial PPO,Commercial,F,28,Midwest,0,2022,1,1
+M001845,AMM,Behavioral,Commercial HMO,Commercial,M,44,Southeast,0,2022,0,1
+M001846,CDC-KED,Diabetes,Exchange,Exchange,M,73,Midwest,0,2024,1,1
+M001847,W34,Child/Adolescent,Medicare Advantage,Medicare,F,44,Midwest,0,2022,1,1
+M001848,W34,Child/Adolescent,Medicaid,Medicaid,F,68,Northeast,0,2022,1,1
+M001849,CDC-KED,Diabetes,Commercial PPO,Commercial,M,78,Midwest,0,2023,1,1
+M001850,CDC-HbA1c,Diabetes,Medicaid,Medicaid,F,49,Midwest,0,2022,0,1
+M001851,FUH7,Behavioral,Commercial HMO,Commercial,M,62,Midwest,0,2023,0,1
+M001852,CCS,Preventive,Commercial PPO,Commercial,M,30,Southwest,0,2024,1,1
+M001853,CBP,Cardiovascular,Medicare Advantage,Medicare,F,66,Southwest,0,2024,0,1
+M001854,BCS,Preventive,Medicare Advantage,Medicare,M,31,Southwest,0,2022,1,1
+M001855,COL,Preventive,Medicare Advantage,Medicare,M,43,Southwest,0,2023,1,1
+M001856,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,F,64,Southeast,1,2022,1,1
+M001857,FUH7,Behavioral,Commercial PPO,Commercial,F,52,Southwest,0,2024,1,1
+M001858,CCS,Preventive,Commercial HMO,Commercial,M,63,Southwest,0,2023,1,1
+M001859,W34,Child/Adolescent,Commercial PPO,Commercial,M,70,Southeast,0,2023,0,1
+M001860,AMM,Behavioral,Medicare Advantage,Medicare,F,57,Southwest,0,2024,1,1
+M001861,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,M,79,Midwest,0,2022,1,1
+M001862,CDC-KED,Diabetes,Medicare Advantage,Medicare,M,47,Southeast,0,2023,1,1
+M001863,AMM,Behavioral,Medicare Advantage,Medicare,F,52,Midwest,0,2022,0,1
+M001864,FUH7,Behavioral,Medicare Advantage,Medicare,F,59,Northeast,0,2022,1,1
+M001865,AMM,Behavioral,Commercial PPO,Commercial,F,50,Northeast,0,2022,0,1
+M001866,CDC-EYE,Diabetes,Medicaid,Medicaid,F,57,Northeast,1,2023,0,1
+M001867,AMM,Behavioral,Exchange,Exchange,M,65,West,0,2024,0,1
+M001868,CCS,Preventive,Medicare Advantage,Medicare,M,48,Southeast,0,2023,0,1
+M001869,CCS,Preventive,Exchange,Exchange,M,73,Northeast,0,2023,1,1
+M001870,W34,Child/Adolescent,Exchange,Exchange,M,42,Southwest,0,2023,1,1
+M001871,AMM,Behavioral,Exchange,Exchange,M,38,Southeast,0,2023,1,1
+M001872,CDC-KED,Diabetes,Medicaid,Medicaid,F,31,Midwest,0,2023,1,1
+M001873,BCS,Preventive,Commercial PPO,Commercial,M,27,West,0,2022,1,1
+M001874,CBP,Cardiovascular,Commercial PPO,Commercial,M,74,Southeast,0,2024,1,1
+M001875,W34,Child/Adolescent,Exchange,Exchange,M,33,Southwest,0,2023,1,1
+M001876,CDC-EYE,Diabetes,Commercial PPO,Commercial,M,35,Southwest,1,2023,0,1
+M001877,W34,Child/Adolescent,Medicare Advantage,Medicare,M,18,Southeast,0,2023,1,1
+M001878,BCS,Preventive,Medicare Advantage,Medicare,F,62,Southwest,0,2024,1,1
+M001879,CBP,Cardiovascular,Commercial PPO,Commercial,F,65,Southwest,0,2024,1,1
+M001880,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,71,Northeast,0,2023,1,1
+M001881,BCS,Preventive,Medicaid,Medicaid,F,40,Northeast,0,2023,1,1
+M001882,AMM,Behavioral,Medicaid,Medicaid,M,55,Northeast,0,2023,0,1
+M001883,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,M,45,Southwest,0,2024,1,1
+M001884,CDC-EYE,Diabetes,Exchange,Exchange,M,20,Northeast,0,2023,0,1
+M001885,AMM,Behavioral,Medicare Advantage,Medicare,M,57,Northeast,0,2023,0,1
+M001886,CDC-KED,Diabetes,Medicaid,Medicaid,F,75,West,0,2022,1,1
+M001887,CDC-EYE,Diabetes,Commercial PPO,Commercial,M,19,Southeast,0,2022,0,1
+M001888,AMM,Behavioral,Medicare Advantage,Medicare,M,59,Northeast,0,2022,1,1
+M001889,BCS,Preventive,Commercial HMO,Commercial,F,54,Southeast,0,2023,0,1
+M001890,CDC-KED,Diabetes,Exchange,Exchange,M,50,Southwest,0,2024,0,1
+M001891,AMM,Behavioral,Medicaid,Medicaid,F,24,Midwest,0,2023,1,1
+M001892,CBP,Cardiovascular,Medicare Advantage,Medicare,M,37,Southeast,0,2024,0,1
+M001893,CDC-KED,Diabetes,Commercial HMO,Commercial,M,29,Southeast,0,2022,1,1
+M001894,AMM,Behavioral,Commercial HMO,Commercial,F,58,Southeast,0,2024,0,1
+M001895,BCS,Preventive,Medicare Advantage,Medicare,M,84,West,0,2024,1,1
+M001896,W34,Child/Adolescent,Commercial HMO,Commercial,M,54,Midwest,0,2024,1,1
+M001897,BCS,Preventive,Medicare Advantage,Medicare,F,49,Midwest,0,2022,1,1
+M001898,COL,Preventive,Exchange,Exchange,M,21,West,0,2024,1,1
+M001899,CDC-HbA1c,Diabetes,Exchange,Exchange,M,59,Southwest,0,2022,1,1
+M001900,FUH7,Behavioral,Commercial PPO,Commercial,M,32,Midwest,0,2023,0,1
+M001901,CCS,Preventive,Commercial HMO,Commercial,M,38,West,0,2024,0,1
+M001902,FUH7,Behavioral,Medicaid,Medicaid,M,45,Midwest,0,2024,1,1
+M001903,BCS,Preventive,Medicare Advantage,Medicare,F,82,Southwest,0,2023,1,1
+M001904,W34,Child/Adolescent,Medicaid,Medicaid,M,21,West,0,2023,0,1
+M001905,AMM,Behavioral,Medicaid,Medicaid,M,56,West,0,2024,0,1
+M001906,AMM,Behavioral,Medicare Advantage,Medicare,M,83,Southeast,0,2023,0,1
+M001907,AMM,Behavioral,Medicare Advantage,Medicare,F,73,Midwest,0,2024,1,1
+M001908,W34,Child/Adolescent,Commercial HMO,Commercial,M,68,West,0,2023,0,1
+M001909,CDC-EYE,Diabetes,Medicaid,Medicaid,M,49,Northeast,0,2022,1,1
+M001910,COL,Preventive,Medicaid,Medicaid,F,64,Southeast,0,2024,0,1
+M001911,CCS,Preventive,Medicaid,Medicaid,M,33,Southeast,0,2023,1,1
+M001912,BCS,Preventive,Commercial HMO,Commercial,F,81,West,1,2023,1,1
+M001913,CCS,Preventive,Commercial PPO,Commercial,M,67,Southwest,0,2023,1,1
+M001914,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,M,29,Southwest,0,2022,0,1
+M001915,CDC-KED,Diabetes,Medicare Advantage,Medicare,M,60,Southwest,0,2023,1,1
+M001916,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,F,62,Midwest,0,2022,1,1
+M001917,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,M,83,West,0,2022,1,1
+M001918,COL,Preventive,Commercial PPO,Commercial,F,36,Midwest,0,2023,1,1
+M001919,BCS,Preventive,Medicare Advantage,Medicare,F,84,Southwest,0,2022,0,1
+M001920,CDC-HbA1c,Diabetes,Exchange,Exchange,F,68,Northeast,0,2022,0,1
+M001921,COL,Preventive,Medicare Advantage,Medicare,F,63,Midwest,1,2024,1,1
+M001922,CDC-KED,Diabetes,Commercial HMO,Commercial,F,31,Northeast,0,2022,1,1
+M001923,BCS,Preventive,Medicare Advantage,Medicare,F,59,Southeast,0,2022,1,1
+M001924,FUH7,Behavioral,Commercial PPO,Commercial,M,81,Midwest,0,2023,1,1
+M001925,FUH7,Behavioral,Commercial HMO,Commercial,F,46,West,0,2022,0,1
+M001926,BCS,Preventive,Commercial PPO,Commercial,F,60,West,0,2024,1,1
+M001927,AMM,Behavioral,Commercial PPO,Commercial,M,35,West,0,2023,1,1
+M001928,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,64,West,0,2024,0,1
+M001929,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,44,Southeast,0,2024,0,1
+M001930,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,M,58,Southeast,0,2022,0,1
+M001931,W34,Child/Adolescent,Medicaid,Medicaid,F,26,Southeast,0,2023,1,1
+M001932,W34,Child/Adolescent,Exchange,Exchange,F,82,Southeast,0,2024,1,1
+M001933,FUH7,Behavioral,Medicaid,Medicaid,M,22,West,0,2022,1,1
+M001934,COL,Preventive,Commercial PPO,Commercial,F,53,Southeast,0,2023,1,1
+M001935,COL,Preventive,Medicare Advantage,Medicare,F,80,Northeast,0,2022,1,1
+M001936,CDC-EYE,Diabetes,Commercial HMO,Commercial,F,39,Midwest,0,2022,0,1
+M001937,BCS,Preventive,Commercial HMO,Commercial,M,67,Southwest,0,2024,0,1
+M001938,BCS,Preventive,Commercial PPO,Commercial,M,75,Northeast,0,2023,1,1
+M001939,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,M,71,Midwest,0,2024,0,1
+M001940,CDC-HbA1c,Diabetes,Medicaid,Medicaid,M,27,Southeast,1,2024,1,1
+M001941,CCS,Preventive,Commercial PPO,Commercial,F,21,Midwest,0,2024,1,1
+M001942,COL,Preventive,Commercial HMO,Commercial,F,62,Midwest,0,2023,1,1
+M001943,CCS,Preventive,Commercial HMO,Commercial,F,66,Southwest,0,2023,1,1
+M001944,W34,Child/Adolescent,Commercial PPO,Commercial,F,37,Southeast,0,2023,1,1
+M001945,AMM,Behavioral,Medicaid,Medicaid,M,42,Northeast,0,2023,0,1
+M001946,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,F,45,West,0,2022,0,1
+M001947,CDC-KED,Diabetes,Medicaid,Medicaid,M,52,Northeast,1,2023,1,1
+M001948,CCS,Preventive,Exchange,Exchange,M,78,Southwest,0,2023,1,1
+M001949,COL,Preventive,Exchange,Exchange,M,81,Midwest,0,2023,1,1
+M001950,CBP,Cardiovascular,Commercial PPO,Commercial,F,19,Midwest,0,2023,0,1
+M001951,BCS,Preventive,Medicare Advantage,Medicare,F,25,Southeast,1,2024,0,1
+M001952,FUH7,Behavioral,Commercial HMO,Commercial,M,47,Southwest,0,2023,1,1
+M001953,CDC-EYE,Diabetes,Commercial PPO,Commercial,F,66,Midwest,0,2022,0,1
+M001954,AMM,Behavioral,Medicare Advantage,Medicare,M,70,West,0,2024,1,1
+M001955,COL,Preventive,Commercial HMO,Commercial,M,54,Southeast,0,2022,0,1
+M001956,W34,Child/Adolescent,Medicare Advantage,Medicare,M,58,Midwest,0,2023,1,1
+M001957,CDC-KED,Diabetes,Commercial HMO,Commercial,F,42,Southeast,0,2023,1,1
+M001958,COL,Preventive,Medicaid,Medicaid,M,75,West,0,2024,0,1
+M001959,FUH7,Behavioral,Exchange,Exchange,M,66,Midwest,0,2022,0,1
+M001960,CDC-HbA1c,Diabetes,Exchange,Exchange,F,37,Southeast,0,2022,1,1
+M001961,CDC-EYE,Diabetes,Commercial HMO,Commercial,M,35,Northeast,0,2024,0,1
+M001962,AMM,Behavioral,Commercial PPO,Commercial,F,68,Southeast,0,2023,1,1
+M001963,BCS,Preventive,Medicare Advantage,Medicare,F,60,Northeast,0,2024,1,1
+M001964,COL,Preventive,Exchange,Exchange,M,51,Northeast,0,2023,1,1
+M001965,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,F,62,Southwest,0,2024,1,1
+M001966,BCS,Preventive,Commercial PPO,Commercial,F,76,Southwest,0,2024,1,1
+M001967,CCS,Preventive,Exchange,Exchange,F,40,Northeast,0,2023,1,1
+M001968,CBP,Cardiovascular,Commercial PPO,Commercial,M,68,Northeast,0,2022,1,1
+M001969,W34,Child/Adolescent,Medicaid,Medicaid,F,49,Midwest,0,2022,1,1
+M001970,CDC-EYE,Diabetes,Exchange,Exchange,F,23,Southwest,0,2024,0,1
+M001971,COL,Preventive,Exchange,Exchange,F,50,Midwest,1,2023,0,1
+M001972,CDC-EYE,Diabetes,Medicare Advantage,Medicare,F,40,Southeast,0,2024,1,1
+M001973,W34,Child/Adolescent,Commercial PPO,Commercial,M,37,West,0,2023,1,1
+M001974,CDC-HbA1c,Diabetes,Medicaid,Medicaid,M,49,Northeast,0,2024,0,1
+M001975,W34,Child/Adolescent,Medicaid,Medicaid,M,76,Midwest,0,2024,1,1
+M001976,CDC-EYE,Diabetes,Commercial PPO,Commercial,M,28,Northeast,0,2024,1,1
+M001977,W34,Child/Adolescent,Exchange,Exchange,M,28,Southwest,0,2022,1,1
+M001978,CCS,Preventive,Exchange,Exchange,F,52,Northeast,0,2024,0,1
+M001979,CCS,Preventive,Commercial HMO,Commercial,F,28,Northeast,0,2024,1,1
+M001980,CCS,Preventive,Medicaid,Medicaid,M,28,Midwest,0,2023,1,1
+M001981,AMM,Behavioral,Commercial PPO,Commercial,M,55,West,0,2023,0,1
+M001982,AMM,Behavioral,Medicare Advantage,Medicare,M,29,Southeast,0,2022,1,1
+M001983,COL,Preventive,Medicaid,Medicaid,M,39,Southeast,0,2024,1,1
+M001984,CBP,Cardiovascular,Commercial PPO,Commercial,M,21,West,0,2024,1,1
+M001985,BCS,Preventive,Medicaid,Medicaid,F,73,Southwest,0,2023,1,1
+M001986,COL,Preventive,Commercial HMO,Commercial,M,75,Southwest,0,2024,1,1
+M001987,CDC-KED,Diabetes,Commercial PPO,Commercial,F,31,Southeast,0,2023,1,1
+M001988,CCS,Preventive,Commercial HMO,Commercial,M,29,Northeast,0,2024,1,1
+M001989,CCS,Preventive,Commercial HMO,Commercial,F,58,Northeast,0,2024,1,1
+M001990,W34,Child/Adolescent,Medicare Advantage,Medicare,M,39,Midwest,0,2024,1,1
+M001991,CDC-EYE,Diabetes,Medicaid,Medicaid,F,73,Northeast,0,2022,1,1
+M001992,CDC-EYE,Diabetes,Exchange,Exchange,M,65,Southeast,0,2023,1,1
+M001993,W34,Child/Adolescent,Medicaid,Medicaid,M,32,Northeast,0,2024,1,1
+M001994,CDC-KED,Diabetes,Commercial PPO,Commercial,F,65,Northeast,0,2023,0,1
+M001995,COL,Preventive,Commercial PPO,Commercial,M,21,Southeast,0,2024,1,1
+M001996,CBP,Cardiovascular,Exchange,Exchange,F,43,Southeast,0,2024,0,1
+M001997,CDC-EYE,Diabetes,Commercial HMO,Commercial,F,43,Southeast,0,2024,1,1
+M001998,COL,Preventive,Medicare Advantage,Medicare,M,18,Southwest,0,2024,1,1
+M001999,BCS,Preventive,Commercial HMO,Commercial,M,75,West,0,2024,1,1
+M002000,COL,Preventive,Medicaid,Medicaid,F,22,Southwest,0,2024,0,1
+M002001,W34,Child/Adolescent,Medicare Advantage,Medicare,M,81,Northeast,0,2023,1,1
+M002002,CCS,Preventive,Medicare Advantage,Medicare,M,67,West,0,2022,1,1
+M002003,CDC-EYE,Diabetes,Exchange,Exchange,M,68,Southwest,0,2023,1,1
+M002004,CDC-EYE,Diabetes,Exchange,Exchange,M,42,Midwest,0,2023,1,1
+M002005,W34,Child/Adolescent,Exchange,Exchange,M,51,West,0,2024,1,1
+M002006,W34,Child/Adolescent,Exchange,Exchange,F,48,West,0,2024,1,1
+M002007,COL,Preventive,Medicare Advantage,Medicare,F,30,Northeast,0,2023,1,1
+M002008,COL,Preventive,Medicare Advantage,Medicare,F,21,Southwest,0,2024,0,1
+M002009,W34,Child/Adolescent,Commercial PPO,Commercial,F,45,Southwest,0,2024,1,1
+M002010,CCS,Preventive,Commercial HMO,Commercial,M,41,Southwest,0,2023,1,1
+M002011,CDC-KED,Diabetes,Medicare Advantage,Medicare,M,23,Midwest,0,2023,1,1
+M002012,CDC-KED,Diabetes,Medicaid,Medicaid,M,24,Southwest,0,2024,1,1
+M002013,CBP,Cardiovascular,Medicaid,Medicaid,F,57,West,0,2023,1,1
+M002014,BCS,Preventive,Exchange,Exchange,F,35,Northeast,0,2022,1,1
+M002015,FUH7,Behavioral,Commercial HMO,Commercial,F,39,Midwest,0,2024,1,1
+M002016,AMM,Behavioral,Commercial PPO,Commercial,M,44,Midwest,0,2023,0,1
+M002017,COL,Preventive,Exchange,Exchange,F,73,Northeast,0,2024,1,1
+M002018,BCS,Preventive,Commercial HMO,Commercial,M,76,Northeast,0,2022,1,1
+M002019,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,59,Southwest,0,2024,1,1
+M002020,CCS,Preventive,Medicare Advantage,Medicare,F,62,Northeast,0,2024,0,1
+M002021,CBP,Cardiovascular,Medicare Advantage,Medicare,F,22,West,0,2022,0,1
+M002022,COL,Preventive,Commercial PPO,Commercial,M,26,Southwest,0,2022,0,1
+M002023,CDC-EYE,Diabetes,Commercial PPO,Commercial,F,53,Northeast,0,2022,0,1
+M002024,CCS,Preventive,Medicare Advantage,Medicare,M,82,Southeast,0,2024,1,1
+M002025,FUH7,Behavioral,Medicaid,Medicaid,M,73,Southwest,0,2024,1,1
+M002026,CDC-EYE,Diabetes,Exchange,Exchange,M,83,Southeast,0,2024,1,1
+M002027,CDC-EYE,Diabetes,Commercial PPO,Commercial,M,32,Midwest,0,2023,1,1
+M002028,COL,Preventive,Exchange,Exchange,M,46,Midwest,0,2024,1,1
+M002029,BCS,Preventive,Medicare Advantage,Medicare,F,27,West,0,2024,0,1
+M002030,W34,Child/Adolescent,Exchange,Exchange,F,50,Midwest,0,2024,1,1
+M002031,CBP,Cardiovascular,Commercial HMO,Commercial,F,82,Southwest,1,2023,0,1
+M002032,CDC-HbA1c,Diabetes,Exchange,Exchange,F,34,Southwest,0,2022,1,1
+M002033,BCS,Preventive,Commercial HMO,Commercial,F,36,Midwest,0,2022,1,1
+M002034,AMM,Behavioral,Commercial HMO,Commercial,F,46,Northeast,0,2023,1,1
+M002035,CDC-KED,Diabetes,Commercial PPO,Commercial,F,59,Southeast,0,2024,1,1
+M002036,CBP,Cardiovascular,Exchange,Exchange,F,76,Southwest,0,2022,1,1
+M002037,BCS,Preventive,Medicaid,Medicaid,F,77,Midwest,0,2022,0,1
+M002038,CDC-KED,Diabetes,Commercial PPO,Commercial,M,29,Southeast,0,2023,1,1
+M002039,CDC-KED,Diabetes,Medicaid,Medicaid,M,53,Northeast,0,2023,1,1
+M002040,CDC-EYE,Diabetes,Medicare Advantage,Medicare,F,53,Southeast,0,2024,1,1
+M002041,CDC-HbA1c,Diabetes,Exchange,Exchange,M,32,West,0,2023,1,1
+M002042,COL,Preventive,Exchange,Exchange,F,31,Southwest,0,2022,0,1
+M002043,BCS,Preventive,Exchange,Exchange,M,39,Southwest,0,2024,1,1
+M002044,AMM,Behavioral,Medicare Advantage,Medicare,M,55,Southwest,0,2024,1,1
+M002045,CDC-EYE,Diabetes,Medicare Advantage,Medicare,F,24,Southwest,0,2023,1,1
+M002046,CCS,Preventive,Commercial HMO,Commercial,F,63,Northeast,0,2023,1,1
+M002047,CDC-EYE,Diabetes,Commercial HMO,Commercial,F,69,Northeast,1,2024,1,1
+M002048,AMM,Behavioral,Medicare Advantage,Medicare,M,37,Southwest,0,2023,1,1
+M002049,FUH7,Behavioral,Medicare Advantage,Medicare,M,74,Northeast,0,2022,1,1
+M002050,W34,Child/Adolescent,Commercial HMO,Commercial,M,63,Southwest,0,2023,1,1
+M002051,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,F,40,Northeast,1,2024,1,1
+M002052,CDC-EYE,Diabetes,Medicaid,Medicaid,M,50,Midwest,0,2023,0,1
+M002053,CDC-HbA1c,Diabetes,Medicaid,Medicaid,M,26,Northeast,0,2024,0,1
+M002054,COL,Preventive,Medicaid,Medicaid,M,81,Midwest,0,2022,1,1
+M002055,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,F,74,Southeast,0,2022,1,1
+M002056,FUH7,Behavioral,Exchange,Exchange,F,33,Southeast,0,2024,1,1
+M002057,BCS,Preventive,Commercial PPO,Commercial,F,18,West,0,2024,0,1
+M002058,COL,Preventive,Commercial PPO,Commercial,M,63,Midwest,0,2023,0,1
+M002059,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,45,Southeast,0,2024,0,1
+M002060,FUH7,Behavioral,Medicare Advantage,Medicare,F,26,Southeast,0,2023,1,1
+M002061,FUH7,Behavioral,Exchange,Exchange,M,45,Midwest,0,2023,1,1
+M002062,FUH7,Behavioral,Medicaid,Medicaid,M,23,Southeast,0,2022,1,1
+M002063,CDC-KED,Diabetes,Medicaid,Medicaid,F,34,Southeast,0,2022,1,1
+M002064,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,F,29,West,0,2023,1,1
+M002065,CCS,Preventive,Medicare Advantage,Medicare,M,56,Southwest,0,2023,0,1
+M002066,CDC-EYE,Diabetes,Medicare Advantage,Medicare,F,50,Northeast,0,2024,1,1
+M002067,W34,Child/Adolescent,Exchange,Exchange,F,75,Southwest,0,2023,1,1
+M002068,CDC-EYE,Diabetes,Commercial PPO,Commercial,M,83,West,0,2024,1,1
+M002069,CDC-EYE,Diabetes,Medicaid,Medicaid,F,30,Southwest,0,2024,1,1
+M002070,CBP,Cardiovascular,Medicaid,Medicaid,M,79,Southeast,0,2022,1,1
+M002071,W34,Child/Adolescent,Exchange,Exchange,M,39,West,0,2023,1,1
+M002072,CDC-KED,Diabetes,Medicaid,Medicaid,M,66,Southeast,0,2023,1,1
+M002073,BCS,Preventive,Medicare Advantage,Medicare,M,39,Midwest,0,2024,1,1
+M002074,CDC-EYE,Diabetes,Exchange,Exchange,F,70,Southeast,0,2022,1,1
+M002075,CCS,Preventive,Commercial PPO,Commercial,M,67,Southeast,0,2023,1,1
+M002076,FUH7,Behavioral,Commercial PPO,Commercial,M,39,Midwest,0,2022,0,1
+M002077,CCS,Preventive,Commercial PPO,Commercial,M,82,West,0,2023,1,1
+M002078,FUH7,Behavioral,Exchange,Exchange,M,54,Midwest,0,2023,0,1
+M002079,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,70,Southeast,0,2024,0,1
+M002080,CDC-KED,Diabetes,Exchange,Exchange,M,57,Southeast,0,2024,0,1
+M002081,CCS,Preventive,Medicare Advantage,Medicare,F,60,Midwest,0,2023,1,1
+M002082,CDC-EYE,Diabetes,Medicare Advantage,Medicare,F,59,Midwest,0,2024,1,1
+M002083,CDC-EYE,Diabetes,Exchange,Exchange,M,70,Southeast,0,2023,1,1
+M002084,FUH7,Behavioral,Medicaid,Medicaid,M,54,West,0,2024,1,1
+M002085,CDC-HbA1c,Diabetes,Medicaid,Medicaid,M,50,Northeast,0,2023,1,1
+M002086,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,65,Southeast,0,2022,1,1
+M002087,CDC-KED,Diabetes,Medicaid,Medicaid,M,69,Northeast,0,2022,1,1
+M002088,FUH7,Behavioral,Medicaid,Medicaid,M,48,Southwest,0,2024,1,1
+M002089,CDC-KED,Diabetes,Commercial HMO,Commercial,M,24,Southeast,0,2024,0,1
+M002090,COL,Preventive,Commercial HMO,Commercial,F,70,Southeast,0,2024,1,1
+M002091,CDC-KED,Diabetes,Exchange,Exchange,F,83,Midwest,0,2022,1,1
+M002092,CDC-EYE,Diabetes,Medicare Advantage,Medicare,F,28,Midwest,0,2024,0,1
+M002093,AMM,Behavioral,Commercial PPO,Commercial,M,69,West,0,2023,1,1
+M002094,COL,Preventive,Medicaid,Medicaid,F,81,Southwest,0,2023,0,1
+M002095,CCS,Preventive,Medicare Advantage,Medicare,F,36,West,0,2024,1,1
+M002096,BCS,Preventive,Commercial PPO,Commercial,F,58,West,0,2022,1,1
+M002097,CBP,Cardiovascular,Medicare Advantage,Medicare,F,81,Southwest,0,2022,1,1
+M002098,FUH7,Behavioral,Medicare Advantage,Medicare,F,25,Midwest,0,2023,1,1
+M002099,CBP,Cardiovascular,Medicaid,Medicaid,M,27,Northeast,0,2023,1,1
+M002100,COL,Preventive,Commercial HMO,Commercial,F,50,Midwest,0,2022,1,1
+M002101,W34,Child/Adolescent,Commercial HMO,Commercial,F,61,Southwest,0,2023,1,1
+M002102,FUH7,Behavioral,Exchange,Exchange,M,67,Midwest,0,2023,1,1
+M002103,BCS,Preventive,Medicare Advantage,Medicare,M,44,Southeast,0,2024,1,1
+M002104,CBP,Cardiovascular,Medicaid,Medicaid,F,22,Southwest,0,2024,1,1
+M002105,AMM,Behavioral,Medicaid,Medicaid,F,56,Southeast,0,2022,1,1
+M002106,CDC-EYE,Diabetes,Medicaid,Medicaid,M,33,West,0,2024,1,1
+M002107,CDC-HbA1c,Diabetes,Medicaid,Medicaid,M,38,Southeast,0,2023,1,1
+M002108,W34,Child/Adolescent,Medicare Advantage,Medicare,F,25,Southwest,0,2023,1,1
+M002109,CBP,Cardiovascular,Commercial PPO,Commercial,F,40,Southwest,0,2023,1,1
+M002110,CDC-HbA1c,Diabetes,Medicaid,Medicaid,M,58,West,0,2024,1,1
+M002111,CCS,Preventive,Commercial HMO,Commercial,M,43,Northeast,0,2023,0,1
+M002112,CDC-KED,Diabetes,Exchange,Exchange,F,46,West,0,2023,1,1
+M002113,BCS,Preventive,Medicaid,Medicaid,F,41,Southwest,0,2024,1,1
+M002114,CBP,Cardiovascular,Medicaid,Medicaid,F,29,Southwest,0,2023,0,1
+M002115,COL,Preventive,Commercial PPO,Commercial,F,51,West,0,2023,1,1
+M002116,FUH7,Behavioral,Medicare Advantage,Medicare,F,28,Southwest,0,2024,1,1
+M002117,CBP,Cardiovascular,Commercial PPO,Commercial,M,75,Southeast,0,2024,0,1
+M002118,CCS,Preventive,Medicaid,Medicaid,M,31,Southwest,1,2024,1,1
+M002119,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,F,48,West,0,2023,1,1
+M002120,BCS,Preventive,Medicaid,Medicaid,M,58,Southwest,0,2022,1,1
+M002121,CDC-KED,Diabetes,Commercial PPO,Commercial,F,24,West,0,2023,1,1
+M002122,W34,Child/Adolescent,Commercial PPO,Commercial,M,68,Southwest,0,2024,1,1
+M002123,CBP,Cardiovascular,Commercial HMO,Commercial,M,43,Midwest,0,2022,1,1
+M002124,CDC-KED,Diabetes,Exchange,Exchange,F,37,Northeast,0,2023,1,1
+M002125,W34,Child/Adolescent,Commercial HMO,Commercial,M,64,West,0,2024,1,1
+M002126,CDC-HbA1c,Diabetes,Exchange,Exchange,M,18,West,0,2022,1,1
+M002127,CDC-EYE,Diabetes,Medicaid,Medicaid,M,59,Northeast,0,2024,1,1
+M002128,CCS,Preventive,Medicare Advantage,Medicare,F,27,West,0,2022,1,1
+M002129,CDC-KED,Diabetes,Commercial HMO,Commercial,F,27,Midwest,0,2022,1,1
+M002130,CCS,Preventive,Commercial HMO,Commercial,M,25,West,0,2023,1,1
+M002131,CDC-KED,Diabetes,Commercial PPO,Commercial,M,64,Southeast,1,2022,1,1
+M002132,CDC-KED,Diabetes,Exchange,Exchange,F,71,Northeast,0,2023,1,1
+M002133,AMM,Behavioral,Exchange,Exchange,F,24,West,0,2022,1,1
+M002134,COL,Preventive,Medicaid,Medicaid,F,18,Northeast,0,2024,0,1
+M002135,BCS,Preventive,Medicaid,Medicaid,M,59,Southwest,0,2023,1,1
+M002136,FUH7,Behavioral,Medicare Advantage,Medicare,F,63,Southwest,0,2024,1,1
+M002137,AMM,Behavioral,Medicare Advantage,Medicare,M,60,Southwest,0,2024,1,1
+M002138,COL,Preventive,Commercial PPO,Commercial,F,48,Northeast,0,2022,1,1
+M002139,CCS,Preventive,Medicaid,Medicaid,M,25,Southwest,0,2024,1,1
+M002140,CDC-KED,Diabetes,Medicaid,Medicaid,F,56,Midwest,1,2023,1,1
+M002141,AMM,Behavioral,Commercial HMO,Commercial,F,35,Northeast,0,2023,1,1
+M002142,BCS,Preventive,Medicaid,Medicaid,F,44,Southeast,0,2024,0,1
+M002143,AMM,Behavioral,Commercial PPO,Commercial,M,26,West,0,2022,1,1
+M002144,CDC-EYE,Diabetes,Exchange,Exchange,M,78,Midwest,0,2024,1,1
+M002145,BCS,Preventive,Medicare Advantage,Medicare,F,41,West,0,2024,1,1
+M002146,AMM,Behavioral,Commercial PPO,Commercial,M,44,Southeast,0,2024,1,1
+M002147,COL,Preventive,Medicare Advantage,Medicare,F,36,West,0,2022,1,1
+M002148,CDC-KED,Diabetes,Exchange,Exchange,F,37,Southeast,0,2023,1,1
+M002149,W34,Child/Adolescent,Commercial PPO,Commercial,F,22,Southeast,0,2024,1,1
+M002150,CDC-KED,Diabetes,Commercial PPO,Commercial,F,40,Midwest,0,2024,1,1
+M002151,BCS,Preventive,Medicare Advantage,Medicare,F,76,Southeast,0,2022,1,1
+M002152,W34,Child/Adolescent,Commercial PPO,Commercial,F,64,Southeast,0,2024,1,1
+M002153,AMM,Behavioral,Commercial HMO,Commercial,F,82,Southwest,0,2024,1,1
+M002154,COL,Preventive,Medicaid,Medicaid,F,20,Midwest,0,2022,1,1
+M002155,COL,Preventive,Medicaid,Medicaid,M,47,Southeast,0,2024,1,1
+M002156,AMM,Behavioral,Medicaid,Medicaid,M,32,Southeast,0,2023,0,1
+M002157,BCS,Preventive,Medicare Advantage,Medicare,F,48,West,0,2022,0,1
+M002158,COL,Preventive,Medicaid,Medicaid,F,28,Northeast,0,2024,1,1
+M002159,AMM,Behavioral,Medicaid,Medicaid,M,33,Southwest,0,2024,1,1
+M002160,AMM,Behavioral,Medicare Advantage,Medicare,F,18,West,0,2023,1,1
+M002161,CBP,Cardiovascular,Commercial HMO,Commercial,F,61,Southwest,0,2022,0,1
+M002162,CBP,Cardiovascular,Medicaid,Medicaid,M,75,West,0,2024,1,1
+M002163,CCS,Preventive,Medicare Advantage,Medicare,M,44,Northeast,0,2022,1,1
+M002164,CDC-KED,Diabetes,Exchange,Exchange,M,69,West,0,2022,0,1
+M002165,FUH7,Behavioral,Medicaid,Medicaid,M,53,Northeast,0,2022,1,1
+M002166,BCS,Preventive,Medicare Advantage,Medicare,F,62,West,1,2024,0,1
+M002167,CCS,Preventive,Medicaid,Medicaid,M,40,Southeast,0,2024,1,1
+M002168,W34,Child/Adolescent,Medicaid,Medicaid,F,52,Southeast,0,2023,1,1
+M002169,W34,Child/Adolescent,Medicare Advantage,Medicare,M,42,Southeast,0,2024,1,1
+M002170,CBP,Cardiovascular,Medicare Advantage,Medicare,M,18,Southwest,0,2023,0,1
+M002171,AMM,Behavioral,Commercial PPO,Commercial,F,65,Midwest,0,2023,1,1
+M002172,CDC-KED,Diabetes,Commercial PPO,Commercial,M,29,Southeast,0,2022,1,1
+M002173,FUH7,Behavioral,Medicaid,Medicaid,M,69,West,0,2022,1,1
+M002174,COL,Preventive,Medicare Advantage,Medicare,F,66,West,0,2023,1,1
+M002175,AMM,Behavioral,Medicaid,Medicaid,M,33,Northeast,0,2024,1,1
+M002176,W34,Child/Adolescent,Commercial HMO,Commercial,F,46,Southwest,0,2024,1,1
+M002177,BCS,Preventive,Commercial PPO,Commercial,M,80,Southwest,0,2022,1,1
+M002178,CDC-KED,Diabetes,Commercial PPO,Commercial,F,75,Midwest,0,2023,1,1
+M002179,FUH7,Behavioral,Medicare Advantage,Medicare,M,37,Midwest,0,2022,0,1
+M002180,AMM,Behavioral,Exchange,Exchange,M,83,Southwest,0,2022,1,1
+M002181,CBP,Cardiovascular,Commercial PPO,Commercial,F,82,Southwest,0,2022,1,1
+M002182,CBP,Cardiovascular,Medicaid,Medicaid,M,58,Midwest,0,2024,1,1
+M002183,CCS,Preventive,Exchange,Exchange,M,83,Northeast,0,2024,1,1
+M002184,CDC-HbA1c,Diabetes,Exchange,Exchange,F,60,West,0,2024,1,1
+M002185,AMM,Behavioral,Medicaid,Medicaid,M,29,Southwest,0,2023,1,1
+M002186,CCS,Preventive,Commercial HMO,Commercial,F,80,Midwest,0,2023,1,1
+M002187,W34,Child/Adolescent,Commercial HMO,Commercial,F,71,Southeast,0,2022,1,1
+M002188,CDC-HbA1c,Diabetes,Medicaid,Medicaid,M,35,Midwest,0,2022,1,1
+M002189,CDC-KED,Diabetes,Commercial PPO,Commercial,M,65,Midwest,1,2023,1,1
+M002190,W34,Child/Adolescent,Medicaid,Medicaid,M,51,Southeast,0,2023,1,1
+M002191,AMM,Behavioral,Commercial HMO,Commercial,F,21,Midwest,0,2022,1,1
+M002192,CCS,Preventive,Medicaid,Medicaid,M,19,West,0,2023,1,1
+M002193,CDC-KED,Diabetes,Medicare Advantage,Medicare,M,54,Southeast,0,2023,0,1
+M002194,BCS,Preventive,Commercial HMO,Commercial,M,58,Southeast,0,2024,0,1
+M002195,W34,Child/Adolescent,Exchange,Exchange,F,58,Midwest,0,2024,1,1
+M002196,W34,Child/Adolescent,Exchange,Exchange,M,37,Midwest,0,2023,1,1
+M002197,BCS,Preventive,Commercial PPO,Commercial,M,64,Southwest,0,2022,1,1
+M002198,CBP,Cardiovascular,Medicaid,Medicaid,M,29,Southwest,1,2024,1,1
+M002199,FUH7,Behavioral,Medicaid,Medicaid,F,84,Southeast,0,2022,1,1
+M002200,CBP,Cardiovascular,Exchange,Exchange,M,62,Southeast,0,2022,1,1
+M002201,BCS,Preventive,Commercial PPO,Commercial,F,66,Midwest,0,2022,0,1
+M002202,FUH7,Behavioral,Commercial HMO,Commercial,F,51,Northeast,0,2024,1,1
+M002203,CCS,Preventive,Commercial PPO,Commercial,F,51,Southwest,0,2023,1,1
+M002204,FUH7,Behavioral,Medicaid,Medicaid,F,37,Northeast,0,2022,1,1
+M002205,CBP,Cardiovascular,Medicaid,Medicaid,F,58,Southeast,0,2022,0,1
+M002206,CCS,Preventive,Medicaid,Medicaid,M,71,West,0,2022,1,1
+M002207,CBP,Cardiovascular,Commercial PPO,Commercial,M,73,Midwest,0,2024,1,1
+M002208,AMM,Behavioral,Commercial HMO,Commercial,M,46,Southeast,0,2022,1,1
+M002209,W34,Child/Adolescent,Commercial PPO,Commercial,M,59,Southwest,0,2023,0,1
+M002210,CDC-KED,Diabetes,Medicare Advantage,Medicare,M,34,Northeast,0,2024,0,1
+M002211,W34,Child/Adolescent,Medicaid,Medicaid,F,29,West,0,2024,1,1
+M002212,CCS,Preventive,Exchange,Exchange,M,48,Northeast,1,2022,1,1
+M002213,CDC-KED,Diabetes,Medicare Advantage,Medicare,M,73,Northeast,0,2022,1,1
+M002214,W34,Child/Adolescent,Commercial HMO,Commercial,F,56,Northeast,0,2024,1,1
+M002215,W34,Child/Adolescent,Commercial HMO,Commercial,M,18,Midwest,0,2024,1,1
+M002216,BCS,Preventive,Medicare Advantage,Medicare,M,30,Southeast,0,2024,0,1
+M002217,CDC-KED,Diabetes,Exchange,Exchange,F,77,West,0,2024,1,1
+M002218,CBP,Cardiovascular,Exchange,Exchange,F,75,Midwest,0,2023,1,1
+M002219,CDC-HbA1c,Diabetes,Medicaid,Medicaid,M,34,West,0,2024,0,1
+M002220,CCS,Preventive,Exchange,Exchange,M,50,Southeast,0,2023,1,1
+M002221,CCS,Preventive,Commercial HMO,Commercial,M,37,West,0,2023,1,1
+M002222,AMM,Behavioral,Exchange,Exchange,M,46,Northeast,0,2022,1,1
+M002223,CDC-HbA1c,Diabetes,Medicaid,Medicaid,F,84,Northeast,0,2024,0,1
+M002224,BCS,Preventive,Exchange,Exchange,M,81,Midwest,0,2024,0,1
+M002225,AMM,Behavioral,Medicaid,Medicaid,M,56,Midwest,0,2023,1,1
+M002226,AMM,Behavioral,Medicaid,Medicaid,M,63,Northeast,0,2023,0,1
+M002227,CDC-HbA1c,Diabetes,Medicaid,Medicaid,M,29,Southeast,1,2022,0,1
+M002228,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,M,55,Southwest,0,2024,1,1
+M002229,W34,Child/Adolescent,Commercial HMO,Commercial,F,18,Southwest,0,2024,0,1
+M002230,CDC-EYE,Diabetes,Commercial HMO,Commercial,M,45,Northeast,0,2024,1,1
+M002231,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,M,50,West,0,2024,0,1
+M002232,CCS,Preventive,Medicaid,Medicaid,M,53,Midwest,0,2024,1,1
+M002233,FUH7,Behavioral,Commercial PPO,Commercial,F,22,Southwest,0,2024,1,1
+M002234,CBP,Cardiovascular,Medicare Advantage,Medicare,M,63,West,0,2022,0,1
+M002235,FUH7,Behavioral,Commercial PPO,Commercial,M,71,Northeast,0,2023,0,1
+M002236,CDC-EYE,Diabetes,Medicaid,Medicaid,F,25,Southeast,0,2023,1,1
+M002237,COL,Preventive,Medicare Advantage,Medicare,M,25,Northeast,0,2023,1,1
+M002238,W34,Child/Adolescent,Commercial PPO,Commercial,M,35,Midwest,0,2022,0,1
+M002239,BCS,Preventive,Medicaid,Medicaid,M,66,West,1,2024,0,1
+M002240,CBP,Cardiovascular,Medicaid,Medicaid,F,28,Midwest,0,2022,0,1
+M002241,CDC-EYE,Diabetes,Exchange,Exchange,M,35,Southwest,0,2024,0,1
+M002242,CCS,Preventive,Commercial PPO,Commercial,M,50,Northeast,0,2022,1,1
+M002243,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,F,55,West,0,2023,1,1
+M002244,CCS,Preventive,Medicare Advantage,Medicare,F,62,Southeast,0,2024,0,1
+M002245,W34,Child/Adolescent,Commercial HMO,Commercial,F,68,Southwest,0,2024,1,1
+M002246,BCS,Preventive,Medicaid,Medicaid,F,27,Northeast,0,2024,1,1
+M002247,CCS,Preventive,Medicaid,Medicaid,F,83,West,0,2023,1,1
+M002248,CBP,Cardiovascular,Exchange,Exchange,F,77,Midwest,0,2022,0,1
+M002249,CBP,Cardiovascular,Commercial PPO,Commercial,F,33,Midwest,0,2023,0,1
+M002250,CBP,Cardiovascular,Medicare Advantage,Medicare,M,41,West,0,2024,1,1
+M002251,BCS,Preventive,Medicaid,Medicaid,M,30,Southeast,0,2024,1,1
+M002252,COL,Preventive,Medicaid,Medicaid,M,73,West,0,2023,1,1
+M002253,CBP,Cardiovascular,Medicaid,Medicaid,F,79,Southeast,0,2022,0,1
+M002254,CDC-EYE,Diabetes,Medicare Advantage,Medicare,F,67,Northeast,0,2024,1,1
+M002255,COL,Preventive,Commercial HMO,Commercial,M,28,Southwest,0,2024,0,1
+M002256,AMM,Behavioral,Exchange,Exchange,F,83,Midwest,0,2024,1,1
+M002257,CBP,Cardiovascular,Exchange,Exchange,M,48,Northeast,0,2023,1,1
+M002258,AMM,Behavioral,Commercial PPO,Commercial,F,36,Southeast,0,2024,1,1
+M002259,FUH7,Behavioral,Exchange,Exchange,F,58,West,0,2024,1,1
+M002260,CCS,Preventive,Commercial PPO,Commercial,F,25,Northeast,0,2024,1,1
+M002261,BCS,Preventive,Medicaid,Medicaid,M,53,Midwest,0,2024,1,1
+M002262,BCS,Preventive,Medicare Advantage,Medicare,M,66,Midwest,0,2023,1,1
+M002263,BCS,Preventive,Medicaid,Medicaid,M,57,Southwest,0,2023,1,1
+M002264,FUH7,Behavioral,Commercial HMO,Commercial,M,23,West,0,2024,0,1
+M002265,W34,Child/Adolescent,Exchange,Exchange,F,60,Northeast,0,2023,0,1
+M002266,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,41,Southeast,0,2024,1,1
+M002267,FUH7,Behavioral,Commercial HMO,Commercial,M,55,Northeast,0,2024,0,1
+M002268,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,82,Northeast,1,2023,0,1
+M002269,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,F,36,Southeast,0,2023,1,1
+M002270,AMM,Behavioral,Commercial PPO,Commercial,F,25,West,0,2023,0,1
+M002271,W34,Child/Adolescent,Commercial HMO,Commercial,M,32,Southeast,0,2022,1,1
+M002272,CDC-KED,Diabetes,Exchange,Exchange,F,26,Southwest,0,2022,1,1
+M002273,FUH7,Behavioral,Medicaid,Medicaid,F,26,West,0,2022,1,1
+M002274,AMM,Behavioral,Medicaid,Medicaid,M,50,Northeast,0,2022,1,1
+M002275,AMM,Behavioral,Commercial PPO,Commercial,F,67,West,0,2022,1,1
+M002276,CBP,Cardiovascular,Medicare Advantage,Medicare,F,21,Southwest,1,2024,1,1
+M002277,FUH7,Behavioral,Medicare Advantage,Medicare,F,81,Midwest,0,2022,0,1
+M002278,W34,Child/Adolescent,Exchange,Exchange,F,33,Southeast,0,2023,1,1
+M002279,COL,Preventive,Commercial PPO,Commercial,F,45,Midwest,0,2022,1,1
+M002280,COL,Preventive,Exchange,Exchange,M,24,Southeast,0,2024,1,1
+M002281,BCS,Preventive,Exchange,Exchange,F,72,Southeast,0,2022,1,1
+M002282,FUH7,Behavioral,Medicaid,Medicaid,M,57,Northeast,0,2023,0,1
+M002283,CDC-EYE,Diabetes,Commercial PPO,Commercial,M,81,Northeast,0,2024,0,1
+M002284,FUH7,Behavioral,Medicare Advantage,Medicare,M,35,Northeast,0,2024,1,1
+M002285,COL,Preventive,Medicare Advantage,Medicare,F,24,Southwest,0,2023,1,1
+M002286,CDC-HbA1c,Diabetes,Exchange,Exchange,M,42,Southeast,0,2023,1,1
+M002287,W34,Child/Adolescent,Commercial HMO,Commercial,F,35,Midwest,0,2023,1,1
+M002288,W34,Child/Adolescent,Medicaid,Medicaid,F,24,Southeast,0,2024,1,1
+M002289,BCS,Preventive,Medicaid,Medicaid,M,38,Southeast,0,2023,0,1
+M002290,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,38,Southeast,0,2023,0,1
+M002291,FUH7,Behavioral,Medicaid,Medicaid,F,63,Southeast,0,2023,0,1
+M002292,CDC-EYE,Diabetes,Commercial HMO,Commercial,M,44,Southwest,0,2024,1,1
+M002293,FUH7,Behavioral,Medicaid,Medicaid,M,60,Northeast,0,2023,0,1
+M002294,CCS,Preventive,Commercial PPO,Commercial,M,74,West,0,2024,0,1
+M002295,FUH7,Behavioral,Medicaid,Medicaid,F,49,Midwest,0,2024,0,1
+M002296,COL,Preventive,Exchange,Exchange,F,35,Northeast,0,2024,0,1
+M002297,CBP,Cardiovascular,Commercial HMO,Commercial,M,22,Southwest,0,2023,1,1
+M002298,W34,Child/Adolescent,Exchange,Exchange,M,64,Southeast,0,2022,1,1
+M002299,BCS,Preventive,Commercial HMO,Commercial,F,84,Southwest,0,2024,1,1
+M002300,CBP,Cardiovascular,Medicare Advantage,Medicare,F,33,Southeast,0,2024,1,1
+M002301,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,79,West,0,2023,1,1
+M002302,AMM,Behavioral,Medicaid,Medicaid,M,61,Northeast,0,2022,1,1
+M002303,COL,Preventive,Medicaid,Medicaid,M,19,Northeast,0,2023,1,1
+M002304,CCS,Preventive,Medicare Advantage,Medicare,F,67,Midwest,0,2024,1,1
+M002305,BCS,Preventive,Exchange,Exchange,M,75,Southeast,0,2023,1,1
+M002306,COL,Preventive,Medicare Advantage,Medicare,F,38,Northeast,0,2023,1,1
+M002307,CDC-KED,Diabetes,Exchange,Exchange,F,30,Northeast,0,2024,1,1
+M002308,CDC-KED,Diabetes,Medicare Advantage,Medicare,M,25,Southwest,0,2022,1,1
+M002309,W34,Child/Adolescent,Medicare Advantage,Medicare,F,75,Southeast,0,2022,1,1
+M002310,COL,Preventive,Medicare Advantage,Medicare,M,44,Northeast,0,2024,0,1
+M002311,COL,Preventive,Commercial PPO,Commercial,M,46,Southwest,0,2022,1,1
+M002312,FUH7,Behavioral,Commercial PPO,Commercial,M,60,Midwest,0,2024,1,1
+M002313,CCS,Preventive,Exchange,Exchange,M,67,Midwest,0,2023,1,1
+M002314,CCS,Preventive,Medicaid,Medicaid,F,65,Midwest,0,2023,1,1
+M002315,FUH7,Behavioral,Commercial HMO,Commercial,M,72,West,0,2022,0,1
+M002316,AMM,Behavioral,Medicaid,Medicaid,F,48,Northeast,0,2022,1,1
+M002317,CCS,Preventive,Commercial PPO,Commercial,F,47,West,0,2024,1,1
+M002318,COL,Preventive,Medicaid,Medicaid,M,35,Southeast,0,2024,0,1
+M002319,AMM,Behavioral,Commercial HMO,Commercial,F,64,Midwest,0,2022,1,1
+M002320,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,M,29,Midwest,0,2024,1,1
+M002321,BCS,Preventive,Exchange,Exchange,M,50,Northeast,0,2022,1,1
+M002322,CDC-HbA1c,Diabetes,Medicaid,Medicaid,F,27,Midwest,0,2022,1,1
+M002323,CCS,Preventive,Exchange,Exchange,F,29,West,0,2023,0,1
+M002324,BCS,Preventive,Medicare Advantage,Medicare,M,65,Southeast,0,2022,0,1
+M002325,CDC-EYE,Diabetes,Medicaid,Medicaid,F,84,Southeast,0,2023,1,1
+M002326,BCS,Preventive,Medicaid,Medicaid,M,84,Northeast,0,2022,1,1
+M002327,AMM,Behavioral,Commercial PPO,Commercial,F,75,West,0,2024,1,1
+M002328,W34,Child/Adolescent,Commercial PPO,Commercial,M,20,Southeast,0,2024,1,1
+M002329,CDC-HbA1c,Diabetes,Exchange,Exchange,F,79,Northeast,0,2024,0,1
+M002330,CDC-EYE,Diabetes,Commercial HMO,Commercial,M,57,Southeast,0,2022,0,1
+M002331,CBP,Cardiovascular,Commercial HMO,Commercial,M,72,Northeast,0,2024,1,1
+M002332,CBP,Cardiovascular,Commercial PPO,Commercial,M,72,Northeast,0,2022,1,1
+M002333,W34,Child/Adolescent,Exchange,Exchange,F,77,Southwest,0,2022,1,1
+M002334,BCS,Preventive,Commercial HMO,Commercial,F,78,Northeast,0,2024,0,1
+M002335,CDC-KED,Diabetes,Medicaid,Medicaid,F,74,Southwest,0,2024,1,1
+M002336,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,F,62,Northeast,0,2024,1,1
+M002337,COL,Preventive,Commercial HMO,Commercial,M,74,Southeast,0,2022,0,1
+M002338,BCS,Preventive,Commercial HMO,Commercial,M,79,Northeast,0,2024,0,1
+M002339,BCS,Preventive,Medicaid,Medicaid,F,45,Southwest,0,2023,1,1
+M002340,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,F,22,Southeast,0,2024,1,1
+M002341,CCS,Preventive,Exchange,Exchange,F,60,Southwest,0,2022,1,1
+M002342,CCS,Preventive,Medicare Advantage,Medicare,F,39,Southeast,0,2024,1,1
+M002343,BCS,Preventive,Medicare Advantage,Medicare,F,43,Midwest,0,2022,1,1
+M002344,CBP,Cardiovascular,Medicare Advantage,Medicare,M,80,Southeast,0,2022,1,1
+M002345,CDC-EYE,Diabetes,Exchange,Exchange,F,19,Southeast,0,2024,1,1
+M002346,FUH7,Behavioral,Exchange,Exchange,M,60,Southeast,0,2023,1,1
+M002347,W34,Child/Adolescent,Commercial PPO,Commercial,M,75,Northeast,0,2022,1,1
+M002348,CBP,Cardiovascular,Medicaid,Medicaid,F,46,Northeast,0,2023,1,1
+M002349,CCS,Preventive,Commercial PPO,Commercial,M,55,Southeast,0,2023,0,1
+M002350,COL,Preventive,Exchange,Exchange,F,55,Northeast,0,2023,0,1
+M002351,CDC-KED,Diabetes,Medicaid,Medicaid,F,44,Southwest,0,2023,1,1
+M002352,COL,Preventive,Medicaid,Medicaid,M,55,Midwest,0,2022,0,1
+M002353,AMM,Behavioral,Commercial PPO,Commercial,F,84,West,0,2024,1,1
+M002354,CDC-KED,Diabetes,Medicaid,Medicaid,M,69,Southwest,0,2022,1,1
+M002355,CCS,Preventive,Commercial HMO,Commercial,M,44,Midwest,0,2023,1,1
+M002356,CBP,Cardiovascular,Medicaid,Medicaid,F,75,Northeast,0,2024,0,1
+M002357,COL,Preventive,Commercial HMO,Commercial,M,27,West,0,2024,1,1
+M002358,CDC-KED,Diabetes,Exchange,Exchange,M,64,Northeast,0,2024,0,1
+M002359,AMM,Behavioral,Medicaid,Medicaid,F,37,Northeast,0,2023,0,1
+M002360,W34,Child/Adolescent,Medicaid,Medicaid,F,56,Southwest,0,2022,1,1
+M002361,CDC-HbA1c,Diabetes,Exchange,Exchange,M,60,Midwest,0,2023,0,1
+M002362,CDC-EYE,Diabetes,Medicaid,Medicaid,M,19,Southeast,0,2023,1,1
+M002363,CDC-KED,Diabetes,Exchange,Exchange,F,59,Midwest,0,2023,1,1
+M002364,FUH7,Behavioral,Commercial PPO,Commercial,M,37,West,0,2022,0,1
+M002365,BCS,Preventive,Commercial PPO,Commercial,M,20,Southwest,0,2024,1,1
+M002366,W34,Child/Adolescent,Exchange,Exchange,M,49,Southeast,0,2024,0,1
+M002367,COL,Preventive,Medicaid,Medicaid,F,39,Midwest,0,2024,0,1
+M002368,COL,Preventive,Commercial HMO,Commercial,M,38,Northeast,0,2024,0,1
+M002369,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,27,Southwest,0,2023,1,1
+M002370,W34,Child/Adolescent,Commercial HMO,Commercial,M,19,Southeast,0,2024,1,1
+M002371,CCS,Preventive,Exchange,Exchange,M,67,Midwest,0,2024,1,1
+M002372,CCS,Preventive,Medicaid,Medicaid,M,27,Southwest,0,2022,1,1
+M002373,CBP,Cardiovascular,Medicaid,Medicaid,F,31,Northeast,0,2022,0,1
+M002374,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,53,Southwest,0,2024,1,1
+M002375,W34,Child/Adolescent,Medicaid,Medicaid,F,53,Midwest,0,2022,1,1
+M002376,CCS,Preventive,Medicaid,Medicaid,M,18,Midwest,0,2022,1,1
+M002377,CDC-KED,Diabetes,Commercial HMO,Commercial,M,29,Southeast,0,2024,1,1
+M002378,CDC-EYE,Diabetes,Commercial PPO,Commercial,M,40,Midwest,0,2022,1,1
+M002379,AMM,Behavioral,Medicare Advantage,Medicare,M,23,West,0,2022,1,1
+M002380,CCS,Preventive,Commercial HMO,Commercial,M,59,Southwest,0,2023,1,1
+M002381,W34,Child/Adolescent,Commercial PPO,Commercial,M,18,Midwest,0,2022,1,1
+M002382,W34,Child/Adolescent,Commercial HMO,Commercial,M,49,Northeast,0,2024,1,1
+M002383,CBP,Cardiovascular,Commercial HMO,Commercial,M,60,Midwest,0,2023,1,1
+M002384,FUH7,Behavioral,Commercial HMO,Commercial,M,43,Southwest,0,2022,1,1
+M002385,CCS,Preventive,Medicare Advantage,Medicare,F,80,Northeast,0,2024,1,1
+M002386,CBP,Cardiovascular,Medicare Advantage,Medicare,F,44,West,0,2023,1,1
+M002387,COL,Preventive,Medicaid,Medicaid,F,84,West,0,2024,0,1
+M002388,FUH7,Behavioral,Medicare Advantage,Medicare,F,70,Southeast,1,2023,1,1
+M002389,CDC-KED,Diabetes,Medicaid,Medicaid,F,33,Southwest,0,2024,1,1
+M002390,CCS,Preventive,Medicaid,Medicaid,M,59,Southwest,0,2022,0,1
+M002391,AMM,Behavioral,Commercial PPO,Commercial,F,73,Southeast,0,2023,1,1
+M002392,BCS,Preventive,Commercial HMO,Commercial,M,62,Southeast,0,2024,1,1
+M002393,FUH7,Behavioral,Exchange,Exchange,M,29,Northeast,0,2022,1,1
+M002394,FUH7,Behavioral,Medicaid,Medicaid,M,20,West,0,2024,1,1
+M002395,BCS,Preventive,Medicare Advantage,Medicare,F,39,Southwest,0,2024,0,1
+M002396,FUH7,Behavioral,Medicare Advantage,Medicare,M,77,Northeast,0,2022,0,1
+M002397,FUH7,Behavioral,Exchange,Exchange,F,34,Northeast,0,2022,1,1
+M002398,COL,Preventive,Commercial HMO,Commercial,F,18,West,0,2024,1,1
+M002399,CBP,Cardiovascular,Commercial PPO,Commercial,F,60,Southeast,0,2024,1,1
+M002400,FUH7,Behavioral,Medicare Advantage,Medicare,F,70,Northeast,0,2023,1,1
+M002401,CBP,Cardiovascular,Medicare Advantage,Medicare,M,34,Midwest,0,2024,1,1
+M002402,COL,Preventive,Medicaid,Medicaid,M,58,Midwest,0,2022,1,1
+M002403,CDC-EYE,Diabetes,Commercial HMO,Commercial,M,22,West,0,2023,1,1
+M002404,CBP,Cardiovascular,Exchange,Exchange,M,68,Southeast,0,2024,1,1
+M002405,BCS,Preventive,Medicare Advantage,Medicare,M,36,West,0,2023,1,1
+M002406,AMM,Behavioral,Medicare Advantage,Medicare,F,24,Southeast,0,2022,0,1
+M002407,AMM,Behavioral,Exchange,Exchange,F,34,West,0,2024,0,1
+M002408,CDC-EYE,Diabetes,Medicaid,Medicaid,M,48,Southeast,0,2022,0,1
+M002409,CDC-KED,Diabetes,Commercial PPO,Commercial,F,58,West,0,2022,1,1
+M002410,AMM,Behavioral,Commercial HMO,Commercial,F,43,Southeast,0,2023,1,1
+M002411,FUH7,Behavioral,Commercial PPO,Commercial,F,63,Southeast,0,2023,0,1
+M002412,CDC-EYE,Diabetes,Medicaid,Medicaid,F,38,Northeast,0,2022,1,1
+M002413,CCS,Preventive,Medicaid,Medicaid,M,56,Southwest,0,2022,1,1
+M002414,CDC-KED,Diabetes,Exchange,Exchange,F,78,Southwest,0,2024,1,1
+M002415,FUH7,Behavioral,Commercial HMO,Commercial,M,28,Northeast,0,2022,1,1
+M002416,FUH7,Behavioral,Medicare Advantage,Medicare,M,33,Midwest,0,2022,1,1
+M002417,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,M,42,West,0,2024,0,1
+M002418,CBP,Cardiovascular,Commercial HMO,Commercial,F,59,Northeast,0,2023,0,1
+M002419,W34,Child/Adolescent,Medicare Advantage,Medicare,M,28,Southwest,0,2022,1,1
+M002420,FUH7,Behavioral,Exchange,Exchange,F,40,Northeast,0,2023,1,1
+M002421,BCS,Preventive,Commercial HMO,Commercial,M,22,Southeast,0,2024,0,1
+M002422,CDC-EYE,Diabetes,Exchange,Exchange,M,82,Southwest,0,2024,1,1
+M002423,FUH7,Behavioral,Commercial HMO,Commercial,M,50,Southwest,0,2024,0,1
+M002424,COL,Preventive,Commercial PPO,Commercial,F,41,Southwest,0,2023,1,1
+M002425,COL,Preventive,Exchange,Exchange,M,74,Southeast,0,2023,1,1
+M002426,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,M,48,Midwest,0,2024,1,1
+M002427,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,M,18,Midwest,0,2022,1,1
+M002428,AMM,Behavioral,Commercial HMO,Commercial,F,60,Southwest,0,2022,1,1
+M002429,W34,Child/Adolescent,Commercial PPO,Commercial,M,28,Midwest,0,2023,1,1
+M002430,CDC-KED,Diabetes,Exchange,Exchange,M,64,Southeast,1,2023,0,1
+M002431,AMM,Behavioral,Medicare Advantage,Medicare,F,36,Midwest,0,2024,1,1
+M002432,COL,Preventive,Medicare Advantage,Medicare,F,27,Southwest,0,2022,1,1
+M002433,CCS,Preventive,Exchange,Exchange,M,55,West,0,2023,0,1
+M002434,CDC-KED,Diabetes,Medicaid,Medicaid,F,55,Northeast,0,2024,1,1
+M002435,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,F,67,Southeast,0,2022,1,1
+M002436,W34,Child/Adolescent,Medicare Advantage,Medicare,F,55,Northeast,0,2022,1,1
+M002437,CBP,Cardiovascular,Medicare Advantage,Medicare,F,21,Northeast,0,2024,1,1
+M002438,BCS,Preventive,Commercial PPO,Commercial,F,24,West,0,2022,1,1
+M002439,COL,Preventive,Exchange,Exchange,M,19,Southwest,0,2022,1,1
+M002440,BCS,Preventive,Medicaid,Medicaid,F,44,Southeast,0,2024,1,1
+M002441,COL,Preventive,Exchange,Exchange,M,30,Midwest,0,2024,1,1
+M002442,BCS,Preventive,Medicare Advantage,Medicare,M,27,Midwest,0,2023,1,1
+M002443,CCS,Preventive,Medicare Advantage,Medicare,M,62,Southwest,0,2022,1,1
+M002444,COL,Preventive,Medicaid,Medicaid,F,75,Midwest,0,2023,1,1
+M002445,CDC-KED,Diabetes,Commercial HMO,Commercial,M,48,Northeast,0,2023,1,1
+M002446,W34,Child/Adolescent,Medicare Advantage,Medicare,F,57,Midwest,0,2024,1,1
+M002447,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,M,45,Northeast,0,2024,1,1
+M002448,CBP,Cardiovascular,Medicaid,Medicaid,F,52,West,0,2022,1,1
+M002449,FUH7,Behavioral,Commercial PPO,Commercial,F,67,Southeast,0,2023,1,1
+M002450,CDC-EYE,Diabetes,Commercial HMO,Commercial,F,72,Southeast,0,2023,0,1
+M002451,AMM,Behavioral,Exchange,Exchange,F,41,Southwest,0,2022,1,1
+M002452,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,68,Southwest,0,2024,0,1
+M002453,AMM,Behavioral,Medicaid,Medicaid,M,18,Southeast,0,2024,1,1
+M002454,CBP,Cardiovascular,Commercial PPO,Commercial,M,54,Northeast,0,2024,0,1
+M002455,FUH7,Behavioral,Exchange,Exchange,M,38,Southwest,0,2022,1,1
+M002456,CDC-EYE,Diabetes,Exchange,Exchange,M,64,Midwest,0,2024,1,1
+M002457,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,F,55,Southeast,0,2023,1,1
+M002458,COL,Preventive,Commercial HMO,Commercial,M,64,Northeast,0,2023,1,1
+M002459,CCS,Preventive,Commercial PPO,Commercial,M,37,Midwest,0,2022,1,1
+M002460,CBP,Cardiovascular,Medicare Advantage,Medicare,M,27,West,0,2022,1,1
+M002461,AMM,Behavioral,Commercial PPO,Commercial,M,70,Midwest,0,2023,1,1
+M002462,CCS,Preventive,Exchange,Exchange,M,47,West,0,2024,1,1
+M002463,CCS,Preventive,Exchange,Exchange,M,57,Midwest,1,2023,1,1
+M002464,CDC-KED,Diabetes,Medicaid,Medicaid,M,48,West,0,2024,1,1
+M002465,FUH7,Behavioral,Exchange,Exchange,F,55,Midwest,0,2024,0,1
+M002466,CBP,Cardiovascular,Exchange,Exchange,F,42,Southwest,0,2022,1,1
+M002467,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,79,Northeast,0,2022,0,1
+M002468,CDC-EYE,Diabetes,Commercial HMO,Commercial,F,57,Southeast,0,2022,1,1
+M002469,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,19,West,0,2024,0,1
+M002470,CDC-EYE,Diabetes,Commercial HMO,Commercial,M,62,West,0,2024,1,1
+M002471,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,F,46,Southwest,0,2022,0,1
+M002472,FUH7,Behavioral,Commercial HMO,Commercial,F,75,Northeast,0,2024,1,1
+M002473,W34,Child/Adolescent,Exchange,Exchange,F,51,Northeast,0,2024,0,1
+M002474,FUH7,Behavioral,Exchange,Exchange,M,54,Midwest,0,2022,0,1
+M002475,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,59,Northeast,0,2022,0,1
+M002476,CCS,Preventive,Exchange,Exchange,M,61,Southeast,0,2024,0,1
+M002477,CCS,Preventive,Exchange,Exchange,F,78,West,0,2024,1,1
+M002478,W34,Child/Adolescent,Commercial PPO,Commercial,F,39,Midwest,0,2023,1,1
+M002479,BCS,Preventive,Medicare Advantage,Medicare,M,64,Midwest,0,2023,1,1
+M002480,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,F,80,Southwest,0,2024,1,1
+M002481,CBP,Cardiovascular,Medicare Advantage,Medicare,F,82,Southwest,0,2022,1,1
+M002482,AMM,Behavioral,Medicaid,Medicaid,M,75,Northeast,0,2023,1,1
+M002483,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,F,51,Northeast,0,2023,1,1
+M002484,FUH7,Behavioral,Commercial PPO,Commercial,F,74,West,0,2022,1,1
+M002485,CCS,Preventive,Medicaid,Medicaid,F,61,West,0,2024,0,1
+M002486,CDC-KED,Diabetes,Medicare Advantage,Medicare,F,43,Southwest,0,2024,1,1
+M002487,CDC-EYE,Diabetes,Commercial PPO,Commercial,M,21,Midwest,0,2024,1,1
+M002488,CDC-EYE,Diabetes,Commercial HMO,Commercial,F,64,West,0,2022,1,1
+M002489,CBP,Cardiovascular,Commercial HMO,Commercial,M,19,Southeast,0,2024,1,1
+M002490,CBP,Cardiovascular,Medicare Advantage,Medicare,F,63,West,0,2024,1,1
+M002491,CDC-EYE,Diabetes,Commercial HMO,Commercial,M,25,Southwest,0,2024,0,1
+M002492,FUH7,Behavioral,Exchange,Exchange,F,53,Southwest,0,2024,1,1
+M002493,CDC-EYE,Diabetes,Commercial PPO,Commercial,M,69,Southwest,0,2024,1,1
+M002494,FUH7,Behavioral,Commercial PPO,Commercial,F,33,Southeast,0,2024,1,1
+M002495,W34,Child/Adolescent,Medicare Advantage,Medicare,M,39,Southwest,0,2024,1,1
+M002496,W34,Child/Adolescent,Medicaid,Medicaid,F,34,Southwest,0,2022,1,1
+M002497,CBP,Cardiovascular,Exchange,Exchange,M,57,Southwest,0,2022,1,1
+M002498,W34,Child/Adolescent,Commercial PPO,Commercial,M,38,Southeast,0,2023,1,1
+M002499,CCS,Preventive,Medicare Advantage,Medicare,F,20,Midwest,0,2023,0,1
+M002500,CDC-KED,Diabetes,Exchange,Exchange,F,72,West,0,2023,1,1
+M002501,CDC-EYE,Diabetes,Exchange,Exchange,F,52,Southeast,0,2022,0,1
+M002502,W34,Child/Adolescent,Commercial HMO,Commercial,M,61,Southeast,0,2024,1,1
+M002503,CCS,Preventive,Commercial PPO,Commercial,F,50,West,0,2023,1,1
+M002504,CDC-EYE,Diabetes,Commercial PPO,Commercial,F,57,Southeast,0,2023,1,1
+M002505,CCS,Preventive,Commercial HMO,Commercial,F,36,Northeast,0,2023,1,1
+M002506,CDC-KED,Diabetes,Exchange,Exchange,M,23,Southwest,0,2023,1,1
+M002507,COL,Preventive,Exchange,Exchange,F,65,Southwest,0,2023,0,1
+M002508,CCS,Preventive,Commercial HMO,Commercial,M,84,Southeast,0,2024,1,1
+M002509,CDC-EYE,Diabetes,Commercial HMO,Commercial,F,63,Northeast,0,2023,1,1
+M002510,FUH7,Behavioral,Medicare Advantage,Medicare,F,70,West,0,2024,1,1
+M002511,CCS,Preventive,Commercial PPO,Commercial,M,31,Midwest,0,2024,1,1
+M002512,CDC-EYE,Diabetes,Commercial PPO,Commercial,M,71,Northeast,0,2022,0,1
+M002513,W34,Child/Adolescent,Medicaid,Medicaid,F,64,Northeast,0,2024,1,1
+M002514,FUH7,Behavioral,Medicare Advantage,Medicare,M,45,West,0,2022,0,1
+M002515,CDC-EYE,Diabetes,Commercial PPO,Commercial,F,67,West,0,2024,0,1
+M002516,CDC-EYE,Diabetes,Commercial HMO,Commercial,F,57,Midwest,0,2022,1,1
+M002517,BCS,Preventive,Commercial HMO,Commercial,M,38,Southeast,0,2024,1,1
+M002518,BCS,Preventive,Exchange,Exchange,M,61,Southeast,0,2023,1,1
+M002519,CBP,Cardiovascular,Medicare Advantage,Medicare,M,39,West,0,2023,1,1
+M002520,AMM,Behavioral,Commercial PPO,Commercial,F,47,Midwest,0,2024,1,1
+M002521,CDC-EYE,Diabetes,Commercial PPO,Commercial,F,25,West,0,2022,1,1
+M002522,COL,Preventive,Exchange,Exchange,M,69,West,0,2023,1,1
+M002523,CBP,Cardiovascular,Commercial HMO,Commercial,F,21,Southwest,0,2022,1,1
+M002524,CDC-KED,Diabetes,Commercial PPO,Commercial,F,78,West,0,2024,1,1
+M002525,BCS,Preventive,Exchange,Exchange,F,82,West,1,2022,0,1
+M002526,COL,Preventive,Medicaid,Medicaid,F,67,Southeast,0,2024,1,1
+M002527,CBP,Cardiovascular,Commercial HMO,Commercial,F,32,Southwest,0,2024,0,1
+M002528,FUH7,Behavioral,Commercial HMO,Commercial,F,74,Southeast,0,2024,1,1
+M002529,BCS,Preventive,Medicaid,Medicaid,F,79,Southwest,0,2024,0,1
+M002530,W34,Child/Adolescent,Medicare Advantage,Medicare,F,32,Northeast,0,2024,1,1
+M002531,CBP,Cardiovascular,Medicaid,Medicaid,F,51,Southeast,0,2024,1,1
+M002532,CDC-KED,Diabetes,Commercial PPO,Commercial,F,83,Southwest,0,2023,1,1
+M002533,CDC-EYE,Diabetes,Exchange,Exchange,M,47,West,0,2024,1,1
+M002534,FUH7,Behavioral,Medicaid,Medicaid,M,42,Southeast,0,2022,1,1
+M002535,CDC-EYE,Diabetes,Exchange,Exchange,F,70,Northeast,0,2022,0,1
+M002536,CDC-HbA1c,Diabetes,Exchange,Exchange,F,44,West,0,2023,1,1
+M002537,W34,Child/Adolescent,Commercial PPO,Commercial,M,73,West,0,2022,1,1
+M002538,FUH7,Behavioral,Commercial PPO,Commercial,M,67,Southwest,0,2024,0,1
+M002539,CDC-EYE,Diabetes,Commercial HMO,Commercial,F,29,Northeast,0,2024,0,1
+M002540,CDC-HbA1c,Diabetes,Exchange,Exchange,F,36,Southeast,0,2022,0,1
+M002541,W34,Child/Adolescent,Medicaid,Medicaid,F,32,Southeast,0,2022,0,1
+M002542,CCS,Preventive,Medicare Advantage,Medicare,M,25,Northeast,0,2023,1,1
+M002543,COL,Preventive,Commercial PPO,Commercial,F,78,West,1,2022,1,1
+M002544,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,F,26,West,0,2023,1,1
+M002545,BCS,Preventive,Exchange,Exchange,F,30,West,0,2024,1,1
+M002546,CBP,Cardiovascular,Medicare Advantage,Medicare,M,82,Midwest,0,2022,0,1
+M002547,AMM,Behavioral,Medicare Advantage,Medicare,F,41,Southeast,0,2024,1,1
+M002548,BCS,Preventive,Commercial PPO,Commercial,F,77,Southwest,0,2024,1,1
+M002549,FUH7,Behavioral,Commercial PPO,Commercial,F,83,Midwest,0,2022,1,1
+M002550,CDC-EYE,Diabetes,Exchange,Exchange,F,54,Southwest,0,2024,0,1
+M002551,CCS,Preventive,Commercial HMO,Commercial,F,26,Southeast,0,2022,1,1
+M002552,FUH7,Behavioral,Medicare Advantage,Medicare,M,50,Northeast,0,2024,0,1
+M002553,CDC-KED,Diabetes,Exchange,Exchange,F,62,Midwest,0,2023,0,1
+M002554,COL,Preventive,Medicare Advantage,Medicare,M,72,Southeast,0,2024,0,1
+M002555,W34,Child/Adolescent,Medicare Advantage,Medicare,M,37,Southeast,0,2022,0,1
+M002556,BCS,Preventive,Medicaid,Medicaid,F,69,West,0,2024,1,1
+M002557,FUH7,Behavioral,Commercial HMO,Commercial,M,26,Midwest,0,2023,1,1
+M002558,CDC-HbA1c,Diabetes,Exchange,Exchange,M,79,Southwest,0,2024,1,1
+M002559,COL,Preventive,Medicaid,Medicaid,M,19,Midwest,0,2024,1,1
+M002560,AMM,Behavioral,Medicare Advantage,Medicare,M,80,Southeast,0,2022,1,1
+M002561,CDC-KED,Diabetes,Exchange,Exchange,M,73,Southwest,0,2024,1,1
+M002562,COL,Preventive,Commercial PPO,Commercial,F,37,Southwest,0,2023,1,1
+M002563,CBP,Cardiovascular,Commercial HMO,Commercial,M,39,West,0,2024,1,1
+M002564,AMM,Behavioral,Commercial HMO,Commercial,M,35,Northeast,0,2024,0,1
+M002565,CDC-HbA1c,Diabetes,Medicaid,Medicaid,M,81,Southeast,0,2024,1,1
+M002566,CDC-KED,Diabetes,Commercial PPO,Commercial,F,65,Midwest,0,2022,1,1
+M002567,CCS,Preventive,Exchange,Exchange,M,36,Southeast,0,2022,1,1
+M002568,CBP,Cardiovascular,Exchange,Exchange,F,24,West,0,2024,1,1
+M002569,W34,Child/Adolescent,Medicare Advantage,Medicare,F,84,Midwest,0,2022,1,1
+M002570,COL,Preventive,Commercial PPO,Commercial,F,61,West,0,2024,0,1
+M002571,W34,Child/Adolescent,Commercial HMO,Commercial,F,24,Northeast,0,2022,0,1
+M002572,CDC-HbA1c,Diabetes,Commercial PPO,Commercial,M,27,Southeast,0,2023,1,1
+M002573,CCS,Preventive,Exchange,Exchange,F,57,Southeast,0,2024,0,1
+M002574,CBP,Cardiovascular,Medicaid,Medicaid,F,82,West,0,2023,1,1
+M002575,W34,Child/Adolescent,Commercial PPO,Commercial,F,21,Midwest,0,2024,1,1
+M002576,BCS,Preventive,Exchange,Exchange,F,52,Southeast,0,2022,0,1
+M002577,FUH7,Behavioral,Commercial PPO,Commercial,F,42,Midwest,0,2023,0,1
+M002578,AMM,Behavioral,Exchange,Exchange,F,68,Southeast,0,2022,0,1
+M002579,AMM,Behavioral,Medicaid,Medicaid,M,67,Midwest,0,2023,1,1
+M002580,CBP,Cardiovascular,Exchange,Exchange,F,19,West,0,2022,0,1
+M002581,W34,Child/Adolescent,Commercial PPO,Commercial,M,26,Midwest,0,2022,1,1
+M002582,CDC-KED,Diabetes,Medicare Advantage,Medicare,M,40,Southeast,0,2022,1,1
+M002583,COL,Preventive,Commercial HMO,Commercial,M,72,West,0,2022,0,1
+M002584,CDC-EYE,Diabetes,Medicaid,Medicaid,M,49,Southwest,0,2024,1,1
+M002585,CDC-HbA1c,Diabetes,Commercial HMO,Commercial,F,66,Southeast,0,2024,1,1
+M002586,AMM,Behavioral,Commercial HMO,Commercial,M,64,Southeast,0,2024,1,1
+M002587,CDC-HbA1c,Diabetes,Exchange,Exchange,F,31,Northeast,0,2023,1,1
+M002588,BCS,Preventive,Medicare Advantage,Medicare,F,81,West,0,2022,1,1
+M002589,CCS,Preventive,Medicare Advantage,Medicare,M,20,West,0,2023,1,1
+M002590,COL,Preventive,Commercial HMO,Commercial,F,53,Northeast,0,2024,1,1
+M002591,FUH7,Behavioral,Exchange,Exchange,M,60,Midwest,0,2024,0,1
+M002592,CCS,Preventive,Medicaid,Medicaid,F,82,Southeast,0,2024,1,1
+M002593,W34,Child/Adolescent,Commercial PPO,Commercial,M,34,Midwest,0,2023,1,1
+M002594,CBP,Cardiovascular,Exchange,Exchange,M,31,Northeast,0,2022,1,1
+M002595,CBP,Cardiovascular,Commercial HMO,Commercial,M,39,Southwest,1,2022,1,1
+M002596,CDC-EYE,Diabetes,Medicaid,Medicaid,F,43,Northeast,0,2023,0,1
+M002597,AMM,Behavioral,Commercial PPO,Commercial,F,78,Midwest,0,2024,1,1
+M002598,BCS,Preventive,Exchange,Exchange,M,77,Midwest,0,2022,1,1
+M002599,CDC-HbA1c,Diabetes,Exchange,Exchange,F,67,West,0,2024,1,1
+M002600,CDC-EYE,Diabetes,Commercial PPO,Commercial,F,74,Midwest,0,2023,1,1
+M002601,CBP,Cardiovascular,Commercial PPO,Commercial,F,29,West,0,2024,1,1
+M002602,W34,Child/Adolescent,Medicaid,Medicaid,M,81,Southwest,0,2024,1,1
+M002603,CDC-EYE,Diabetes,Commercial HMO,Commercial,F,35,Northeast,0,2022,0,1
+M002604,W34,Child/Adolescent,Medicaid,Medicaid,M,68,Southwest,0,2022,1,1
+M002605,COL,Preventive,Commercial PPO,Commercial,F,68,Northeast,0,2024,1,1
+M002606,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,71,Southwest,0,2024,1,1
+M002607,CDC-KED,Diabetes,Medicaid,Medicaid,M,81,Southeast,0,2024,1,1
+M002608,FUH7,Behavioral,Commercial HMO,Commercial,F,42,West,0,2022,1,1
+M002609,CDC-KED,Diabetes,Commercial HMO,Commercial,F,40,Southeast,0,2023,1,1
+M002610,CBP,Cardiovascular,Medicaid,Medicaid,F,24,Southeast,1,2024,0,1
+M002611,CDC-EYE,Diabetes,Exchange,Exchange,M,74,Midwest,0,2023,1,1
+M002612,CDC-EYE,Diabetes,Commercial PPO,Commercial,M,39,Southeast,0,2024,1,1
+M002613,BCS,Preventive,Exchange,Exchange,M,44,Southeast,0,2024,0,1
+M002614,CDC-EYE,Diabetes,Commercial PPO,Commercial,M,49,Northeast,0,2022,1,1
+M002615,AMM,Behavioral,Commercial PPO,Commercial,M,62,Southwest,0,2022,1,1
+M002616,CDC-HbA1c,Diabetes,Exchange,Exchange,M,34,Southeast,0,2022,1,1
+M002617,CDC-HbA1c,Diabetes,Exchange,Exchange,F,52,Southwest,0,2023,1,1
+M002618,CDC-EYE,Diabetes,Exchange,Exchange,F,18,Southwest,0,2023,1,1
+M002619,CDC-KED,Diabetes,Commercial PPO,Commercial,M,81,Northeast,0,2024,1,1
+M002620,COL,Preventive,Commercial PPO,Commercial,F,66,West,0,2023,1,1
+M002621,BCS,Preventive,Medicaid,Medicaid,M,76,Southeast,0,2024,0,1
+M002622,AMM,Behavioral,Medicaid,Medicaid,F,30,Southwest,0,2022,1,1
+M002623,CCS,Preventive,Medicaid,Medicaid,F,31,Northeast,0,2024,1,1
+M002624,CCS,Preventive,Medicare Advantage,Medicare,F,44,West,0,2022,1,1
+M002625,BCS,Preventive,Commercial PPO,Commercial,M,52,Northeast,0,2022,0,1
+M002626,AMM,Behavioral,Medicare Advantage,Medicare,M,30,Northeast,0,2024,1,1
+M002627,COL,Preventive,Medicaid,Medicaid,F,71,Midwest,0,2023,1,1
+M002628,COL,Preventive,Exchange,Exchange,F,33,Midwest,0,2023,1,1
+M002629,CDC-EYE,Diabetes,Exchange,Exchange,F,59,Southeast,0,2023,1,1
+M002630,CCS,Preventive,Commercial PPO,Commercial,F,33,Midwest,0,2022,0,1
+M002631,CDC-EYE,Diabetes,Exchange,Exchange,M,33,Southeast,0,2022,1,1
+M002632,CDC-EYE,Diabetes,Medicaid,Medicaid,F,79,Southwest,0,2023,1,1
+M002633,CDC-EYE,Diabetes,Medicare Advantage,Medicare,M,55,West,0,2022,1,1
+M002634,W34,Child/Adolescent,Medicaid,Medicaid,M,56,Southwest,0,2024,1,1
+M002635,CDC-KED,Diabetes,Commercial HMO,Commercial,M,41,Southeast,0,2022,1,1
+M002636,COL,Preventive,Medicaid,Medicaid,F,60,Southeast,0,2022,1,1
+M002637,COL,Preventive,Medicare Advantage,Medicare,M,84,West,0,2024,1,1
+M002638,CDC-HbA1c,Diabetes,Medicare Advantage,Medicare,M,69,Northeast,1,2022,0,1
+M002639,CDC-EYE,Diabetes,Exchange,Exchange,M,52,Northeast,0,2023,1,1
